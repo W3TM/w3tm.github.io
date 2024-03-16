@@ -1,0 +1,32 @@
+---
+title: "Education"
+format: html
+editor: source
+---
+
+## W5YI VE
+
+I was a volunteer examiner (VE) for several years via the W5YI-VEC and continue with active credentials.
+
+## ARRL CVE
+
+As of September 2023, I assumed the Coordinating Volunteer Examiner (CVE) role from K3YV.
+We have moved our exams to the [ARRL-VEC](https://www.arrl.org/volunteer-examiners).
+
+I'm pleased to say that our team has "minted" almost 10 hams.
+
+## NARC Elmering Committee
+
+[NARC](https://nittany-arc.net) has formed a new committee to help new hams get started.
+
+## New Ham Book
+
+Just for fun, I've started working on an electronic (web) book for new hams.
+The target audience was initially Penn State ARC members who aren't (yet) licensed.
+But I am expanding it to be suitable for a wide range of folks who aren't yet hams.
+
+You can find the work-in-progress here:
+
+<https://w3tm.github.io/new-ham-book/>
+
+Comments are welcome!

@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: "../docs"
+  render:
+    - "*.qmd"
+    - "posts/*.qmd"
+website:
+  title: "W3TM"
+  site-url: https://w3tm.github.io
+  description: "W3TM's ham radio blog"
+  navbar:
+    left:
+    - index.qmd
+    - text: "Stations"
+      menu:
+        - text: "Home"
+          href: home-stations.qmd
+        - text: "Mobile"
+          href: mobile-stations.qmd
+        - text: "Portable"
+          href: portable-stations.qmd
+        - text: "Remote"
+          href: remote-stations.qmd
+    - text: "Gear"
+      menu:
+        - rigs.qmd
+        - amplifiers.qmd
+        - accessories.qmd
+        - antennas.qmd
+        - computers.qmd
+        - power.qmd
+    - text: "Operating"
+      menu:
+        - ft-891.qmd
+        - ic-9700.qmd
+        - ic-705.qmd
+    - text: "Projects"
+      menu: 
+        - organizations.qmd
+        - events.qmd
+        - education.qmd
+    right:
+      - about.qmd
+      - icon: rss
+        href: index.xml
+      - icon: github
+        text: Github
+        href: https://github.com/W3TM/
+format:
+  html:
+    theme: default
+    number-sections: false
+    fig-align: center
+    toc: true
+    toc-depth: 3

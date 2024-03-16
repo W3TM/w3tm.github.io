@@ -1,0 +1,681 @@
+[
+  {
+    "objectID": "workbench.html",
+    "href": "workbench.html",
+    "title": "Workbench",
+    "section": "",
+    "text": "Inspired by the Ham Radio Workbench podcast bunch, here are a number of projects that are on my workbench. Really, some of these are aspirational. And some aren’t really things that go on a workbench."
+  },
+  {
+    "objectID": "workbench.html#kit-building",
+    "href": "workbench.html#kit-building",
+    "title": "Workbench",
+    "section": "Kit-building",
+    "text": "Kit-building\n\nQRP-Labs QDX"
+  },
+  {
+    "objectID": "workbench.html#remote-operations",
+    "href": "workbench.html#remote-operations",
+    "title": "Workbench",
+    "section": "Remote operations",
+    "text": "Remote operations\nThe ICOM IC-7300 connects via USB to the Acer laptop for logging and digital modes. This unfortunately precludes the use of the RemoteTx.net service. That service requires that the rig be connected to a Raspberry Pi via USB. So, I want to get a USB/printer switch so that I can decide whether to control the rig remotely via RemoteTx.net or use it locally."
+  },
+  {
+    "objectID": "workbench.html#modes-and-skills",
+    "href": "workbench.html#modes-and-skills",
+    "title": "Workbench",
+    "section": "Modes and skills",
+    "text": "Modes and skills\n\nMorse code\nI took the first two CWOps courses in Spring 2020, but I have only made two CW contacts. I’m slow to copy, and it’s hard, and so I’ve gotten discouraged.\nBut I haven’t given up.\n\n\nUnusual digital modes\n\n\nMore contesting\n\n\nRapid Activation and Deployment Amateur Radio (RaDAR)\nI have ambitions of organizing some operations in the spirit of RaDAR.\n\n\nSatellite operations\nThe addition of the new IC-9700 makes satellite operations a new frontier to explore."
+  },
+  {
+    "objectID": "workbench.html#station-enhancements",
+    "href": "workbench.html#station-enhancements",
+    "title": "Workbench",
+    "section": "Station enhancements",
+    "text": "Station enhancements\n\nNodeRed\nI was experimenting with NodeRed in the Winter of 2022-23, but have taken my server offline temporarily.\n\n\nGrounding\nI plan to install a new/improved Earth ground for my electrical service. Once that is done, then I will tie my RF/antenna ground to it."
+  },
+  {
+    "objectID": "rigs.html",
+    "href": "rigs.html",
+    "title": "Rigs",
+    "section": "",
+    "text": "This page describes my rigs and a bit about how I use them. There are separate sections for HF rigs, VHF/UHF rigs, HTs, hotspots, and speciality radios like APRS beacons and trackers."
+  },
+  {
+    "objectID": "rigs.html#hf",
+    "href": "rigs.html#hf",
+    "title": "Rigs",
+    "section": "HF",
+    "text": "HF\n\nFlexRadio 6400\n\n\n\nFlex-6400\n\n\nI acquired this radio used in the summer of 2021. It has the internal antenna tuning unit (ATU).\nIt connects to an SPE Expert Linear 1K amplifier on the Input 1 port.\n\n\nICOM IC-7300\n\n\n\nICOM IC-7300\n\n\nThis radio was new when I bought it in the summer of 2016.\nIt also connects to the SPE Expert Linear 1K amplifier on the Input 2 port.\n\n\nICOM IC-705\n\n\n\nICOM IC-705\n\n\nI bought this radio new in the fall of 2020. This radio currently sits on my desk in my upstairs office.\n\n\nElecraft KX2\n\n\n\nElecraft KX2\n\n\nI bought the Elecraft KX2 used in the summer of 2022.\n\n\nFlex 1500\n\n\n\nFlex 1500\n\n\nI’d heard great things about this little rig, so when one became available on QRZ.com, I bought it.\nI love the PowerSDR software that KE9NS has lovingly kept improving. You can drive the radio without ever moving your hands from the keyboard!\n\n\n\n\n\n\nNote\n\n\n\nYes, I have too many radios. Show me a ham who loves the hobby who doesn’t.\n\n\n\n\nQCX+\n\n\n\nQCX+\n\n\nIn the Winter of 2020, a group of club members built the QRP Labs QCX+ CW transceivers for the 40 m band."
+  },
+  {
+    "objectID": "rigs.html#vhfuhf",
+    "href": "rigs.html#vhfuhf",
+    "title": "Rigs",
+    "section": "VHF/UHF",
+    "text": "VHF/UHF\n\nICOM IC-9700\n\nThe IC-9700 is the newest rig in the shack. I’m planning some additional VHF and UHF work with it, including satellites, and possibly a future APRStt project. But for now, it’s in the shack being used for local repeater operations.\nI have experimented with remote control of this rig, but the latency is high.\nMore details about specific uses of the IC-9700 can be found here.\n\n\nICOM IC-705\n\n\n\nICOM IC-705\n\n\nThe IC-705 is also capable of VHF and UHF operations at up to 10 W. I use this rig to monitor the local VHF and UHF repeaters and to connect to the W3SWL-10 Winlink node.\n\n\nKenwood TM-710GA\n\n\n\nKenwood TM-710G\n\n\nThis VHF (2 m)/UHF (70 cm) transceiver was purchased new in the summer of 2016. It is installed in our Kia Forte. I usually beacon APRS packets when I am mobile under the callsign W3TM-1.\n\n\nYaesu FTM-400XDR\n\n\n\nYaesu FTM-400XDR\n\n\nI bought the FTM-400 new in the box from K3ARL in the summer of 2022. He had bought it as a gift for his business partner and friend, Eric Brooks N3EB. Sadly, N3EB died in the fall of 2021, and never got to enjoy the radio. N3EB was one of my Elmers, and so I am glad that I get to enjoy this rig and remember Eric. I use this rig to beacon APRS packets under W3TM-2.\n\n\nKenwood TM-281A\n\n\n\nKenwood TM-281A\n\n\nThe Kenwood TM-281A is a mobile radio, but I use it in my home shack to support my W3TM-11 I-Gate.\n\n\nTytera TYT TH-8600\n\n\n\nTytera TYT TH-8600\n\n\nThis radio is the core of a go-box I use in mobile/portable operations."
+  },
+  {
+    "objectID": "rigs.html#hts",
+    "href": "rigs.html#hts",
+    "title": "Rigs",
+    "section": "HTs",
+    "text": "HTs\n\nICOM ID-51A\n\n\n\nICOM ID-51A\n\n\n\n\nYaesu FT-70D\n\n\n\nYaesu FT-70D\n\n\n\n\nKenwood TH-72A\n\n\n\nKenwood TH-72A\n\n\nI bought the Kenwood TH-72A used several years ago. This rigs are notable for supporting full duplex, a desirable characteristic for FM satellite work."
+  },
+  {
+    "objectID": "rigs.html#hotspots",
+    "href": "rigs.html#hotspots",
+    "title": "Rigs",
+    "section": "Hotspots",
+    "text": "Hotspots\n\nClearNode\n\n\n\nClearNode Allstar hotspot/node\n\n\nI run a UHF ClearNode Allstar hotspot. My Allstar node number is 51401."
+  },
+  {
+    "objectID": "rigs.html#aprs-gear",
+    "href": "rigs.html#aprs-gear",
+    "title": "Rigs",
+    "section": "APRS gear",
+    "text": "APRS gear\n\nTNC-X kit\nI have an unbuilt TNC-X kit. This is a board that connects with a Raspberry Pi.\n\n\nByonics MicroTrak AIO\n\nThis is a 10 W APRS beacon.\nI have used this to beacon APRS packets at the NARC Field Day.\nOnce, when this was my only mobile APRS solution, I used this to plan a meeting with a person who had a short window of time to hand-off a piece of equipment. The beacon helped them time when to come down to meet me."
+  },
+  {
+    "objectID": "preface.html",
+    "href": "preface.html",
+    "title": "Preface",
+    "section": "",
+    "text": "I’ve wanted to be a ham since I was a teen.\nI started out as a shortwave listener with a long wire strung from my parents’ roof on our house in southwest Denver running to Yaesu FRG-7 receiver. Hearing the English language broadcast from Radio Tirana in Albania was one of the highlights.\nIn the spring of 1993, I got the ham bug again and studied for an passed my Technician Plus exam, including the 5 wpm code requirement. My callsign was N3QLO. But I had just gotten married and just started graduate school. So, I made one contact on a Radio Shack HT and largely forgot about ham radio. In fact, when my license renewal rolled around in 2003, I didn’t even bother to renew.\nThirteen years later, I’d gotten tenure, my kids were teens or out of the house, and I had a little more time and energy. I passed my Technician and General license exams in the summer of 2016, secured the vanity callsign K3ROG, and joined the Nittany Amateur Radio Club. This time, I made time for ham radio, and I’ve been rolling ever since. With the help of some study partners and my Elmer K3YV, I upgraded to Extra a year later.\nIn the winter of 2023, I changed callsigns again to W3TM, mostly on a lark. I saw that a callsign that was both phonetically short and CW-short was available, and so I decided to enter the callsign lottery when it became available. My understanding was that the chances were slim I would get the callsign, but I thought I would go for it anyway. Sure enough, there was only one other ham who was eligible, and I won the coin toss at the FCC. Ok, maybe they have a more sophisticated system of choosing randomly, but however it went down, whiskey-three-tango-mike was now my new call. And that call will remain until I am a silent key.\n\n\n\nW3TM QSL card"
+  },
+  {
+    "objectID": "posts/new-site-domain.html",
+    "href": "posts/new-site-domain.html",
+    "title": "New site and domain",
+    "section": "",
+    "text": "Hi, everyone. I grabbed the W3TM.org domain from name.com. Interestingly, W3TM.com was not available. That is a possibly interesting and longer story that I imagine could involve the former holder of this callsign.\nI migrated the site from some older code, and borrowed heavily for formatting ideas from the excellent Quarto site.\nThis will be the new home for documenting ham web activities once I get the site in good shape. Until then, I’ll be testing use of the GitHub pages site building feature. That means the site will live at https://w3tm.github.io for a bit."
+  },
+  {
+    "objectID": "organizations.html",
+    "href": "organizations.html",
+    "title": "Organizations",
+    "section": "",
+    "text": "Amateur radio has so many ways to be “radio-active”. Here are some of the ways I enjoy engaging in our amazing hobby."
+  },
+  {
+    "objectID": "organizations.html#american-radio-relay-league-arrl",
+    "href": "organizations.html#american-radio-relay-league-arrl",
+    "title": "Organizations",
+    "section": "American Radio Relay League (ARRL)",
+    "text": "American Radio Relay League (ARRL)\nI am an active member of the ARRL, and receive email from the ARRL reflector using my_callsign@arrl.net."
+  },
+  {
+    "objectID": "organizations.html#amateur-radio-emergency-service-ares",
+    "href": "organizations.html#amateur-radio-emergency-service-ares",
+    "title": "Organizations",
+    "section": "Amateur Radio Emergency Service (ARES)",
+    "text": "Amateur Radio Emergency Service (ARES)\nI participate in the weekly ARES net on the W3YA 146.85 repeater as a participating station and as a net control station.\nIn addition, I enjoy providing communications for various special events via the ARES organization."
+  },
+  {
+    "objectID": "organizations.html#nittany-amateur-radio-club-narc",
+    "href": "organizations.html#nittany-amateur-radio-club-narc",
+    "title": "Organizations",
+    "section": "Nittany Amateur Radio Club (NARC)",
+    "text": "Nittany Amateur Radio Club (NARC)\nI have been a member of NARC since 2016. I help maintain the club’s station on top of Pine Grove Mountain, and I have served on the Board of Directors since 2020.\nI was named the Ham of the Year (HOTY) for 2019, probably the last time I’ll ever be considered a “hottie”.\nAnd the club gave me a special award in 2023 for work above and beyond the call of toilet duty in servicing our porta potty prior to Field Day 2023. It’s a dirty job, but someone has to do it. And since I use the thing more often than most, believe me, it’s self-serving."
+  },
+  {
+    "objectID": "organizations.html#penn-state-amateur-radio-club-psarc",
+    "href": "organizations.html#penn-state-amateur-radio-club-psarc",
+    "title": "Organizations",
+    "section": "Penn State Amateur Radio Club (PSARC)",
+    "text": "Penn State Amateur Radio Club (PSARC)\nFor several years, I served as the faculty adviser for the Penn State ARC, and as trustee for the K3CR repeaters. Dave Cubanski has now taken over those duties."
+  },
+  {
+    "objectID": "organizations.html#quarter-century-wireless-association-qcwa",
+    "href": "organizations.html#quarter-century-wireless-association-qcwa",
+    "title": "Organizations",
+    "section": "Quarter Century Wireless Association (QCWA)",
+    "text": "Quarter Century Wireless Association (QCWA)\nOur local QCWA Chapter 203 has a weekly net on Sunday nights at 8:30 PM local time on the W3YA 146.85 MHz (-600 kHz; 146.2 Hz) repeater. I am one of the net control stations."
+  },
+  {
+    "objectID": "mobile-stations.html",
+    "href": "mobile-stations.html",
+    "title": "Mobile Stations",
+    "section": "",
+    "text": "A Kenwood TM-710GA is used in this vehicle for FM (VHF & UHF) voice communications. The rig also beacons APRS packets as W3TM-1. I usually have it configured with APRS voice alert."
+  },
+  {
+    "objectID": "mobile-stations.html#kia-forte",
+    "href": "mobile-stations.html#kia-forte",
+    "title": "Mobile Stations",
+    "section": "",
+    "text": "A Kenwood TM-710GA is used in this vehicle for FM (VHF & UHF) voice communications. The rig also beacons APRS packets as W3TM-1. I usually have it configured with APRS voice alert."
+  },
+  {
+    "objectID": "mobile-stations.html#honda-crv",
+    "href": "mobile-stations.html#honda-crv",
+    "title": "Mobile Stations",
+    "section": "Honda CRV",
+    "text": "Honda CRV\nA Yaesu FTM-400XDR is used in this vehicle for FM (VHF & UHF) voice communications. The rig also beacons APRS packets as W3TM-2. I usually have it configured with APRS voice alert."
+  },
+  {
+    "objectID": "ic-9700.html",
+    "href": "ic-9700.html",
+    "title": "IC-9700",
+    "section": "",
+    "text": "This page describes some mode-specific settings for the IC-9700 station."
+  },
+  {
+    "objectID": "ic-9700.html#aprs-tt",
+    "href": "ic-9700.html#aprs-tt",
+    "title": "IC-9700",
+    "section": "APRS-tt",
+    "text": "APRS-tt\n\nHardware\n\nRig\n\nIC-9700\nUSB A/B cable\n\n\n\n\n\n\n\nNote\n\n\n\nFrequency: 146.580 MHz Mode: FM-D (digital)\nConnectors/ USB AF/IF Output/Output Select: AF USB AF/IF Output/AF Output Level: 50% MOD Input/DATA MOD: USB USB Send/KEYING/USB SEND: USB (A) RTS USB Send/KEYING/Inhibit Timer at USB Connection: ON CI-V/CI-V DATA Echo Back: ON PTT Port Function: PTT Input + SEND Output\n\n\n\n\nPC\n\nAcer Windows 10 laptop\n\n\n\nAntenna\n\nComet antenna mounted externally\nConnected via coax patch panel\n\n\n\n\nSoftware\n\nPC System Settings\n\n\n\n\n\n\nNote\n\n\n\n# Right click Windows icon; select ‘Device Manager’; Select ‘Ports (COM & LPT)’ Silicon Labs SP210x USB to UART Bridge (COM4)\n# Right click Windows icon; select ‘Device Manager’; Select ‘Audio inputs and outputs’ IC-9700 (4- USB Audio CODEC) Microphone (4- USB Audio CODEC)\n# Enter ‘control panel’ in search window; Open ‘Hardware and Sound’; Select ‘Sound’\n# Under ‘Recording’ tab 1. Confirm that Microphone (4- USB Audio CODEC) is not default device 2. Click Properties button; select Levels tab 3. Set Microphone level to ~65% (adjust as needed)\n# Under ‘Playback’ tab 1. Confirm that IC-9700 is not default device 2. Click Properties button; select Levels tab 3. Set Speakers slider to ~50%\n\n\n\n\nApplication\n\nDirewolf 1.7\n\n\n\n\n\n\n\nNote\n\n\n\nParameters in direwolf.conf\nADEVICE (4- USB\nCHANNEL 0\nMYCALL W3TM-8\nMODEM 1200\nDTMF\nPTT COM4 RTS\nAGWPORT 8000 KISSPORT 8001\nCBEACON every=10 dest=“MORSE-6” info=“de W3TM-tt”\nIGSERVER noam.aprs2.net\n# Logged-in to APRS-IS to send packets. IGLOGIN W3TM-8 28828\nIGTXLIMIT 6 10\nTTPOINT B001 40.7177087 -77.891919 # mountaintop TTPOINT B002 40.7753191 -77.8561127 # South Hills TTPOINT B003 40.8055434 -77.88982 # Hoss’ TTPOINT B085 40.753017 -77.760620 # Little Flat 85 TTPOINT B076 40.9123402 -78.019739 # Rattlesnake 76\nTTAMBIG BAx\n# W3TM TTMACRO 001xx AC9386001109AB{dot}B0xxBA1 # W3EDP ———————————— TTMACRO 011xx AC9333701173AB{dot}B0xxBA1 # N3LI ———————————— TTMACRO 021xx AC6354002293AB{dot}B0xxBA1 # W3SWL TTMACRO 031xx AC9379501245AB{dot}B0xxBA1 # WA7HUB TTMACRO 041xx AC9274821322AB{dot}B0xx*BA1\nTTOBJ 0 IG CHANNEL 0 DWAIT 100\n\n\n\n\n\nOperating\n\nSwitch to 145.80 MHz, FM-D mode. Note: Memory channel 10 has this frequency but not FM-D stored!\nLaunch Direwolf from desktop\nConfirm that Direwolf has connected to audio devices.\nEnter DTMF tones to test or switch to 144.390 MHz to ensure that packets are being decoded."
+  },
+  {
+    "objectID": "ic-9700.html#winlink",
+    "href": "ic-9700.html#winlink",
+    "title": "IC-9700",
+    "section": "Winlink",
+    "text": "Winlink\n\nRig\n\nIC-9700\nUSB A/B cable\n\n\n\n\n\n\n\nNote\n\n\n\nFrequency: 145.090 MHz (this frequency is stored in one of the memories) Mode: FM-D (digital)\nConnectors/ USB AF/IF Output/Output Select: AF USB AF/IF Output/AF Output Level: 50% MOD Input/DATA MOD: USB USB Send/KEYING/USB SEND: USB (A) RTS USB Send/KEYING/Inhibit Timer at USB Connection: ON CI-V/CI-V DATA Echo Back: ON PTT Port Function: PTT Input + SEND Output\n\n\n\n\nPC\n\nAcer Windows 10 laptop\n\n\n\nAntenna\n\nComet antenna mounted externally\nConnected via coax patch panel\n\n\n\nSoftware\n\nPC System Settings\n\n\n\n\n\n\nNote\n\n\n\n# Right click Windows icon; select Device Manager; Select Ports (COM & LPT) Silicon Labs SP210x USB to UART Bridge (COM4)\n# Right click Windows icon; select Device Manager; Select Audio inputs and outputs IC-9700 (4- USB Audio CODEC) Microphone (4- USB Audio CODEC)\n# Enter ‘control panel’ in search window; Open Hardware and Sound; Select Sound\n# Under Recording tab 1. Confirm that Microphone (4- USB Audio CODEC) is not default device 2. Click Properties button; select Levels tab 3. Set Microphone level to ~65% (adjust as needed)\n# Under Playback tab 1. Confirm that IC-9700 is not default device 2. Click Properties button; select Levels tab 3. Set Speakers slider to ~50%\n\n\n\n\nApplication\n\nWinlink Express 1.7.12.0\n\n\n\n\n\n\n\nNote\n\n\n\nWinlink Express parameters.\n# Settings : Winlink Express Setup My Callsign: W3TM My Password: ******* Password recovery email: rogilmore@mac.com My Grid Square FN10BT Winlink Express registration key: HIDDEN\nThere are many other parameters but these are the most important ones.\n\n\n\nVARA FM\n\n\n\n\n\n\n\nNote\n\n\n\n# Under Settings VARA Setup… TCP Ports: Command: 8300 TCP Ports: Data: 8301\nFM System: NARROW Digipeater:  Retries: 2\nVARA Licenses: Callsign: W3TM Registration Key: *******\nSoundcard… Device Input: Microphone (4- USB Audio CODEC) Device Output: IC-9700 (4- USB Audio CODEC)\nPTT… PTT Via: CAT'&lt;/br&gt; Brand:Icom&lt;/br&gt; Port:COM4&lt;/br&gt; Model:IC-9700&lt;/br&gt; Baud:19200&lt;/br&gt; CI-V Address:A2`\nOddly enough, RTS is unchecked.\n\n\n\n\n\nOperating\n\nSwitch to memory channel 11 (145.090 MHz, W3SWL-10), FM-D mode\nLaunch Winlink Express from desktop\nOpen Session: Vara FM Winlink\nCheck rig RF power (10W is more than sufficient)\nWhen Var FM Winlink Session window opens, confirm that W3SWL-10 @ 145.090 is selected\nPress Start button to initiate QSO.\nTurn up AF gain to monitor QSO. You will hear sound from W3SWL-10, but not the output"
+  },
+  {
+    "objectID": "ic-9700.html#packet",
+    "href": "ic-9700.html#packet",
+    "title": "IC-9700",
+    "section": "Packet",
+    "text": "Packet\n\nRig\n\nIC-9700\nUSB A/B cable\n\n\n\n\n\n\n\nNote\n\n\n\nFrequency: 145.030 MHz (this frequency is stored in one of the memories) Mode: FM-D (digital)\nThe following settings do not change from Winlink or APRS-tt (via Direwolf)\nConnectors/ USB AF/IF Output/Output Select: AF USB AF/IF Output/AF Output Level: 50% MOD Input/DATA MOD: USB USB Send/KEYING/USB SEND: USB (A) RTS USB Send/KEYING/Inhibit Timer at USB Connection: ON CI-V/CI-V DATA Echo Back: ON PTT Port Function: ’PTT Input + SEND Output`\n\n\n\n\nPC\n\nAcer Windows 10 laptop\n\n\n\nAntenna\n\nComet antenna mounted externally\nConnected via coax patch panel\n\n\n\nSoftware\n\nPC System Settings\n\n\n\n\n\n\nNote\n\n\n\nThe following settings should not change from those for Winlink Express or APRS-tt.\n# Right click Windows icon; select Device Manager; Select Ports (COM & LPT) Silicon Labs SP210x USB to UART Bridge (COM4)\n# Right click Windows icon; select Device Manager; Select Audio inputs and outputs IC-9700 (4- USB Audio CODEC) Microphone (4- USB Audio CODEC)\n# Enter ‘control panel’ in search window; Open Hardware and Sound; Select Sound\n# Under Recording tab 1. Confirm that Microphone (4- USB Audio CODEC) is not default device 2. Click Properties button; select Levels tab 3. Set Microphone level to ~65% (adjust as needed)\n# Under Playback tab 1. Confirm that IC-9700 is not default device 2. Click Properties button; select Levels tab 3. Set Speakers slider to ~50%\n\n\n\n\nApplication\n\nUZ7HO version 1.13 SoundModem\n\n\n\n\n\n\n\nNote\n\n\n\nSoundModem parameters.\n# Settings menu: Devices Sound Card: Output device: IC-9700 (4-USB Audio CODEC) Sound Card: Input device: Microphone (4-USB Audio CODEC) Sound Card: Single channel output Sound Card: Color waterfall\nServer setup: AGWPE Server Port: 8000 and Enabled Server setup: KISS Server Port: 8001\nPTT Port: Select PTT port: COM4\n# Settings menu: Modems\n\n\n\nEasyTerm by UZ7HO Version 0.49b\n\n\n\n\n\n\n\nNote\n\n\n\nEasyTerm parameters.\n# Settings menu: Station Setup Terminal Callsign: W3TM\nBeacon Setup: Destination: BEACON Beacon Setup: Interval: 30 Beacon Setup: Ports: `1’\nTNC Setup: Host: 127.0.0.1 TNC Setup: Port: 8000 TNC Setup: Paclen: 80\n\n\n\n\n\nOperating\n\nSwitch to memory channel 7 (145.030 MHz, W3YA-3 Packet), FM-D mode\nLaunch SoundModem.\nLaunch EasyTerm\nCheck rig RF power (10W is more than sufficient)\nW3YA-3 and W3PHB-3 beacon regularly, so it’s good to see if you can decode them.\nWhen the channel is clear, press the ‘Connect’ button\nSelect target from ‘CallTo’ menu, usually W3YA-3 or W3PHB-3\nPress the ‘Connect’ button to connect.\nTurn up AF gain to monitor QSO. You will hear sound from the packet BBS, but not your own output (unless you have turned up the monitor level on the rig)."
+  },
+  {
+    "objectID": "home-stations.html",
+    "href": "home-stations.html",
+    "title": "Home Stations",
+    "section": "",
+    "text": "I have a small room in our basement set aside for my radio shack.\n\n\n\nOperating position at W3TM\n\n\n\n\nThe W3TM-11 APRS I-Gate uses the Kenwood TM-281A connected to a Mac Mini running Ubuntu and the direwolf software TNC. I have a 2 m/70 cm J-pole antenna on the roof of my house at about 6 m from the ground.\n\n\n\nSince fall of 2023, I have been experimenting with an APRS-tt (touch-tone) station using the IC-9700 connected to an Acer Laptop running Direwolf 1.7.\nThe station is configured to log-in to the APRS-IS network under W3TM-8. When the right sequence of DTMF tones is entered, I (and a couple of ham friends) are able to have our positions reported nearby some locations that are relevant to area hams: our mountaintop club station, the 146.85 W3YA and 146.76 W3GA repeaters, Hoss’s Restaurant, and the location where we hold our monthly club meetings.\nMore specific details about the rig and PC settings for this station can be found here.\n\n\n\nMy primary HF station that I am callig HF-1 just for fun uses the FlexRadio 6400 transceiver. The Flex drives an SPE Expert Linear 1K amplifier. The radio has an Inrad M629 microphone. An Acer laptop running SmartSDR 3.5.9 is used to control the radio.\n\n\n\n\n\nflowchart TD\n  A[Flex 6400] --- B[Acer PC]\n  A --- E(SmartControl)\n  A --- F[SPE Linear]\n  A --- C(Network Switch)\n  C --- D(Wifi Router)\n\n\n HF-1 Block Diagram \n\n\n\n\n\n\nMy second HF station runs an IC-7300. It also connects to the SPE Expert Linear 1K amplifier. I use either the stock hand mic or a Heil Proset iC headset with a footswitch.\n\n\n\n\n\nflowchart TD\n  A[IC-7300] --- B[Acer PC]\n  A --- H(Straight Key)\n  A --- I(Heil Proset iC Headphones)\n  A --- C[Alinco 12V Power Supply]\n  C --- D(Surge Protector)\n  D --- E(120V outlet)\n  A --- F[SPE Linear]\n  F --- G(220V outlet)\n\n\n HF-2 Block Diagram"
+  },
+  {
+    "objectID": "home-stations.html#shack",
+    "href": "home-stations.html#shack",
+    "title": "Home Stations",
+    "section": "",
+    "text": "I have a small room in our basement set aside for my radio shack.\n\n\n\nOperating position at W3TM\n\n\n\n\nThe W3TM-11 APRS I-Gate uses the Kenwood TM-281A connected to a Mac Mini running Ubuntu and the direwolf software TNC. I have a 2 m/70 cm J-pole antenna on the roof of my house at about 6 m from the ground.\n\n\n\nSince fall of 2023, I have been experimenting with an APRS-tt (touch-tone) station using the IC-9700 connected to an Acer Laptop running Direwolf 1.7.\nThe station is configured to log-in to the APRS-IS network under W3TM-8. When the right sequence of DTMF tones is entered, I (and a couple of ham friends) are able to have our positions reported nearby some locations that are relevant to area hams: our mountaintop club station, the 146.85 W3YA and 146.76 W3GA repeaters, Hoss’s Restaurant, and the location where we hold our monthly club meetings.\nMore specific details about the rig and PC settings for this station can be found here.\n\n\n\nMy primary HF station that I am callig HF-1 just for fun uses the FlexRadio 6400 transceiver. The Flex drives an SPE Expert Linear 1K amplifier. The radio has an Inrad M629 microphone. An Acer laptop running SmartSDR 3.5.9 is used to control the radio.\n\n\n\n\n\nflowchart TD\n  A[Flex 6400] --- B[Acer PC]\n  A --- E(SmartControl)\n  A --- F[SPE Linear]\n  A --- C(Network Switch)\n  C --- D(Wifi Router)\n\n\n HF-1 Block Diagram \n\n\n\n\n\n\nMy second HF station runs an IC-7300. It also connects to the SPE Expert Linear 1K amplifier. I use either the stock hand mic or a Heil Proset iC headset with a footswitch.\n\n\n\n\n\nflowchart TD\n  A[IC-7300] --- B[Acer PC]\n  A --- H(Straight Key)\n  A --- I(Heil Proset iC Headphones)\n  A --- C[Alinco 12V Power Supply]\n  C --- D(Surge Protector)\n  D --- E(120V outlet)\n  A --- F[SPE Linear]\n  F --- G(220V outlet)\n\n\n HF-2 Block Diagram"
+  },
+  {
+    "objectID": "home-stations.html#office",
+    "href": "home-stations.html#office",
+    "title": "Home Stations",
+    "section": "Office",
+    "text": "Office\nI have a home office that I also use as an operating position.\n\nHF 3 (QRP/VHF/UHF)\nA third HF station is located in my office. I’m running the IC-705. At the moment, the HF capability is receive-only, as I have a W6LVP receive only magnetic loop for the HF antenna. The VHF/UHF side of the rig is connected to a slim jim antenna. Both antennas connect via a diplexer.\n\n\nAllstar node\nI have a ClearNode UHF Allstar node on 51401. The node also supports EchoLink (W3TM-L).\nI used this node for the K3P Special Event station in June 2023. At least two hams connected via the node to participate in the event."
+  },
+  {
+    "objectID": "ft-891.html",
+    "href": "ft-891.html",
+    "title": "FT-891",
+    "section": "",
+    "text": "Power cable –&gt; battery\nUSB –&gt; PC\nDigirig data cable –&gt; Digirig (audio port)\n\n\n\n\n\n\n\nNote\n\n\n\nHere are the parameter settings on the rig interface. A long press on the F button brings up the extended menu.\n08-01 Data Mode: others 08-02 PSK Tone: 1500 08-03 Other Disp: 1500 08-04 Other Shift: 1500 08-06 Data LCUT Freq: 100 08-07 Data HCUT Freq: 3000 08-09 Data In Select: Rear 08-10 Data PTT Select: DAKY 08-11 Data Out Level: 50 08-12 Data BFO: USB 16-03 HF PWR: 30 16-10 Data Mic Gain: 50\nFront panel menu settings:\nAutomatic Gain Control (AGC): Off Band Width (WDH): 3000 hz Processor (PRC): Off Digital Noise Reduction (DNR): Off Front Meter (MTR): ALC1\n\n\n\n\n\n\nUSB from rig\nUSB-C from Digirig\n\n\n\n\n\nSuitable for band\n\n\n\n\n\n\n\n\nCheck ports and devices.\n\nRight click on Start Menu to open Device Manager.\nCheck Ports (COM and LPT)\nThere should be two Silicon Labs Dual CP2105 USB to UART Bridge ports, one labelled Standard, the other labelled Enhanced. The enhanced gives CAT control. Note the number. The default is COM 10.\nCheck Audio inputs and outputs\nThere should be two Digirig (USB Audio Devices).\n\n\n\n\nPower up the rig, if it’s not already powered up.\n\n\nTune to digital mode frequency, e.g. 7.070 MHz (PSK31).\nConfirm that mode is USB Data (D-U).\n\n\nOpen fldigi.\n\n\nConfirm that flrig launches, that fldigi launches, and that the frequency of the rig is reflected in flrig and fldigi.\n\n\n\n\n\n\n\nNote\n\n\n\nFlrig settings:\nConfigure menu / Setup / Transceiver\nRig: FT-891 Port: COM10 Baud: 9600 (note this is controlled on rig under menu 05-06 CAT RATE)\nIs flrig connected to rig? If so, Connected light will be green.\nIf not, press Init button to initiate/test connection.\n\n\n\nConfirm/edit fldigi settings\n\nSoundcard\n\n\n\n\n\n\nNote\n\n\n\nConfigure menu / Configure dialog / Soundcard / Devices\nPortAudio: Checked Capture: Digirig (USB Audio interface) Playback: Digirig (USB Audio interface)\nAudio device shared by Audio Alerts and Rx Monitor:\nEnable: If checked, select Speakers as output so as not to transmit system audio over the air.\n\n\nRig Control\n\n\n\n\n\n\nNote\n\n\n\nEnable flrig xcvr control with fldigi as client: Checked Shutdown flrig with fldigi: Checked\n\n\n\nTest transmit by pressing TUNE\n\nMonitor output on rig with F / MTR / PO. Power output on power meter should be comparable to output set on rig (~5-50 W). Rig menu is 16-03 HF PWR.\nAdjust the output level by switching to F / MTR / ALC. Press tune. Then use the sndvol applet on the PC to reduce the speaker output until the ALC is at a minimum. To launch sndvol type it into the search bar and press enter.\n::: {.callout-warning}\nBecause digital modes are high duty-cycle modes, it’s best to use less than the full 100 W of output power.\n\n\n\n\n\n\nNote\n\n\n\nIt can be useful to monitor the input (mic) and output (speaker) audio device levels on the PC.\nType “Control Panel” in the search bar. Open Hardware and Sound and open the Digirig output (from PC) or Speaker panel or the Digirig input (to PC) or Mic panel.\nPer Digirig instructions, the PC Speaker output is initially set at ~80%. But I have found that to reduce the ALC to a minimum means that my speaker level is ~15%.\nThe Mic level can be adjusted to achieve ideal “input” levels for a digital mode OR the rig RF Gain can be reduced. The latter control is more easily adjusted given different operating conditions.\nFull RF Gain results when the outer RF Gain knob on the rig is turned fully clockwise (to the right)."
+  },
+  {
+    "objectID": "ft-891.html#digital-operations",
+    "href": "ft-891.html#digital-operations",
+    "title": "FT-891",
+    "section": "",
+    "text": "Power cable –&gt; battery\nUSB –&gt; PC\nDigirig data cable –&gt; Digirig (audio port)\n\n\n\n\n\n\n\nNote\n\n\n\nHere are the parameter settings on the rig interface. A long press on the F button brings up the extended menu.\n08-01 Data Mode: others 08-02 PSK Tone: 1500 08-03 Other Disp: 1500 08-04 Other Shift: 1500 08-06 Data LCUT Freq: 100 08-07 Data HCUT Freq: 3000 08-09 Data In Select: Rear 08-10 Data PTT Select: DAKY 08-11 Data Out Level: 50 08-12 Data BFO: USB 16-03 HF PWR: 30 16-10 Data Mic Gain: 50\nFront panel menu settings:\nAutomatic Gain Control (AGC): Off Band Width (WDH): 3000 hz Processor (PRC): Off Digital Noise Reduction (DNR): Off Front Meter (MTR): ALC1\n\n\n\n\n\n\nUSB from rig\nUSB-C from Digirig\n\n\n\n\n\nSuitable for band\n\n\n\n\n\n\n\n\nCheck ports and devices.\n\nRight click on Start Menu to open Device Manager.\nCheck Ports (COM and LPT)\nThere should be two Silicon Labs Dual CP2105 USB to UART Bridge ports, one labelled Standard, the other labelled Enhanced. The enhanced gives CAT control. Note the number. The default is COM 10.\nCheck Audio inputs and outputs\nThere should be two Digirig (USB Audio Devices).\n\n\n\n\nPower up the rig, if it’s not already powered up.\n\n\nTune to digital mode frequency, e.g. 7.070 MHz (PSK31).\nConfirm that mode is USB Data (D-U).\n\n\nOpen fldigi.\n\n\nConfirm that flrig launches, that fldigi launches, and that the frequency of the rig is reflected in flrig and fldigi.\n\n\n\n\n\n\n\nNote\n\n\n\nFlrig settings:\nConfigure menu / Setup / Transceiver\nRig: FT-891 Port: COM10 Baud: 9600 (note this is controlled on rig under menu 05-06 CAT RATE)\nIs flrig connected to rig? If so, Connected light will be green.\nIf not, press Init button to initiate/test connection.\n\n\n\nConfirm/edit fldigi settings\n\nSoundcard\n\n\n\n\n\n\nNote\n\n\n\nConfigure menu / Configure dialog / Soundcard / Devices\nPortAudio: Checked Capture: Digirig (USB Audio interface) Playback: Digirig (USB Audio interface)\nAudio device shared by Audio Alerts and Rx Monitor:\nEnable: If checked, select Speakers as output so as not to transmit system audio over the air.\n\n\nRig Control\n\n\n\n\n\n\nNote\n\n\n\nEnable flrig xcvr control with fldigi as client: Checked Shutdown flrig with fldigi: Checked\n\n\n\nTest transmit by pressing TUNE\n\nMonitor output on rig with F / MTR / PO. Power output on power meter should be comparable to output set on rig (~5-50 W). Rig menu is 16-03 HF PWR.\nAdjust the output level by switching to F / MTR / ALC. Press tune. Then use the sndvol applet on the PC to reduce the speaker output until the ALC is at a minimum. To launch sndvol type it into the search bar and press enter.\n::: {.callout-warning}\nBecause digital modes are high duty-cycle modes, it’s best to use less than the full 100 W of output power.\n\n\n\n\n\n\nNote\n\n\n\nIt can be useful to monitor the input (mic) and output (speaker) audio device levels on the PC.\nType “Control Panel” in the search bar. Open Hardware and Sound and open the Digirig output (from PC) or Speaker panel or the Digirig input (to PC) or Mic panel.\nPer Digirig instructions, the PC Speaker output is initially set at ~80%. But I have found that to reduce the ALC to a minimum means that my speaker level is ~15%.\nThe Mic level can be adjusted to achieve ideal “input” levels for a digital mode OR the rig RF Gain can be reduced. The latter control is more easily adjusted given different operating conditions.\nFull RF Gain results when the outer RF Gain knob on the rig is turned fully clockwise (to the right)."
+  },
+  {
+    "objectID": "ft-891.html#footnotes",
+    "href": "ft-891.html#footnotes",
+    "title": "FT-891",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nFor testing, I often like to use PO↩︎"
+  },
+  {
+    "objectID": "engagement.html",
+    "href": "engagement.html",
+    "title": "Engagement",
+    "section": "",
+    "text": "Amateur radio has so many ways to be “radio-active”. Here are some of the ways I enjoy engaging in our amazing hobby."
+  },
+  {
+    "objectID": "engagement.html#organizations",
+    "href": "engagement.html#organizations",
+    "title": "Engagement",
+    "section": "Organizations",
+    "text": "Organizations\n\nAmerican Radio Relay League (ARRL)\nI am an active member of the ARRL.\n\n\nAmateur Radio Emergency Service (ARES)\nI participate in the weekly ARES net on the W3YA 146.85 repeater as a participating station and as a net control station.\nIn addition, I enjoy providing communications for various special events via the ARES organization.\n\n\nNittany Amateur Radio Club (NARC)\nI have been a member of NARC since 2016. I help maintain the club’s station on top of Pine Grove Mountain, and I have served on the Board of Directors since 2020.\n\n\nPenn State Amateur Radio Club (PSARC)\nFor several years, I served as the faculty adviser for the Penn State ARC, and as trustee for the K3CR repeaters.\n\n\nQuarter Century Wireless Association (QCWA)\nOur local QCQA Chapter 203 has a weekly net on Sunday nights at 8:30 PM local time on the W3YA 146.85 MHz repeater. I am one of the net control stations."
+  },
+  {
+    "objectID": "engagement.html#other-activities",
+    "href": "engagement.html#other-activities",
+    "title": "Engagement",
+    "section": "Other activities",
+    "text": "Other activities\n\nAutomatic Packet Reporting System (APRS)\nI operate a receive-only VHF (144.390 MHz) I-Gate under the callsign W3TM-11.\nIn December 2023, I started experimenting with supporting APRS-tt using the Direwolf software TNC. Early experiments look promising. We’re discussing setting up a network of APRS-tt iGates to provide better receive coverage in our very hilly area."
+  },
+  {
+    "objectID": "engagement.html#events",
+    "href": "engagement.html#events",
+    "title": "Engagement",
+    "section": "Events",
+    "text": "Events\n\nField Day\nFor the last several years, I have helped organize the NARC Field Day operation.\n\n\n\nNARC Field Day 2022\n\n\nIn the summer of 2020, during the height of COVID-19 pandemic restrictions, I operated from my backyard.\n\n\n\nField Day from home 2020\n\n\n\n\nWinter Field Day\nI enjoy Winter Field Day.\nIn January 2020, W3SWL, N3LI, and I operated Winter Field Day from a cabin in Prince Gallitzin State Park.\nIn 2021, my wife and I stayed at a cabin in Black Moshannon State Park where I operated Winter Field Day.\nIn 2022, friends KC3HIP and W3EDP stayed with us in an adjoining cabin at Black Moshannon State Park.\nWe weren’t able to operate in 2023, but hope to do so again in 2024.\n\n\nJamboree on the Air (JOTA)\nWith K3YV and W3EDP, we planned an event with local Cub Scout Pack 67 for October 2022. Illness forced a last minute cancellation, but carried out a JOTA activation for October 21, 2023 under the K3J special event callsign. About 15 cubs and their parents joined K3YV, W3EDP, KC3AF, and me at Circleville Park for some HF, VHF repeater, Morse Code, and FRS walkie-talkie fun.\n\n\nBirthplace of Memorial Day W3M\n\n\n\nW3M QSL Card\n\n\n\n\nFlight 93 20th Anniversary N3M\n\n\n\nN3M QSL card\n\n\nSeveral hams from NARC cooperated with hams from the Somerset County Amateur Radio club to commemorate the 20th anniversary of Flight 93 from a location near the memorial.\n\n\n\nN3M special event operation\n\n\n\n\nPenn State Dance Marathon K3T\nI helped the Penn State ARC secure the special event callsign K3T for an event honoring the Penn State Dance Marathon held in February 2023. The group of operators made several hundred QSOs, spreading positive news about ’Thon, Penn State, and the PSU club.\n\n\nPride K3P\nWith several friends from our local ham community, I organized a special event station to celebrate Pride Month in Central PA in early June 2023. My Allstar/EchoLink node was active, and a group of us did a Parks on the Air (POTA) activation at Bald Eagle State Park. We also had a booth at the State College Pride festival.\n\n\n\nK3P QSL card"
+  },
+  {
+    "objectID": "engagement.html#education",
+    "href": "engagement.html#education",
+    "title": "Engagement",
+    "section": "Education",
+    "text": "Education\n\nW5YI VE\nI was a volunteer examiner (VE) for several years via the W5YI-VEC and continue with active credentials.\n\n\nARRL CVE\nAs of September 2023, I will be taking over the Liaison VE role from K3YV. We have moved our exams to the ARRL-VEC.\n\n\nNew Ham Book\nJust for fun, I’ve started working on an electronic (web) book for new hams. The target audience was initially Penn State ARC members who aren’t (yet) licensed. But I am expanding it to be suitable for a wide range of folks who aren’t yet hams.\nYou can find the work-in-progress here:\nhttps://k3cr.github.io/newhambook/\nComments are welcome!"
+  },
+  {
+    "objectID": "engagement.html#awards",
+    "href": "engagement.html#awards",
+    "title": "Engagement",
+    "section": "Awards",
+    "text": "Awards\n\nNARC Ham of the Year (HOTY)\nI was named the Ham of the Year for 2019 by my local club.\n\n\nKing Crapper\nMy club gave me a special award in 2023 for work above and beyond the call of toilet duty in servicing our porta potty prior to Field Day 2023."
+  },
+  {
+    "objectID": "computers.html",
+    "href": "computers.html",
+    "title": "Computers",
+    "section": "",
+    "text": "Computers are an integral part of amateur radio. Here are some descriptions of the computers and software I use in my operations."
+  },
+  {
+    "objectID": "computers.html#windows",
+    "href": "computers.html#windows",
+    "title": "Computers",
+    "section": "Windows",
+    "text": "Windows\nI have an Acer laptop in my home shack that is the main control computer for the Flex-6400 and logging computer for the Flex-6400 and the IC-7300.\nI have an Evolve III netbook that I use for portable operations and to retrieve Winlink messages when I am at home using the IC-705 and the W3SWL-10 VHF Winlink node."
+  },
+  {
+    "objectID": "computers.html#mac-os",
+    "href": "computers.html#mac-os",
+    "title": "Computers",
+    "section": "Mac OS",
+    "text": "Mac OS\n\nMac mini\nMy W3TM-11 APRS I-Gate runs on a repurposed Mac Mini running Ubuntu 19.04 and the direwolf software TNC. It’s not fast, but it is extremely stable. Go Linux! I connect to it via VNC or local keyboard and mouse.\n\n\nMacbook Pro\nI bought a Macbook Pro in the summer of 2020 when my Penn State-issued laptop broke.\nI use it for personal activities, including amateur radio. It runs the SDR-Control software."
+  },
+  {
+    "objectID": "computers.html#ios",
+    "href": "computers.html#ios",
+    "title": "Computers",
+    "section": "iOS",
+    "text": "iOS\nI use my iPad to connect to my Flex-6400, my IC-705, and when I am connected to the NARC clubhouse station’s VPN, the club’s Flex-6400M and IC-7610. I can also use my iPhone for these purposes, but I prefer the larger iPad screen.\nThe SmartSDR and SDR-Control applications contain PSK31, RTTY, and FT8 clients."
+  },
+  {
+    "objectID": "computers.html#android",
+    "href": "computers.html#android",
+    "title": "Computers",
+    "section": "Android",
+    "text": "Android\nI have a small Lenovo tablet that I use for APRSDroid and NanoVNA connectivity."
+  },
+  {
+    "objectID": "computers.html#raspberry-pi",
+    "href": "computers.html#raspberry-pi",
+    "title": "Computers",
+    "section": "Raspberry Pi",
+    "text": "Raspberry Pi\nMy ClearNode Allstar node runs on a dedicated Raspberry Pi.\nI have a Raspberry Pi dedicated to the RemoteTx.net service connected to my IC-7300.\nMy HamClock application runs on a dedicated Raspberry Pi 3B+ with a 7” touchscreen.\nMy NodeRed server runs on a Raspberry Pi, but is currently offline."
+  },
+  {
+    "objectID": "computers.html#software",
+    "href": "computers.html#software",
+    "title": "Computers",
+    "section": "Software",
+    "text": "Software\n\nLogging\nI use Amateur Contact Log, more commonly known as N3FJP’s logging software for logging. The iOS apps I use with my Flex-6400 and IC-705 have built-in logs that I periodically export and then import into ACLog. At our club’s Field Day, I use N1MM+.\n\n\nDigital modes\n\nWSTJ-X\nJS8Call\nfldigi\nWinlink\n\nVARA FM\nVARA HF\n\nVarAC"
+  },
+  {
+    "objectID": "amplifiers.html",
+    "href": "amplifiers.html",
+    "title": "Amplifiers",
+    "section": "",
+    "text": "SPE Expert Linear 1K\n\n\nI bought this amplifier used in the summer of 2021.\nInput 1 connects to the Flex-6400, and Input 2 connects to the ICOM IC-7300."
+  },
+  {
+    "objectID": "amplifiers.html#spe-expert-linear-1k",
+    "href": "amplifiers.html#spe-expert-linear-1k",
+    "title": "Amplifiers",
+    "section": "",
+    "text": "SPE Expert Linear 1K\n\n\nI bought this amplifier used in the summer of 2021.\nInput 1 connects to the Flex-6400, and Input 2 connects to the ICOM IC-7300."
+  },
+  {
+    "objectID": "amplifiers.html#vhf-amplifier",
+    "href": "amplifiers.html#vhf-amplifier",
+    "title": "Amplifiers",
+    "section": "VHF amplifier",
+    "text": "VHF amplifier\nThis amplifier is part of an integrated “accessory” bench I built for the IC-705."
+  },
+  {
+    "objectID": "amplifiers.html#rm-italy-mla100",
+    "href": "amplifiers.html#rm-italy-mla100",
+    "title": "Amplifiers",
+    "section": "RM Italy MLA100",
+    "text": "RM Italy MLA100\n\n\n\nRM Italy MLA100"
+  },
+  {
+    "objectID": "amplifiers.html#rm-italy-kl-506",
+    "href": "amplifiers.html#rm-italy-kl-506",
+    "title": "Amplifiers",
+    "section": "RM Italy KL-506",
+    "text": "RM Italy KL-506\n\n\n\nRM Italy KL-506"
+  },
+  {
+    "objectID": "amplifiers.html#rm-italy-la-145",
+    "href": "amplifiers.html#rm-italy-la-145",
+    "title": "Amplifiers",
+    "section": "RM Italy LA 145",
+    "text": "RM Italy LA 145\n\n\n\nRM Italy LA-145"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "WTH?",
+    "section": "",
+    "text": "My name is Rick Gilmore. My callsign is W3TM. I am an FCC-licensed amateur radio operator, otherwise known as a ham. Not HAM. It’s not an abbreviation. Yes, people still do that. It’s an amazing hobby. Why is it called “ham” radio? There are lots of stories, but no one is sure. But if you’re a ham, you’re a ham all the way…\nThis site describes some of my ham radio activities."
+  },
+  {
+    "objectID": "accessories.html",
+    "href": "accessories.html",
+    "title": "Accessories",
+    "section": "",
+    "text": "Accessorize your ham shack, that’s what I hear the cool kids do."
+  },
+  {
+    "objectID": "accessories.html#hamclock",
+    "href": "accessories.html#hamclock",
+    "title": "Accessories",
+    "section": "HamClock",
+    "text": "HamClock"
+  },
+  {
+    "objectID": "accessories.html#antenna-tuners",
+    "href": "accessories.html#antenna-tuners",
+    "title": "Accessories",
+    "section": "Antenna tuners",
+    "text": "Antenna tuners"
+  },
+  {
+    "objectID": "accessories.html#light-duty-rotator",
+    "href": "accessories.html#light-duty-rotator",
+    "title": "Accessories",
+    "section": "Light duty rotator",
+    "text": "Light duty rotator"
+  },
+  {
+    "objectID": "accessories.html#tools",
+    "href": "accessories.html#tools",
+    "title": "Accessories",
+    "section": "Tools",
+    "text": "Tools\n\nHakko FX-888D Soldering Station"
+  },
+  {
+    "objectID": "accessories.html#mics-and-headsets",
+    "href": "accessories.html#mics-and-headsets",
+    "title": "Accessories",
+    "section": "Mics and headsets",
+    "text": "Mics and headsets\n\nInrad MDS-1\n\n\nHeil Proset"
+  },
+  {
+    "objectID": "antennas.html",
+    "href": "antennas.html",
+    "title": "Antennas",
+    "section": "",
+    "text": "MyAntennas 75-10m End-fed Half-wave 2K plus antenna\n\n\nI bought this antenna in the summer of 2022. This antenna is mounted in an inverted L configuration. The leg with the transformer is mounted at about 6 m on a mast near the corner of my back porch. The antenna crosses the yard to an apex about 15 m below a branch in a tree, then comes down to a base mounting point about 3 m above the ground.\nThis connects to the Antenna 1 input on the SPE Expert Linear 1K amplifier.\n\n\n\nI bought this antenna in 2021.\nThis antenna has resonant elements for 30, 20, 17, 15, 12, and 10 m. It is mounted in my backyard.\nThis connects to the Antenna 2 input on the SPE Expert Linear 1K amplifier.\nI use the amplifier to switch between the two antennas.\n\n\n\nThis antenna is mounted on an extendable fiberglass mast. The EFHW transformer for the HF antenna above is mounted below it.\n\n\n\nThis antenna provides input to my W3TM-11 APRS I-Gate.\n\n\n\n\n\n\nW6LVP magnetic loop antenna\n\n\nI have a W6LVP receive-only magnetic loop installed indoors. I bought this antenna used.\n\n\n\nThe EFHW 75-10 and the DX Commander are connected to an automatic disconnect actuator by Paradan. This is not the same as air-gapping the antennas, but it does give some additional protection. The unit grounds both antennas when the power to the Flex or IC-7300 is shut off.\nA workbench project is to buy a second one of these units for the VHF/UHF antennas.\n\n\n\nMy first antenna was a doublet cut to a length that fit in my backyard, just shy of the length needed for resonant operation on 75 m.\nThis antenna is currently out of service.\n\n\n\nThis antenna is currently out of service."
+  },
+  {
+    "objectID": "antennas.html#home",
+    "href": "antennas.html#home",
+    "title": "Antennas",
+    "section": "",
+    "text": "MyAntennas 75-10m End-fed Half-wave 2K plus antenna\n\n\nI bought this antenna in the summer of 2022. This antenna is mounted in an inverted L configuration. The leg with the transformer is mounted at about 6 m on a mast near the corner of my back porch. The antenna crosses the yard to an apex about 15 m below a branch in a tree, then comes down to a base mounting point about 3 m above the ground.\nThis connects to the Antenna 1 input on the SPE Expert Linear 1K amplifier.\n\n\n\nI bought this antenna in 2021.\nThis antenna has resonant elements for 30, 20, 17, 15, 12, and 10 m. It is mounted in my backyard.\nThis connects to the Antenna 2 input on the SPE Expert Linear 1K amplifier.\nI use the amplifier to switch between the two antennas.\n\n\n\nThis antenna is mounted on an extendable fiberglass mast. The EFHW transformer for the HF antenna above is mounted below it.\n\n\n\nThis antenna provides input to my W3TM-11 APRS I-Gate.\n\n\n\n\n\n\nW6LVP magnetic loop antenna\n\n\nI have a W6LVP receive-only magnetic loop installed indoors. I bought this antenna used.\n\n\n\nThe EFHW 75-10 and the DX Commander are connected to an automatic disconnect actuator by Paradan. This is not the same as air-gapping the antennas, but it does give some additional protection. The unit grounds both antennas when the power to the Flex or IC-7300 is shut off.\nA workbench project is to buy a second one of these units for the VHF/UHF antennas.\n\n\n\nMy first antenna was a doublet cut to a length that fit in my backyard, just shy of the length needed for resonant operation on 75 m.\nThis antenna is currently out of service.\n\n\n\nThis antenna is currently out of service."
+  },
+  {
+    "objectID": "antennas.html#mobile",
+    "href": "antennas.html#mobile",
+    "title": "Antennas",
+    "section": "Mobile",
+    "text": "Mobile\nI have antennas mounted on both of our vehicles."
+  },
+  {
+    "objectID": "antennas.html#portable",
+    "href": "antennas.html#portable",
+    "title": "Antennas",
+    "section": "Portable",
+    "text": "Portable\n\nSOTAbeams Bandhopper 80/40/30/20 Linked Dipole\n\n\n\nSOTAbeams Bandhopper 80/40/30/20m Linked Dipole\n\n\n\n\nChameleon Tactical Delta Loop\n\n\n\nChameleon Antennas Tactical Delta Loop (CHA TDL)\n\n\nThis antenna is also known as CHA TDL. I have the parts in a tripod bag I bought on Amazon.\n\n\nChameleon Antennas Modular Portable Antenna System Lite\nI also have the Lite version of the CHA MPAS System.\n\n\nPackTenna EFHW\nI have a Packtenna EFHW cut for 20 m. This is a QRP-only antenna.\n\n\nEnd-fed Random Wire\nI have a ~10 m random wire and a counterpoise of similar length. These have spade connectors that connect to an LDG RU-9:1 Unun.\nThis antenna is normally part of my set of portable wire antennas, but as of r Sys.Date(), I have installed this antenna on my back porch so that I can use the Elecraft KX2 and Yaesu FRG-7 out there.\n\n\n\\(M^2\\) SATPACK1\n\n\n\n\n\nAs of August 2023, I have acquired a SATPACK1, VHF and UHF antenna set for satellite work. The antenna is still under construction and undergoing testing. My intention is to use it for portable satellite operations or for a longer-term deployment during the winter. The extensive tree cover in and around my yard makes satellite contacts during the leafy months (April-October) almost impossible.\n\n\n“Alaskan” Arrow antenna\nI have the “Alaskan” version of the dual band (VHF/UHF) Arrow antenna. Mine has the split beam for easier transport and the built-in diplexer.\n\n\n\n\n\nI have assembled this antenna but have not yet gotten it on the air. It’s really a beast to manipulate by hand, and I am still working on a way to physically support it using a tripod or other means.\nIf I can solve that problem, I would like to pair this with my Kenwood TH-72A for some FM satellite work."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "I was a volunteer examiner (VE) for several years via the W5YI-VEC and continue with active credentials."
+  },
+  {
+    "objectID": "education.html#w5yi-ve",
+    "href": "education.html#w5yi-ve",
+    "title": "Education",
+    "section": "",
+    "text": "I was a volunteer examiner (VE) for several years via the W5YI-VEC and continue with active credentials."
+  },
+  {
+    "objectID": "education.html#arrl-cve",
+    "href": "education.html#arrl-cve",
+    "title": "Education",
+    "section": "ARRL CVE",
+    "text": "ARRL CVE\nAs of September 2023, I assumed the Coordinating Volunteer Examiner (CVE) role from K3YV. We have moved our exams to the ARRL-VEC.\nI’m pleased to say that our team has “minted” almost 10 hams."
+  },
+  {
+    "objectID": "education.html#narc-elmering-committee",
+    "href": "education.html#narc-elmering-committee",
+    "title": "Education",
+    "section": "NARC Elmering Committee",
+    "text": "NARC Elmering Committee\nNARC has formed a new committee to help new hams get started."
+  },
+  {
+    "objectID": "education.html#new-ham-book",
+    "href": "education.html#new-ham-book",
+    "title": "Education",
+    "section": "New Ham Book",
+    "text": "New Ham Book\nJust for fun, I’ve started working on an electronic (web) book for new hams. The target audience was initially Penn State ARC members who aren’t (yet) licensed. But I am expanding it to be suitable for a wide range of folks who aren’t yet hams.\nYou can find the work-in-progress here:\nhttps://w3tm.github.io/new-ham-book/\nComments are welcome!"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "For the last several years, I have helped organize the NARC Field Day operation.\n\n\n\nNARC Field Day 2022\n\n\nIn the summer of 2020, during the height of COVID-19 pandemic restrictions, I operated from my backyard.\n\n\n\nField Day from home 2020"
+  },
+  {
+    "objectID": "events.html#field-day",
+    "href": "events.html#field-day",
+    "title": "Events",
+    "section": "",
+    "text": "For the last several years, I have helped organize the NARC Field Day operation.\n\n\n\nNARC Field Day 2022\n\n\nIn the summer of 2020, during the height of COVID-19 pandemic restrictions, I operated from my backyard.\n\n\n\nField Day from home 2020"
+  },
+  {
+    "objectID": "events.html#winter-field-day",
+    "href": "events.html#winter-field-day",
+    "title": "Events",
+    "section": "Winter Field Day",
+    "text": "Winter Field Day\nI enjoy Winter Field Day.\nIn January 2020, W3SWL, N3LI, and I operated Winter Field Day from a cabin in Prince Gallitzin State Park.\nIn 2021, my wife and I stayed at a cabin in Black Moshannon State Park where I operated Winter Field Day.\nIn 2022, friends KC3HIP and W3EDP stayed with us in an adjoining cabin at Black Moshannon State Park.\nWe weren’t able to operate in 2023, but hope to do so again in 2024."
+  },
+  {
+    "objectID": "events.html#jamboree-on-the-air-jota",
+    "href": "events.html#jamboree-on-the-air-jota",
+    "title": "Events",
+    "section": "Jamboree on the Air (JOTA)",
+    "text": "Jamboree on the Air (JOTA)\nWith K3YV and W3EDP, we planned an event with local Cub Scout Pack 67 for October 2022. Illness forced a last minute cancellation, but carried out a JOTA activation for October 21, 2023 under the K3J special event callsign. About 15 cubs and their parents joined K3YV, W3EDP, KC3AF, and me at Circleville Park for some HF, VHF repeater, Morse Code, and FRS walkie-talkie fun."
+  },
+  {
+    "objectID": "events.html#birthplace-of-memorial-day-w3m",
+    "href": "events.html#birthplace-of-memorial-day-w3m",
+    "title": "Events",
+    "section": "Birthplace of Memorial Day W3M",
+    "text": "Birthplace of Memorial Day W3M\n\n\n\nW3M QSL Card"
+  },
+  {
+    "objectID": "events.html#flight-93-20th-anniversary-n3m",
+    "href": "events.html#flight-93-20th-anniversary-n3m",
+    "title": "Events",
+    "section": "Flight 93 20th Anniversary N3M",
+    "text": "Flight 93 20th Anniversary N3M\n\n\n\nN3M QSL card\n\n\nSeveral hams from NARC cooperated with hams from the Somerset County Amateur Radio club to commemorate the 20th anniversary of Flight 93 from a location near the memorial.\n\n\n\nN3M special event operation"
+  },
+  {
+    "objectID": "events.html#penn-state-dance-marathon-k3t",
+    "href": "events.html#penn-state-dance-marathon-k3t",
+    "title": "Events",
+    "section": "Penn State Dance Marathon K3T",
+    "text": "Penn State Dance Marathon K3T\nI helped the Penn State ARC secure the special event callsign K3T for an event honoring the Penn State Dance Marathon held in February 2023. The group of operators made several hundred QSOs, spreading positive news about ’Thon, Penn State, and the PSU club."
+  },
+  {
+    "objectID": "events.html#pride-k3p",
+    "href": "events.html#pride-k3p",
+    "title": "Events",
+    "section": "Pride K3P",
+    "text": "Pride K3P\nWith several friends from our local ham community, I organized a special event station to celebrate Pride Month in Central PA in early June 2023. My Allstar/EchoLink node was active, and a group of us did a Parks on the Air (POTA) activation at Bald Eagle State Park. We also had a booth at the State College Pride festival.\n\n\n\nK3P QSL card"
+  },
+  {
+    "objectID": "gear.html",
+    "href": "gear.html",
+    "title": "Gear",
+    "section": "",
+    "text": "Ham radio is a gear-centered activity. This section describes some of my gear."
+  },
+  {
+    "objectID": "ic-705.html",
+    "href": "ic-705.html",
+    "title": "IC-705",
+    "section": "",
+    "text": "This chapter describes some specific steps used with the IC-705."
+  },
+  {
+    "objectID": "ic-705.html#digitalpacket-modes",
+    "href": "ic-705.html#digitalpacket-modes",
+    "title": "IC-705",
+    "section": "Digital/Packet modes",
+    "text": "Digital/Packet modes\n\nWinlink/VARA\n\nConnect the Evolve III laptop via USB.\nSelect the APRS/Packet Memory Group.\nTune to 145.090 MHz (W3SWL-10).\nCheck whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is unload it.\nStart Winlink on the PC.\nOpen the VARA FM connector.\nStart the connection.\nWhen finished, close the connection.\n\n\n\nPacket radio\n\nConnect the Evolve III laptop via USB.\nSelect the APRS/Packet Memory Group.\nTune to 145.030 MHz (W3YA-1 and W3PHB-1 packet nodes).\nCheck whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is not, load it.\n\n\n\n\n\n\n\nNote\n\n\n\nThis preset primarily changes the radio’s CI-V port from the default for the IC-705 (A4) to 94, the value used for the IC-7300. The SoundModem application recognizes the IC-7300 CI-V value, but not the IC-705.\n\n\n\nLaunch SoundModem on the PC.\nMonitor the waterfall and the SoundModem window. After a few minutes, there should be packets appearing in the application window.\n\n\n\nDirewolf APRS\n\nConnect the Evolve III laptop via USB.\nSelect the APRS/Packet Memory Group.\nTune to 144.390 MHz.\nCheck whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is unload it.\nOpen the Direwolf configuration file and check that the settings are appropriate for the IC-705."
+  },
+  {
+    "objectID": "ic-705.html#local-vhfuhf-phone-operations",
+    "href": "ic-705.html#local-vhfuhf-phone-operations",
+    "title": "IC-705",
+    "section": "Local VHF/UHF phone operations",
+    "text": "Local VHF/UHF phone operations\n\nSelect the Centre Repeaters memory group.\nCheck whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is unload it.\nVerify that the radio is in FM mode, not FM-D mode. In FM-D mode, audio input is accepted only via USB (see below).\nOpen the audio scope (Menu/Audio) to monitor output audio.\nChoose the repeater you wish to use and make a test transmission.\n\n\n\n\n\n\n\nNote\n\n\n\nIf needed, check the connectors settings (Menu/Set/Connectors/MOD Input):\nDATA OFF MOD: MIC, USB DATA MOD: USB"
+  },
+  {
+    "objectID": "ic-705.html#hf-phone-operations",
+    "href": "ic-705.html#hf-phone-operations",
+    "title": "IC-705",
+    "section": "HF phone operations",
+    "text": "HF phone operations\n\n\n\n\n\n\nWarning\n\n\n\nThe loop antenna is receive-only. Do not transmit on HF unless you have changed to a transmit antenna."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "QTH",
+    "section": "",
+    "text": "New site and domain\n\n\n\n\n\n\nnews\n\n\nsite\n\n\n\nW3TM.org is now mine and will eventually be my web ham home.\n\n\n\n\n\nApr 16, 2024\n\n\nRick Gilmore W3TM\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "operating.html",
+    "href": "operating.html",
+    "title": "Operating",
+    "section": "",
+    "text": "This section includes rig-specific operating chapters. I use this to document specific steps for particular operating situations."
+  },
+  {
+    "objectID": "portable-stations.html",
+    "href": "portable-stations.html",
+    "title": "Portable Stations",
+    "section": "",
+    "text": "I have a Tytera TYT-8600 radio in a small go-box configuration with an included 12 Ah Bioenno \\(LiFePO_4\\) battery."
+  },
+  {
+    "objectID": "portable-stations.html#vhfuhf-go-box",
+    "href": "portable-stations.html#vhfuhf-go-box",
+    "title": "Portable Stations",
+    "section": "",
+    "text": "I have a Tytera TYT-8600 radio in a small go-box configuration with an included 12 Ah Bioenno \\(LiFePO_4\\) battery."
+  },
+  {
+    "objectID": "portable-stations.html#satellite-station",
+    "href": "portable-stations.html#satellite-station",
+    "title": "Portable Stations",
+    "section": "Satellite station",
+    "text": "Satellite station\nThe IC-9700 forms the heart of my still-in-progress satellite station. Also new is the CSN Technologies Self-contained Antenna Tracker (S.A.T.). This interfaces with the IC-9700 and an antenna rotator. It provides a web browser interface for most controls. Within a few minutes of connecting it, I was able to monitor DX traffic (Alabama!) on the ISS FM repeater using my vertically oriented Comet antenna.\n\n\n\nCSN Technologies S.A.T.\n\n\nFinally, I am assembling an \\(M^2\\) SATPACK1 antenna array. If my initial forays go well, I may think about upgrading to a system with Yagis that can be pointed at satellites."
+  },
+  {
+    "objectID": "portable-stations.html#packet",
+    "href": "portable-stations.html#packet",
+    "title": "Portable Stations",
+    "section": "Packet",
+    "text": "Packet\nI’ve recently assembled a portable VHF packet/APRS/Winlink station. The radio is the ICOM ID-51a. A Digirig device with a cable specifically designed for ICOM HTs provides sound card and PTT functions.\n\n\n\n\n\n\nNote\n\n\n\nThe ID-51a supports CAT control via CI-V, and Digirig could support this. But CAT control is overkill for this use case. It’s trivial to change the radio frequency manually, and the mode does not need to change.\nThe Digirig cable takes the grounded speaker line from the ID-51a and sends it as an RTS signal to the computer. So, once I’ve set the packet software to use the correct COM port on the PC, PTT works well. The virtue of this scheme is that it can also work with other HTs.\n\n\nAn Evolve III netbook running Windows 10 runs the relevant software. I’m using the UH7HO Soundmodem package for packet radio TNC services, Dire Wolf as an APRS TNC, and Outpost Packet Message Manager as a packet terminal client. I also use Winlink, and the VARA FM Winlink client, but of course, I could also use standard packet as the Winlink client.\nThe IC-705 can also work as a portable FM + HF packet station using the same PC. I’m experimenting with making different copies of Soundmodem and VARA FM and then naming them for the different rig configurations, as neither package supports switching between multiple rigs."
+  },
+  {
+    "objectID": "power.html",
+    "href": "power.html",
+    "title": "Power",
+    "section": "",
+    "text": "This section describes how I power my stations."
+  },
+  {
+    "objectID": "power.html#home",
+    "href": "power.html#home",
+    "title": "Power",
+    "section": "Home",
+    "text": "Home\n\n\n\n\n\n\nNote\n\n\n\nTODO: Provide details about Alinco power supplies."
+  },
+  {
+    "objectID": "power.html#mobile",
+    "href": "power.html#mobile",
+    "title": "Power",
+    "section": "Mobile",
+    "text": "Mobile\nThe Kenwood TM-710G is powered by a Bioenno \\(LiFePO_4\\) 30 Ah battery.\nThe Yaesu FTM-400XDR is powered by a Bioenno \\(LiFePO_4\\) 40 Ah battery.\nThe advantage of using these batteries for mobile operations is that I don’t have to worry about engine noise and I have a battery for other purposes.\nLately, I have been experimenting with recharging these batteries using foldable solar panels. As the experiments progress, I may consider keeping a solar panel in the car."
+  },
+  {
+    "objectID": "power.html#portable",
+    "href": "power.html#portable",
+    "title": "Power",
+    "section": "Portable",
+    "text": "Portable\n\nBatteries\nI have two Bioenno \\(LiFePO_4\\) 12 Ah batteries that I recently purchased during a Chameleon Antenna sale.\nMy Tytera-based Go-box has an embedded Bioenno \\(LiFePO_4\\) 12 Ah battery.\nI have a small, 6 Ah Bioenno battery that I often carry with the Elecraft KX-2.\n\n\nSolar panels\nI have a 120 W folding panel from Bionenno. I used it for Field Day from my backyard in 2020. The 30 Ah (orange) and 40 Ah (black) battery boxes can also be seen in the picture below.\n\n\n\nPowerWerx solar panels & BioEnno batteries\n\n\nI have two foldable 65 W solar panels that can be daisy-chained (in series). I used them in a recent portable operation in support of a mountain bike race.\n\n\nCharge controllers\nTwo charge controllers are available. One came with my Bioenno panels.\n\n\n\nBioenno Solar Charge Controller SC-4830JUD\n\n\nThe other is the BuddiPole PowerMini2.\n\n\n\nBuddiPole PowerMini2\n\n\nThe PowerMini2 is a great little charge controller, but it is pricey and not often available because of high demand."
+  },
+  {
+    "objectID": "remote-stations.html",
+    "href": "remote-stations.html",
+    "title": "Remote Stations",
+    "section": "",
+    "text": "One technical challenge I enjoy involves remote operations."
+  },
+  {
+    "objectID": "remote-stations.html#flex-6400",
+    "href": "remote-stations.html#flex-6400",
+    "title": "Remote Stations",
+    "section": "Flex-6400",
+    "text": "Flex-6400\nThe Flex-6400 can be remotely operated via the SmartConnect link embedded in the radio’s software.\nI especially enjoy using the Mac OS and iOS SmartSDR clients. They work extremely well."
+  },
+  {
+    "objectID": "remote-stations.html#icom-ic-705",
+    "href": "remote-stations.html#icom-ic-705",
+    "title": "Remote Stations",
+    "section": "ICOM IC-705",
+    "text": "ICOM IC-705\nThe same developer of the SmartSDR for Mac and iOS has developed a set of applications for remote access to selected ICOM transceivers called SDR-Control. The application runs on MacOS, iPad, and iPhone.\nI have successfully used SDR-Control to access my IC-705, and have tested it with another operator’s IC-7610."
+  },
+  {
+    "objectID": "remote-stations.html#icom-ic-7300",
+    "href": "remote-stations.html#icom-ic-7300",
+    "title": "Remote Stations",
+    "section": "ICOM IC-7300",
+    "text": "ICOM IC-7300\nThe IC-7300 does not have the network circuitry needed to permit “out-of-the-box” control like the IC-705 or IC-7610 using SDR-Control. Apparently, there is a USB control option that I have yet to explore.\nHowever, I do use and enjoy remote control of my IC-7300 using the RemoteTx.net service. This service allows me to access my IC-7300 from a web browser.\nI have experimented with remote control via an early version of the RigPi station server."
+  },
+  {
+    "objectID": "remote-stations.html#icom-ic-9700",
+    "href": "remote-stations.html#icom-ic-9700",
+    "title": "Remote Stations",
+    "section": "ICOM IC-9700",
+    "text": "ICOM IC-9700\nThe 9700 can be controlled remotely via the SDR-Control and SDR-Mobile apps."
+  },
+  {
+    "objectID": "remote-stations.html#narc-mountaintop-stations",
+    "href": "remote-stations.html#narc-mountaintop-stations",
+    "title": "Remote Stations",
+    "section": "NARC mountaintop stations",
+    "text": "NARC mountaintop stations\nSome colleagues and I have been experimenting with remote access to the NARC mountaintop station’s IC-7610 and Flex 6400M radios. Access to the IC-7610 is easy via the MacOS SDR-Control or iOS SDR-Mobile apps, but this requires connecting to the NARC VPN. Access to the Flex 6400M can be made via SmartLink and SmartSDR for Windows, Mac OS, or iOS. We have a very nice array of antennas “up at the mountain,” so this has been an enjoyable experiment."
+  },
+  {
+    "objectID": "stations.html",
+    "href": "stations.html",
+    "title": "Stations",
+    "section": "",
+    "text": "This section describes various stations that I use at home, mobile, while portable, and remotely."
+  }
+]

@@ -1,0 +1,130 @@
+---
+title: "Engagement"
+format: html
+editor: source
+---
+
+Amateur radio has so many ways to be "radio-active". Here are some of the ways I enjoy engaging in our amazing hobby.
+
+## Organizations
+
+### American Radio Relay League (ARRL)
+
+I am an active member of the [ARRL](https://arrl.org).
+
+### Amateur Radio Emergency Service (ARES)
+
+I participate in the weekly ARES net on the W3YA 146.85 repeater as a participating station and as a net control station.
+
+In addition, I enjoy providing communications for various special events via the ARES organization.
+
+### Nittany Amateur Radio Club (NARC)
+
+I have been a member of NARC since 2016. I help maintain the club's station on top of Pine Grove Mountain, and I have served on the Board of Directors since 2020.
+
+### Penn State Amateur Radio Club (PSARC)
+
+For several years, I served as the faculty adviser for the Penn State ARC, and as trustee for the K3CR repeaters.
+
+### Quarter Century Wireless Association (QCWA)
+
+Our local QCQA Chapter 203 has a weekly net on Sunday nights at 8:30 PM local time on the W3YA 146.85 MHz repeater. I am one of the net control stations. 
+
+## Other activities
+
+### Automatic Packet Reporting System (APRS)
+
+I operate a receive-only VHF (144.390 MHz) I-Gate under the callsign [W3TM-11](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FW3TM-11&timerange=3600&tail=3600).
+
+In December 2023, I started experimenting with supporting [APRS-tt](http://www.aprs.org/aprstt.html) using the [Direwolf](https://github.com/wb2osz/direwolf) software TNC.
+Early experiments look promising.
+We're discussing setting up a network of APRS-tt iGates to provide better receive coverage in our very hilly area.
+
+## Events
+
+### Field Day
+
+For the last several years, I have helped organize the NARC Field Day operation.
+
+![NARC Field Day 2022](img/narc-field-day-2022.jpeg){.fig-center}
+
+In the summer of 2020, during the height of COVID-19 pandemic restrictions, I operated from my backyard.
+
+![Field Day from home 2020](img/k3rog-field-day-2020.jpeg){.fig-center}
+
+### Winter Field Day
+
+I enjoy [Winter Field Day](https://www.winterfieldday.com).
+
+In January 2020, W3SWL, N3LI, and I operated Winter Field Day from a cabin in Prince Gallitzin State Park.
+
+In 2021, my wife and I stayed at a cabin in Black Moshannon State Park where I operated Winter Field Day.
+
+In 2022, friends KC3HIP and W3EDP stayed with us in an adjoining cabin at Black Moshannon State Park.
+
+We weren't able to operate in 2023, but hope to do so again in 2024.
+
+### Jamboree on the Air (JOTA)
+
+With K3YV and W3EDP, we planned an event with local Cub Scout Pack 67 for October 2022.
+Illness forced a last minute cancellation, but carried out a JOTA activation for October 21, 2023 under the K3J special event callsign.
+About 15 cubs and their parents joined K3YV, W3EDP, KC3AF, and me at Circleville Park for some HF, VHF repeater, Morse Code, and FRS walkie-talkie fun.
+
+### Birthplace of Memorial Day W3M
+
+![W3M QSL Card](img/w3m-qsl.png)
+
+### Flight 93 20th Anniversary N3M
+
+![N3M QSL card](img/n3m-qsl.png)
+
+Several hams from NARC cooperated with hams from the Somerset County Amateur Radio club to commemorate the 20th anniversary of Flight 93 from a location near the memorial.
+
+![N3M special event operation](img/n3m-2021.jpeg)
+
+### Penn State Dance Marathon K3T
+
+I helped the Penn State ARC secure the special event callsign K3T for an event honoring the Penn State Dance Marathon held in February 2023.
+The group of operators made several hundred QSOs, spreading positive news about 'Thon, Penn State, and the PSU club.
+
+### Pride K3P
+
+With several friends from our local ham community, I organized a special event station to celebrate Pride Month in Central PA in early June 2023.
+My Allstar/EchoLink node was active, and a group of us did a Parks on the Air (POTA) activation at Bald Eagle State Park.
+We also had a booth at the State College Pride festival.
+
+![K3P QSL card](img/k3p-qsl.png)
+
+## Education
+
+### W5YI VE
+
+I was a volunteer examiner (VE) for several years via the W5YI-VEC and continue with active credentials.
+
+### ARRL CVE
+
+As of September 2023, I will be taking over the Liaison VE role from K3YV.
+We have moved our exams to the ARRL-VEC.
+
+### New Ham Book
+
+Just for fun, I've started working on an electronic (web) book for new hams.
+The target audience was initially Penn State ARC members who aren't (yet) licensed.
+But I am expanding it to be suitable for a wide range of folks who aren't yet hams.
+
+You can find the work-in-progress here:
+
+<https://k3cr.github.io/newhambook/>
+
+Comments are welcome!
+
+## Awards
+
+### NARC Ham of the Year (HOTY)
+
+I was named the Ham of the Year for 2019 by my local club.
+
+### King Crapper
+
+My club gave me a special award in 2023 for work above and beyond the call of toilet duty in servicing our porta potty prior to Field Day 2023.
+

@@ -1,0 +1,113 @@
+---
+title: "Antennas"
+format: html
+editor: source
+---
+
+## Home
+
+### MyAntennas 75-10 End-fed Half-wave (EFHW) 2K plus
+
+![MyAntennas 75-10m End-fed Half-wave 2K plus antenna](https://myantennas.com/wp/wp-content/uploads/2020/09/EFHW-7510-2KPLUS-SS5.jpg)
+
+I bought this [antenna](https://myantennas.com/wp/product/efhw-7510-2k-plus/) in the summer of 2022.
+This antenna is mounted in an inverted L configuration. The leg with the transformer is mounted at about 6 m on a mast near the corner of my back porch. The antenna crosses the yard to an apex about 15 m below a branch in a tree, then comes down to a base mounting point about 3 m above the ground.
+
+This connects to the Antenna 1 input on the [SPE Expert Linear 1K amplifier](amplifiers.qmd#spe-expert-linear-1k).
+
+### DX Commander vertical
+
+I bought this antenna in 2021.
+
+This antenna has resonant elements for 30, 20, 17, 15, 12, and 10 m. It is mounted in my backyard.
+
+This connects to the Antenna 2 input on the [SPE Expert Linear 1K amplifier](amplifiers.qmd#spe-expert-linear-1k).
+
+I use the amplifier to switch between the two antennas.
+
+### Comet VHF/UHF
+
+This antenna is mounted on an extendable fiberglass mast. The EFHW transformer for the HF antenna [above](antennas.qmd#myantennas-80-10-end-fed-half-wave-efhw) is mounted below it.
+
+### VHF/UHF J-pole
+
+This antenna provides input to my [W3TM-11 APRS I-Gate](stations.qmd#aprs-i-gate).
+
+### Magnetic Loop
+
+![W6LVP magnetic loop antenna](https://www.w6lvp.com/wp-content/uploads/2017/02/inserter_main-1.png)
+
+I have a [W6LVP receive-only magnetic loop](https://www.w6lvp.com) installed indoors. 
+I bought this antenna used.
+
+### Paradan Dual Antenna Disconnector
+
+The [EFHW 75-10](antennas.qmd#myantennas-75-10-end-fed-half-wave-efhw-2k-plus) and the [DX Commander](antennas.qmd#dx-commander) are connected to an automatic disconnect actuator by [Paradan](https://paradanradio.com/products/dual-antenna-disconnector).
+This is not the same as air-gapping the antennas, but it does give some additional protection.
+The unit grounds both antennas when the power to the [Flex](rigs.qmd#flexradio-6400) or [IC-7300](rigs.qmd#icom-ic-7300) is shut off.
+
+A [workbench](workbench.qmd) project is to buy a second one of these units for the VHF/UHF antennas.
+
+### Doublet
+
+My first antenna was a doublet cut to a length that fit in my backyard, just shy of the length needed for resonant operation on 75 m.
+
+This antenna is currently out of service.
+
+### HyPower 20m/40m fan dipole
+
+This antenna is currently out of service.
+
+## Mobile
+
+I have antennas mounted on both of our vehicles.
+
+## Portable
+
+### SOTAbeams Bandhopper 80/40/30/20 Linked Dipole
+
+![SOTAbeams Bandhopper 80/40/30/20m Linked Dipole](https://static.dxengineering.com/global/images/prod/xlarge/sbm-bandhopper4_kj_xl.jpg)
+
+### Chameleon Tactical Delta Loop
+
+![Chameleon Antennas Tactical Delta Loop (CHA TDL)](https://static.dxengineering.com/global/images/prod/xlarge/cha-tdl_cu_xl.jpg)
+
+This antenna is also known as [CHA TDL](https://chameleonantenna.com/shop-here/ols/products/cha-tdl).
+I have the parts in a tripod bag I bought on Amazon.
+
+### Chameleon Antennas Modular Portable Antenna System Lite
+
+I also have the Lite version of the [CHA MPAS System](https://chameleonantenna.com/shop-here/ols/products/cha-mpas-modular-portable-antenna-system-20).
+
+### PackTenna EFHW
+
+I have a Packtenna EFHW cut for 20 m. 
+This is a QRP-only antenna.
+
+### End-fed Random Wire
+
+I have a ~10 m random wire and a counterpoise of similar length. 
+These have spade connectors that connect to an [LDG RU-9:1 Unun](https://www.dxengineering.com/parts/ldg-ru-9-1).
+
+This antenna is normally part of my set of portable wire antennas, but as of `r Sys.Date()`, I have installed this antenna on my back porch so that I can use the [Elecraft KX2](rigs.qmd#elecraft-kx2) and [Yaesu FRG-7](rigs.qmd#aesu-musen-frg-7) out there.
+
+### $M^2$ SATPACK1
+
+![](https://cdn2.bigcommerce.com/n-ou1isn/f95xaqb/products/232/images/648/WS_FGSATPACK1_IMAGE__91173.1445278338.1280.1280.png?c=2){fig-align="center"}
+
+As of August 2023, I have acquired a [SATPACK1](https://www.m2inc.com/FGSATPACK1), VHF and UHF antenna set for satellite work.
+The antenna is still under construction and undergoing testing.
+My intention is to use it for portable satellite operations or for a longer-term deployment during the winter.
+The extensive tree cover in and around my yard makes satellite contacts during the leafy months (April-October) almost impossible.
+
+### "Alaskan" Arrow antenna
+
+I have the ["Alaskan" version](https://www.arrowantennas.com/arrowii/alaskanarrow.html) of the dual band (VHF/UHF) Arrow antenna.
+Mine has the split beam for easier transport and the built-in diplexer.
+
+![](https://www.arrowantennas.com/gfx/146437-14-1.jpg){fig-align="center"}
+
+I have assembled this antenna but have not yet gotten it on the air.
+It's really a beast to manipulate by hand, and I am still working on a way to physically support it using a tripod or other means.
+
+If I can solve that problem, I would like to pair this with my [Kenwood TH-72A](rigs.qmd#kenwood-th72a) for some FM satellite work.

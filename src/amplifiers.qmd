@@ -1,0 +1,31 @@
+---
+title: "Amplifiers"
+format: html
+editor: source
+---
+
+## SPE Expert Linear 1K
+
+![SPE Expert Linear 1K](http://www.spetlc.com/images/clipart/Expert1K-FA-Small.jpg)
+
+I bought this amplifier used in the summer of 2021.
+
+Input 1 connects to the [Flex-6400](rigs.qmd#flexradio-6400), and Input 2 connects to the [ICOM IC-7300](rigs.qmd#icom-ic-7300).
+
+## VHF amplifier
+
+This amplifier is part of an integrated "accessory" bench I built for the [IC-705](rigs.qmd#icom-ic-705).
+
+## RM Italy MLA100
+
+![RM Italy MLA100](https://static.dxengineering.com/global/images/prod/xlarge/rmy-mla100v_ft_xl.jpg)
+
+## RM Italy KL-506
+
+![RM Italy KL-506](https://www.hspshop.it/WebRoot/StoreIT7/Shops/167668/604B/B59A/1C09/C0E4/3B1A/0A0A/B016/2AD3/rm_italy_KL506_linear_amplifier_Front_Cover_ml.png)
+
+## RM Italy LA 145
+
+![RM Italy LA-145](https://static.dxengineering.com/global/images/prod/xlarge/rmy-la-145_cd_xl.jpg)
+
+

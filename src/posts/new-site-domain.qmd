@@ -1,0 +1,25 @@
+---
+title: "New site and domain"
+description: "W3TM.org is now mine and will eventually be my web ham home."
+author: "Rick Gilmore W3TM"
+date: "2024-04-16"
+categories:
+  - news
+  - site
+---
+
+Hi, everyone.
+I grabbed the W3TM.org domain from name.com.
+Interestingly, W3TM.com was *not* available.
+That is a possibly interesting and longer story that I imagine could involve
+the former holder of this callsign.
+
+I migrated the site from some older code, and borrowed heavily for formatting
+ideas from the excellent [Quarto site](https://quarto.org).
+
+This will be the new home for documenting ham web activities once I get the site in good shape.
+Until then, I'll be testing use of the GitHub pages site building feature.
+That means the site will live at https://w3tm.github.io for a bit.
+
+
+

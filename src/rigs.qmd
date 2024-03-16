@@ -1,0 +1,159 @@
+---
+title: "Rigs"
+---
+
+This page describes my rigs and a bit about how I use them.
+There are separate sections for HF rigs, VHF/UHF rigs, HTs, hotspots, and speciality radios like APRS beacons and trackers.
+
+## HF
+
+### FlexRadio 6400
+
+![Flex-6400](https://edge.flexradio.com/www/offload/20221117142900/FlexRadio_products-2020_6400_45-left_9040-2400x2400px__08082.1594670218.1280.1280__62153.1668463138.1280.1280.jpg){.fig-center width=60%}
+
+I acquired this radio used in the summer of 2021. It has the internal antenna tuning unit (ATU).
+
+It connects to an [SPE Expert Linear 1K amplifier](amplifiers.qmd#spe-expert-linear-1k) on the Input 1 port.
+
+### ICOM IC-7300
+
+![ICOM IC-7300](https://static.dxengineering.com/global/images/prod/xlarge/ico-ic-7300_it_xl.jpg){.fig-center width=60%}
+
+This radio was new when I bought it in the summer of 2016.
+
+It also connects to the [SPE Expert Linear 1K amplifier](amplifiers.qmd#spe-expert-linear-1k) on the Input 2 port.
+
+### ICOM IC-705
+
+![ICOM IC-705](https://static.dxengineering.com/global/images/prod/xlarge/ico-ic-705_xl.jpg){.fig-center width=60%}
+
+I bought this radio new in the fall of 2020. This radio currently sits on my desk in my upstairs office.
+
+### Elecraft KX2
+
+![Elecraft KX2](https://cdn.shopify.com/s/files/1/2029/4979/products/kx2-product-hero_530x@2x.jpg?v=1549861527){.fig-center width=60%}
+
+I bought the Elecraft KX2 used in the summer of 2022.
+
+### Flex 1500
+
+![Flex 1500](https://k0pir.us/wp-content/uploads/2016/03/1500frontsmall-300x200.jpg){.fig-center width=60%}
+
+I'd heard great things about this little rig, so when one became available on QRZ.com, I bought it.
+
+I *love* the [PowerSDR software](https://ke9ns.com/flexpage.html) that KE9NS has lovingly kept improving.
+You can *drive* the radio without ever moving your hands from the keyboard!
+
+::: {.callout-note}
+
+Yes, I have too many radios.
+Show me a ham who loves the hobby who doesn't.
+
+:::
+
+### QCX+ 
+
+![QCX+](https://qrp-labs.com/images/qcxp/0/20200621_012756.jpg){.fig-center width=60%}
+
+In the Winter of 2020, a group of club members built the [QRP Labs](https://qrp-labs.com) QCX+ CW transceivers for the 40 m band.
+
+## VHF/UHF
+
+### ICOM IC-9700
+
+![](https://www.gigaparts.com/media/catalog/product/cache/dfaec006bd6782dbad92b9435baa8bcf/i/c/ic_9700.jpg){.fig-center width=60%}
+
+The IC-9700 is the newest rig in the shack.
+I'm planning some additional VHF and UHF work with it, including satellites, and possibly a future APRStt project.
+But for now, it's in the shack being used for local repeater operations.
+
+I have experimented with remote control of this rig, but the latency is high.
+
+More details about specific uses of the IC-9700 can be found [here](ic-9700.qmd).
+
+### ICOM IC-705
+
+![ICOM IC-705](https://static.dxengineering.com/global/images/prod/xlarge/ico-ic-705_xl.jpg){.fig-center width=60%}
+
+The IC-705 is also capable of VHF and UHF operations at up to 10 W.
+I use this rig to monitor the local VHF and UHF repeaters and to connect to the [W3SWL-10](https://aprs.fi/info/a/W3SWL-10) Winlink node.
+
+### Kenwood TM-710GA {}
+
+![Kenwood TM-710G](https://kasc.kenwood.com/files/website/categories/11/comm/amateur-vhf_uhf_mobiles2.png){.fig-center width=60%}
+
+This VHF (2 m)/UHF (70 cm) transceiver was purchased new in the summer of 2016.
+It is installed in our Kia Forte.
+I usually beacon APRS packets when I am mobile under the callsign [W3TM-1](https://aprs.fi/info/a/W3TM-1).
+
+### Yaesu FTM-400XDR
+
+![Yaesu FTM-400XDR](https://www.yaesu.com/ProductImages/FTM-400DRXDR_thumb.jpg){.fig-center width=60%}
+
+I bought the FTM-400 new in the box from K3ARL in the summer of 2022. 
+He had bought it as a gift for his business partner and friend, Eric Brooks N3EB.
+Sadly, N3EB died in the fall of 2021, and never got to enjoy the radio.
+N3EB was one of my Elmers, and so I am glad that I get to enjoy this rig and remember Eric.
+I use this rig to beacon APRS packets under [W3TM-2](https://aprs.fi/info/a/W3TM-2).
+
+### Kenwood TM-281A
+
+![Kenwood TM-281A](https://i.ebayimg.com/images/g/u1YAAOSwMvFivUWN/s-l500.jpg){.fig-center width=60%}
+
+The Kenwood TM-281A is a mobile radio, but I use it in my home shack to support my [W3TM-11 I-Gate](https://aprs.fi/info/a/W3TM-11).
+
+### Tytera TYT TH-8600
+
+![Tytera TYT TH-8600](https://m.media-amazon.com/images/I/61d1V-d4B4L._AC_SX679_.jpg){.fig-center width=60%}
+
+This radio is the core of a go-box I use in mobile/portable operations.
+
+## HTs
+
+### ICOM ID-51A
+
+![ICOM ID-51A](https://static.dxengineering.com/global/images/prod/xlarge/ico-id51aplus2bk_us_xl.jpg){.fig-center width=60%}
+
+### Yaesu FT-70D
+
+![Yaesu FT-70D](https://www.yaesu.com/ProductImages/FT-70DR_thumb.jpg){.fig-center}
+
+### Kenwood TH-72A
+
+![Kenwood TH-72A](https://www.kenwood.com/usa/com/amateur/th-d72a/images/image_product01_big.jpg){.fig-center}
+
+I bought the [Kenwood TH-72A](https://www.kenwood.com/usa/com/amateur/th-d72a/) used several years ago.
+This rigs are notable for supporting full duplex, a desirable characteristic for FM satellite work.
+
+## Hotspots
+
+### ClearNode
+
+![ClearNode Allstar hotspot/node](https://www.node-ventures.com/wp-content/uploads/2023/02/CN_1_med.jpg){.fig-center width=60%}
+
+I run a UHF [ClearNode](https://node-ventures.com) Allstar hotspot.
+My Allstar node number is 51401.
+
+## APRS gear
+
+### TNC-X kit
+
+I have an unbuilt TNC-X kit.
+This is a board that connects with a Raspberry Pi.
+
+### Byonics MicroTrak AIO
+
+![](https://www.byonics.com/images/mt-aio-2a.300.jpg){.fig-center width=60%}
+
+This is a 10 W APRS beacon.
+
+I have used this to beacon APRS packets at the NARC Field Day.
+
+Once, when this was my _only_ mobile APRS solution, I used this to plan a meeting with a person who had a short window of time to hand-off a piece of equipment.
+The beacon helped them time when to come down to meet me.
+
+<!-- ### Mobilinkd TNC2 -->
+
+<!-- ![](http://www.mobilinkd.com/wp-content/uploads/2019/04/IMG_20170405_205938.gif) -->
+<!-- This TNC2 can connect via Bluetooth with a computer, (iOS or Android) tablet, or (iOS or Android) phone and enables a simple HT to provide nearly full APRS capabilities. -->
+

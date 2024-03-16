@@ -1,0 +1,15 @@
+---
+title: "Mobile Stations"
+---
+
+## Kia Forte
+
+A [Kenwood TM-710GA](rigs.qmd#kenwood-tm-710ga) is used in this vehicle for FM (VHF & UHF) voice communications.
+The rig also beacons APRS packets as W3TM-1.
+I usually have it configured with APRS voice alert.
+
+## Honda CRV
+
+A [Yaesu FTM-400XDR](rigs.qmd#yaesu-FTM-400xdr) is used in this vehicle for FM (VHF & UHF) voice communications.
+The rig also beacons APRS packets as W3TM-2.
+I usually have it configured with APRS voice alert.

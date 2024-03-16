@@ -1,0 +1,72 @@
+---
+title: "IC-705"
+---
+
+This chapter describes some specific steps used with the IC-705.
+
+## Digital/Packet modes
+
+### Winlink/VARA
+
+1. Connect the Evolve III laptop via USB.
+2. Select the APRS/Packet Memory Group.
+3. Tune to 145.090 MHz (W3SWL-10).
+4. Check whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is *unload* it.
+5. Start Winlink on the PC.
+6. Open the VARA FM connector.
+7. Start the connection.
+8. When finished, close the connection.
+
+### Packet radio
+
+1. Connect the Evolve III laptop via USB.
+2. Select the APRS/Packet Memory Group.
+3. Tune to 145.030 MHz (W3YA-1 and W3PHB-1 packet nodes).
+4. Check whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is *not*, *load* it.
+
+::: {.callout-note}
+
+This preset primarily changes the radio's CI-V port from the default for the IC-705 (A4) to 94, the value used for the IC-7300.
+The SoundModem application recognizes the IC-7300 CI-V value, but not the IC-705.
+
+:::
+
+5. Launch SoundModem on the PC.
+6. Monitor the waterfall and the SoundModem window. After a few minutes, there should be packets appearing in the application window.
+
+### Direwolf APRS
+
+1. Connect the Evolve III laptop via USB.
+2. Select the APRS/Packet Memory Group.
+3. Tune to 144.390 MHz.
+4. Check whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is *unload* it.
+5. Open the Direwolf configuration file and check that the settings are appropriate for the IC-705.
+
+## Local VHF/UHF phone operations
+
+1. Select the Centre Repeaters memory group.
+2. Check whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is *unload* it.
+3. Verify that the radio is in FM mode, not FM-D mode. In FM-D mode, audio input is accepted only via USB (see below).
+3. Open the audio scope (Menu/Audio) to monitor output audio.
+4. Choose the repeater you wish to use and make a test transmission.
+
+::: {.callout-note}
+
+If needed, check the connectors settings (Menu/Set/Connectors/MOD Input):
+
+*DATA OFF MOD*: `MIC, USB`</br>
+*DATA MOD*: `USB`
+
+:::
+
+## HF phone operations
+
+::: {.callout-warning}
+
+The loop antenna is receive-only.
+Do **not** transmit on HF unless you have changed to a transmit antenna.
+
+:::
+
+
+

@@ -1,0 +1,40 @@
+---
+title: "Remote Stations"
+---
+
+One technical challenge I enjoy involves remote operations.
+
+## Flex-6400
+
+The [Flex-6400](rigs.qmd#flexradio-6400) can be remotely operated via the SmartConnect link embedded in the radio's software.
+
+I especially enjoy using the [Mac OS](https://roskosch.de/smartsdr-for-mac/) and [iOS](https://roskosch.de/smartsdr-features/) SmartSDR clients.
+They work extremely well.
+
+## ICOM IC-705
+
+The same developer of the SmartSDR for Mac and iOS has developed a set of applications for remote access to selected ICOM transceivers called SDR-Control.
+The application runs on [MacOS](https://roskosch.de/sdr-control/), [iPad](https://roskosch.de/sdr-control-ios/), and [iPhone](https://roskosch.de/sdr-control-mobile/).
+
+I have successfully used SDR-Control to access my [IC-705](rigs.qmd#icom-ic-705), and have tested it with another operator's IC-7610.
+
+## ICOM IC-7300
+
+The [IC-7300](rigs.qmd#icom-ic-7300) does not have the network circuitry needed to permit "out-of-the-box" control like the [IC-705](rigs.qmd#icom-ic-705) or IC-7610 using SDR-Control. Apparently, there is a USB control option that I have yet to explore.
+
+However, I do use and enjoy remote control of my [IC-7300](rigs.qmd#icom-ic-7300) using the [RemoteTx.net service](https://remotetx.net).
+This service allows me to access my IC-7300 from a web browser.
+
+I have experimented with remote control via an early version of the RigPi station server.
+
+## ICOM IC-9700
+
+The [9700](rigs.qmd#icom-ic-9700) can be controlled remotely via the SDR-Control and SDR-Mobile apps.
+
+## NARC mountaintop stations
+
+Some colleagues and I have been experimenting with remote access to the NARC mountaintop station's IC-7610 and Flex 6400M radios.
+Access to the IC-7610 is easy via the MacOS SDR-Control or iOS SDR-Mobile apps, but this requires connecting to the NARC VPN.
+Access to the Flex 6400M can be made via SmartLink and SmartSDR for Windows, Mac OS, or iOS.
+We have a very nice array of antennas "up at the mountain," so this has been an enjoyable experiment.
+

@@ -1,0 +1,46 @@
+---
+title: "Portable Stations"
+---
+
+## VHF/UHF Go-box
+
+I have a [Tytera TYT-8600](rigs.qmd#tytera-tyt-th-8600) radio in a small go-box configuration with an included 12 Ah Bioenno $LiFePO_4$ battery.
+
+## Satellite station
+
+The [IC-9700](rigs.qmd#icom-ic-9700) forms the heart of my still-in-progress satellite station.
+Also new is the [CSN Technologies Self-contained Antenna Tracker (S.A.T.)](http://www.csntechnologies.net/sat).
+This interfaces with the IC-9700 and an antenna rotator.
+It provides a web browser interface for most controls.
+Within a few minutes of connecting it, I was able to monitor DX traffic (Alabama!) on the ISS FM repeater using my vertically oriented Comet antenna.
+
+![CSN Technologies S.A.T.](http://www.csntechnologies.net/images/MatteBlackBoxTitle.png){fig-align="center"}
+
+Finally, I am assembling an [$M^2$ SATPACK1](https://www.m2inc.com/FGSATPACK1) antenna array.
+If my initial forays go well, I may think about upgrading to a system with Yagis that can be pointed at satellites.
+
+## Packet
+
+I've recently assembled a portable VHF packet/APRS/Winlink station.
+The radio is the [ICOM ID-51a](rigs.qmd#icom-id-51a).
+A [Digirig](https://digirig.net) device with a cable specifically designed for ICOM HTs provides sound card and PTT functions.
+
+::: {.callout-note}
+
+The ID-51a supports CAT control via CI-V, and Digirig could support this.
+But CAT control is overkill for this use case.
+It's trivial to change the radio frequency manually, and the mode does not need to change.
+
+The Digirig cable takes the grounded speaker line from the ID-51a and sends it as an RTS signal to the computer.
+So, once I've set the packet software to use the correct COM port on the PC, PTT works well.
+The virtue of this scheme is that it can also work with other HTs. 
+
+:::
+
+An Evolve III netbook running Windows 10 runs the relevant software.
+I'm using the [UH7HO Soundmodem](http://uz7.ho.ua/packetradio.htm) package for packet radio TNC services, [Dire Wolf](https://github.com/wb2osz/direwolf) as an APRS TNC, and [Outpost Packet Message Manager](https://www.outpostpm.org/index.php) as a packet terminal client. I also use [Winlink](https://www.winlink.org), and the [VARA FM](https://rosmodem.wordpress.com) Winlink client, but of course, I could also use standard packet as the Winlink client.
+
+The [IC-705](rigs.qmd#icom-ic-705) can also work as a portable FM + HF packet station 
+using the same PC.
+I'm experimenting with making different copies of Soundmodem and VARA FM and then naming them for the different rig configurations, as neither package supports switching between multiple rigs.
+

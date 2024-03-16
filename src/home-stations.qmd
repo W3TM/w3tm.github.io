@@ -1,0 +1,79 @@
+---
+title: "Home Stations"
+---
+
+## Shack
+
+I have a small room in our basement set aside for my radio shack.
+
+![Operating position at W3TM](img/home-shack-2023-12-reorg.jpeg)
+
+### APRS I-Gate
+
+The W3TM-11 APRS I-Gate uses the [Kenwood TM-281A](rigs.qmd#kenwood-tm-281a) connected to a Mac Mini running Ubuntu and the direwolf software TNC. I have a 2 m/70 cm J-pole antenna on the roof of my house at about 6 m from the ground.
+
+### APRS-tt station
+
+Since fall of 2023, I have been experimenting with an APRS-tt (touch-tone) station using the [IC-9700](rigs.qmd#icom-ic-9700) connected to an Acer Laptop running Direwolf 1.7.
+
+The station is configured to log-in to the APRS-IS network under W3TM-8. When the right sequence of DTMF tones is entered, I (and a couple of ham friends) are able to have our positions reported nearby some locations that are relevant to area hams: our mountaintop club station, the 146.85 W3YA and 146.76 W3GA repeaters, Hoss's Restaurant, and the location where we hold our monthly club meetings.
+
+More specific details about the rig and PC settings for this station can be found [here](ic-9700.qmd#aprs-tt).
+
+### HF 1
+
+My primary HF station that I am callig HF-1 just for fun uses the [FlexRadio 6400](rigs.qmd#flexradio-6400) transceiver.
+The Flex drives an [SPE Expert Linear 1K amplifier](amplifiers.qmd#spe-expert-linear-1k).
+The radio has an [Inrad M629](https://www.flexradio.com/wp-content/uploads/M629__29896.1676037008.1280.1280.jpg) microphone.
+An Acer laptop running [SmartSDR 3.5.9](https://www.flexradio.com/ssdr/ssdr-for-windows/) is used to control the radio.
+
+```{mermaid}
+%%| title: "HF-1 Connections"
+%%| fig-cap: "HF-1 Block Diagram"
+flowchart TD
+  A[Flex 6400] --- B[Acer PC]
+  A --- E(SmartControl)
+  A --- F[SPE Linear]
+  A --- C(Network Switch)
+  C --- D(Wifi Router)
+```
+
+### HF 2
+
+My second HF station runs an [IC-7300](rigs.qmd#icom-ic-7300).
+It also connects to the [SPE Expert Linear 1K amplifier](amplifiers.qmd#spe-expert-linear-1k).
+I use either the stock hand mic or a [Heil Proset iC](https://heilhamradio.com/product/pro-set/#dipipopup-9149) headset with a footswitch.
+
+```{mermaid}
+%%| title: "HF-2 Connections"
+%%| fig-cap: "HF-2 Block Diagram"
+flowchart TD
+  A[IC-7300] --- B[Acer PC]
+  A --- H(Straight Key)
+  A --- I(Heil Proset iC Headphones)
+  A --- C[Alinco 12V Power Supply]
+  C --- D(Surge Protector)
+  D --- E(120V outlet)
+  A --- F[SPE Linear]
+  F --- G(220V outlet)
+```
+
+
+## Office
+
+I have a home office that I also use as an operating position.
+
+### HF 3 (QRP/VHF/UHF)
+
+A third HF station is located in my office.
+I'm running the [IC-705](rigs.qmd#icom-ic-705).
+At the moment, the HF capability is receive-only, as I have a [W6LVP](https://www.w6lvp.com/product/w6lvp-amplified-receive-only-magnetic-loop-antenna/) receive only magnetic loop for the HF antenna.
+The VHF/UHF side of the rig is connected to a slim jim antenna.
+Both antennas connect via a diplexer.
+
+### Allstar node
+
+I have a [ClearNode](https://www.node-ventures.com/buy-clearnode/) UHF Allstar node on 51401.
+The node also supports EchoLink (W3TM-L).
+
+I used this node for the K3P Special Event station in June 2023. At least two hams connected via the node to participate in the event.

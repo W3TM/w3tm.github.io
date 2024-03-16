@@ -1,0 +1,147 @@
+---
+title: "FT-891"
+---
+
+## Digital operations
+
+### Hardware
+
+#### Rig
+
+1. Power cable --> battery
+2. USB --> PC
+3. Digirig data cable --> Digirig (audio port)
+
+::: {.callout-note}
+
+Here are the parameter settings on the rig interface.
+A long press on the `F` button brings up the extended menu.
+
+`08-01 Data Mode`: others</br>
+`08-02 PSK Tone`: 1500</br>
+`08-03 Other Disp`: 1500</br>
+`08-04 Other Shift`: 1500</br>
+`08-06 Data LCUT Freq`: 100</br>
+`08-07 Data HCUT Freq`: 3000</br>
+`08-09 Data In Select`: Rear</br>
+`08-10 Data PTT Select`: DAKY</br>
+`08-11 Data Out Level`: 50</br>
+`08-12 Data BFO: USB`</br>
+`16-03 HF PWR`: 30</br>
+`16-10 Data Mic Gain`: 50</br>
+
+*Front panel menu settings*:
+
+Automatic Gain Control (AGC): Off</br>
+Band Width (WDH): 3000 hz</br>
+Processor (PRC): Off</br>
+Digital Noise Reduction (DNR): Off</br>
+Front Meter (MTR): ALC^[For testing, I often like to use PO]
+
+:::
+
+#### PC
+
+1. USB from rig
+2. USB-C from Digirig
+
+#### Antenna
+
+- Suitable for band
+
+### Software
+
+#### PC System
+
+1. Check ports and devices.
+
+Right click on Start Menu to open Device Manager.
+
+*Check `Ports (COM and LPT)`*
+
+There should be two Silicon Labs Dual CP2105 USB to UART Bridge ports, one labelled Standard, the other labelled Enhanced. The enhanced gives CAT control. Note the number. The default is COM 10.
+
+*Check `Audio inputs and outputs`*
+
+There should be two Digirig (USB Audio Devices).
+
+#### fldigi
+
+1. Power up the rig, if it's not already powered up.
+
+a. Tune to digital mode frequency, e.g. 7.070 MHz (PSK31).
+b. Confirm that mode is USB Data (`D-U`).
+
+2. Open fldigi.
+
+a. Confirm that flrig launches, that fldigi launches, and that the frequency of the rig is reflected in flrig and fldigi.
+
+::: {.callout-note}
+
+*Flrig settings:*
+
+`Configure menu / Setup / Transceiver`
+
+`Rig`: FT-891</br>
+Port: COM10</br>
+`Baud`: 9600 (note this is controlled on rig under menu `05-06 CAT RATE`)
+
+Is flrig connected to rig? If so, `Connected` light will be green.
+
+If not, press `Init` button to initiate/test connection.
+
+:::
+
+b. Confirm/edit fldigi settings
+
+*Soundcard*
+
+::: {.callout-note}
+
+`Configure menu / Configure dialog / Soundcard / Devices`
+
+`PortAudio`: Checked</br>
+`Capture`: Digirig (USB Audio interface)</br>
+`Playback`: Digirig (USB Audio interface)
+
+`Audio device shared by Audio Alerts and Rx Monitor`:
+
+`Enable`: If checked, select `Speakers` as output so as not to transmit system audio over the air.
+
+:::
+
+*Rig Control*
+
+::: {.callout-note}
+
+`Enable flrig xcvr control with fldigi as client`: Checked</br>
+`Shutdown flrig with fldigi`: Checked</br>
+
+:::
+
+3. Test transmit by pressing `TUNE`
+
+Monitor output on rig with `F / MTR / PO`. Power output on power meter should be comparable to output set on rig (~5-50 W). Rig menu is `16-03 HF PWR`. 
+
+Adjust the output level by switching to `F / MTR / ALC`. Press tune. Then use the `sndvol` applet on the PC to reduce the speaker output until the ALC is at a minimum. To launch `sndvol` type it into the search bar and press enter.
+
+::: {.callout-warning}
+
+Because digital modes are high duty-cycle modes, it's best to use less than the full 100 W of output power.
+
+::: {.callout-note}
+
+It can be useful to monitor the input (mic) and output (speaker) audio device levels on the PC.
+
+Type "Control Panel" in the search bar. Open `Hardware and Sound` and open the Digirig output (from PC) or Speaker panel or the Digirig input (to PC) or Mic panel. 
+
+Per Digirig instructions, the PC Speaker output is initially set at ~80%. But I have found that to reduce the ALC to a minimum means that my speaker level is ~15%.
+
+The Mic level can be adjusted to achieve ideal "input" levels for a digital mode OR the rig RF Gain can be reduced. The latter control is more easily adjusted given different operating conditions.
+
+Full RF Gain results when the outer RF Gain knob on the rig is turned fully clockwise (to the right).
+
+::: 
+
+
+

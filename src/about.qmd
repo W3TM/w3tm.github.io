@@ -1,0 +1,22 @@
+---
+title: "WTH?"
+image: img/home-shack-2023-12-reorg.jpeg
+about:
+  template: jolla
+  links:
+    - text: QRZ.com
+      href: https://qrz.com/db/W3TM
+---
+
+My name is Rick Gilmore. 
+My callsign is W3TM.
+I am an FCC-licensed amateur radio operator, otherwise known as a ham.
+Not HAM.
+It's not an abbreviation.
+Yes, people still do that.
+It's an amazing hobby.
+Why is it called "ham" radio?
+There are lots of stories, but no one is sure.
+But if you're a ham, you're a ham all the way...
+
+This site describes some of my ham radio activities.
