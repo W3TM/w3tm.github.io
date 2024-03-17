@@ -515,7 +515,7 @@
     "href": "home-stations.html#office",
     "title": "Home Stations",
     "section": "Office",
-    "text": "Office\nI have a home office that I also use as an operating position.\n\nHF 3 (QRP/VHF/UHF)\nA third HF station is located in my office. I’m running the IC-705. At the moment, the HF capability is receive-only, as I have a W6LVP receive only magnetic loop for the HF antenna. The VHF/UHF side of the rig is connected to a slim jim antenna. Both antennas connect via a diplexer.\n\n\nAllstar node\nI have a ClearNode UHF Allstar node on 51401. The node also supports EchoLink (W3TM-L).\nI used this node for the K3P Special Event station in June 2023. At least two hams connected via the node to participate in the event."
+    "text": "Office\nI have a home office that I also use as an operating position.\n\nHF 3 (QRP/VHF/UHF)\nA third HF station is located in my office. I’m running the IC-705. At the moment, the HF capability is receive-only, as I have a W6LVP receive only magnetic loop for the HF antenna. The VHF/UHF side of the rig is connected to a slim jim antenna. Both antennas connect via a diplexer to the sole IC-705 antenna port.\n\n\n\n\n\nflowchart TD\n  A[IC-705] --- B[Macbook Pro 15]\n  A --- C[Wall AC Adapter]\n  A --- D[HF/VHF + UHF Diplexer]\n  D --- E[W6LVP HF Loop]\n  D --- F[Slim Jim]\n\n\n HF-3 Block Diagram \n\n\n\n\n\nAllstar node\nI have a ClearNode UHF Allstar node on 51401. The node also supports EchoLink (W3TM-L).\nI used this node for the K3P Special Event station in June 2023. At least two hams connected via the node to participate in the event."
   },
   {
     "objectID": "ic-9700.html",

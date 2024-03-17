@@ -329,7 +329,24 @@ ul.task-list li input[type="checkbox"] {
 <p>I have a home office that I also use as an operating position.</p>
 <section id="hf-3-qrpvhfuhf" class="level3">
 <h3 class="anchored" data-anchor-id="hf-3-qrpvhfuhf">HF 3 (QRP/VHF/UHF)</h3>
-<p>A third HF station is located in my office. I’m running the <a href="./rigs.html#icom-ic-705">IC-705</a>. At the moment, the HF capability is receive-only, as I have a <a href="https://www.w6lvp.com/product/w6lvp-amplified-receive-only-magnetic-loop-antenna/">W6LVP</a> receive only magnetic loop for the HF antenna. The VHF/UHF side of the rig is connected to a slim jim antenna. Both antennas connect via a diplexer.</p>
+<p>A third HF station is located in my office. I’m running the <a href="./rigs.html#icom-ic-705">IC-705</a>. At the moment, the HF capability is receive-only, as I have a <a href="https://www.w6lvp.com/product/w6lvp-amplified-receive-only-magnetic-loop-antenna/">W6LVP</a> receive only magnetic loop for the HF antenna. The VHF/UHF side of the rig is connected to a slim jim antenna. Both antennas connect via a diplexer to the sole IC-705 antenna port.</p>
+<div class="cell" title="HF-3 Connections" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+  A[IC-705] --- B[Macbook Pro 15]
+  A --- C[Wall AC Adapter]
+  A --- D[HF/VHF + UHF Diplexer]
+  D --- E[W6LVP HF Loop]
+  D --- F[Slim Jim]
+</pre>
+</div>
+<p></p><figcaption> HF-3 Block Diagram</figcaption> </figure><p></p>
+</div>
+</div>
+</div>
 </section>
 <section id="allstar-node" class="level3">
 <h3 class="anchored" data-anchor-id="allstar-node">Allstar node</h3>
