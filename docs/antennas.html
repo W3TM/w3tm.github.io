@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,13 +45,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
+  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -60,7 +54,6 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
-    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -70,42 +63,16 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
 </head>
 
 <body class="nav-fixed">
 
+
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
+      <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">W3TM</span>
     </a>
@@ -117,101 +84,101 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">QTH</span></a>
+    <a class="nav-link" href="./index.html" rel="" target="">
+ <span class="menu-text">QTH</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-stations" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-stations" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Stations</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-stations">    
         <li>
-    <a class="dropdown-item" href="./home-stations.html">
+    <a class="dropdown-item" href="./home-stations.html" rel="" target="">
  <span class="dropdown-text">Home</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./mobile-stations.html">
+    <a class="dropdown-item" href="./mobile-stations.html" rel="" target="">
  <span class="dropdown-text">Mobile</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./portable-stations.html">
+    <a class="dropdown-item" href="./portable-stations.html" rel="" target="">
  <span class="dropdown-text">Portable</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./remote-stations.html">
+    <a class="dropdown-item" href="./remote-stations.html" rel="" target="">
  <span class="dropdown-text">Remote</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-gear" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-gear" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Gear</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-gear">    
         <li>
-    <a class="dropdown-item" href="./rigs.html">
+    <a class="dropdown-item" href="./rigs.html" rel="" target="">
  <span class="dropdown-text">Rigs</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./amplifiers.html">
+    <a class="dropdown-item" href="./amplifiers.html" rel="" target="">
  <span class="dropdown-text">Amplifiers</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./accessories.html">
+    <a class="dropdown-item" href="./accessories.html" rel="" target="">
  <span class="dropdown-text">Accessories</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./antennas.html">
+    <a class="dropdown-item" href="./antennas.html" rel="" target="">
  <span class="dropdown-text">Antennas</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./computers.html">
+    <a class="dropdown-item" href="./computers.html" rel="" target="">
  <span class="dropdown-text">Computers</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./power.html">
+    <a class="dropdown-item" href="./power.html" rel="" target="">
  <span class="dropdown-text">Power</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-operating" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-operating" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Operating</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-operating">    
         <li>
-    <a class="dropdown-item" href="./ft-891.html">
+    <a class="dropdown-item" href="./ft-891.html" rel="" target="">
  <span class="dropdown-text">FT-891</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./ic-9700.html">
+    <a class="dropdown-item" href="./ic-9700.html" rel="" target="">
  <span class="dropdown-text">IC-9700</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./ic-705.html">
+    <a class="dropdown-item" href="./ic-705.html" rel="" target="">
  <span class="dropdown-text">IC-705</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-engagement" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-engagement" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Engagement</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-engagement">    
         <li>
-    <a class="dropdown-item" href="./organizations.html">
+    <a class="dropdown-item" href="./organizations.html" rel="" target="">
  <span class="dropdown-text">Organizations</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./events.html">
+    <a class="dropdown-item" href="./events.html" rel="" target="">
  <span class="dropdown-text">Events</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./education.html">
+    <a class="dropdown-item" href="./education.html" rel="" target="">
  <span class="dropdown-text">Education</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./workbench.html">
+    <a class="dropdown-item" href="./workbench.html" rel="" target="">
  <span class="dropdown-text">Workbench</span></a>
   </li>  
     </ul>
@@ -219,23 +186,23 @@ window.Quarto = {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">WTH?</span></a>
+    <a class="nav-link" href="./about.html" rel="" target="">
+ <span class="menu-text">WTH?</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="./index.xml" rel="" target=""><i class="bi bi-rss" role="img">
 </i> 
-<span class="menu-text"></span></a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://github.com/W3TM/"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/W3TM/" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
-<span class="menu-text">Github</span></a>
+ <span class="menu-text">Github</span></a>
   </li>  
 </ul>
-          </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
+          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -291,9 +258,7 @@ window.Quarto = {
   </div>
   
 
-
 </header>
-
 
 <section id="home" class="level2">
 <h2 class="anchored" data-anchor-id="home">Home</h2>
@@ -302,7 +267,7 @@ window.Quarto = {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://myantennas.com/wp/wp-content/uploads/2020/09/EFHW-7510-2KPLUS-SS5.jpg" class="img-fluid figure-img"></p>
-<figcaption>MyAntennas 75-10m End-fed Half-wave 2K plus antenna</figcaption>
+<figcaption class="figure-caption">MyAntennas 75-10m End-fed Half-wave 2K plus antenna</figcaption>
 </figure>
 </div>
 <p>I bought this <a href="https://myantennas.com/wp/product/efhw-7510-2k-plus/">antenna</a> in the summer of 2022. This antenna is mounted in an inverted L configuration. The leg with the transformer is mounted at about 6 m on a mast near the corner of my back porch. The antenna crosses the yard to an apex about 15 m below a branch in a tree, then comes down to a base mounting point about 3 m above the ground.</p>
@@ -328,7 +293,7 @@ window.Quarto = {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.w6lvp.com/wp-content/uploads/2017/02/inserter_main-1.png" class="img-fluid figure-img"></p>
-<figcaption>W6LVP magnetic loop antenna</figcaption>
+<figcaption class="figure-caption">W6LVP magnetic loop antenna</figcaption>
 </figure>
 </div>
 <p>I have a <a href="https://www.w6lvp.com">W6LVP receive-only magnetic loop</a> installed indoors. I bought this antenna used.</p>
@@ -359,7 +324,7 @@ window.Quarto = {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://static.dxengineering.com/global/images/prod/xlarge/sbm-bandhopper4_kj_xl.jpg" class="img-fluid figure-img"></p>
-<figcaption>SOTAbeams Bandhopper 80/40/30/20m Linked Dipole</figcaption>
+<figcaption class="figure-caption">SOTAbeams Bandhopper 80/40/30/20m Linked Dipole</figcaption>
 </figure>
 </div>
 </section>
@@ -368,7 +333,7 @@ window.Quarto = {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://static.dxengineering.com/global/images/prod/xlarge/cha-tdl_cu_xl.jpg" class="img-fluid figure-img"></p>
-<figcaption>Chameleon Antennas Tactical Delta Loop (CHA TDL)</figcaption>
+<figcaption class="figure-caption">Chameleon Antennas Tactical Delta Loop (CHA TDL)</figcaption>
 </figure>
 </div>
 <p>This antenna is also known as <a href="https://chameleonantenna.com/shop-here/ols/products/cha-tdl">CHA TDL</a>. I have the parts in a tripod bag I bought on Amazon.</p>
@@ -390,7 +355,7 @@ window.Quarto = {
 <h3 class="anchored" data-anchor-id="m2-satpack1"><span class="math inline">\(M^2\)</span> SATPACK1</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://cdn2.bigcommerce.com/n-ou1isn/f95xaqb/products/232/images/648/WS_FGSATPACK1_IMAGE__91173.1445278338.1280.1280.png?c=2" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://cdn2.bigcommerce.com/n-ou1isn/f95xaqb/products/232/images/648/WS_FGSATPACK1_IMAGE__91173.1445278338.1280.1280.png?c=2" class="img-fluid figure-img"></p>
 </figure>
 </div>
 <p>As of August 2023, I have acquired a <a href="https://www.m2inc.com/FGSATPACK1">SATPACK1</a>, VHF and UHF antenna set for satellite work. The antenna is still under construction and undergoing testing. My intention is to use it for portable satellite operations or for a longer-term deployment during the winter. The extensive tree cover in and around my yard makes satellite contacts during the leafy months (April-October) almost impossible.</p>
@@ -400,7 +365,7 @@ window.Quarto = {
 <p>I have the <a href="https://www.arrowantennas.com/arrowii/alaskanarrow.html">“Alaskan” version</a> of the dual band (VHF/UHF) Arrow antenna. Mine has the split beam for easier transport and the built-in diplexer.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://www.arrowantennas.com/gfx/146437-14-1.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://www.arrowantennas.com/gfx/146437-14-1.jpg" class="img-fluid figure-img"></p>
 </figure>
 </div>
 <p>I have assembled this antenna but have not yet gotten it on the air. It’s really a beast to manipulate by hand, and I am still working on a way to physically support it using a tripod or other means.</p>
@@ -490,9 +455,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+  function tippyHover(el, contentFn) {
     const config = {
       allowHTML: true,
+      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -502,17 +468,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start',
+      placement: 'bottom-start'
     };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -525,125 +482,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
-          }
-        }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
-        }
-        return container.innerHTML
-      } else {
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(note);
-        }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      // TODO in 1.5, we should make sure this works without a callout special case
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
-      }
-    }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
-          }
-        } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
-          .then(res => res.text())
-          .then(html => {
-            const parser = new DOMParser();
-            const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
-            if (note !== null) {
-              const html = processXRef(id, note);
-              instance.setContent(html);
-            } 
-          }).finally(() => {
-            instance.enable();
-            instance.show();
-          });
-        }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -687,7 +525,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
-            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -713,32 +550,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -799,7 +610,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-
 
 
 

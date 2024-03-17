@@ -6,11 +6,13 @@ about:
   links:
     - text: QRZ.com
       href: https://qrz.com/db/W3TM
+    - text: "rick AT-SIGN w3tm.org"
 ---
 
 My name is Rick Gilmore. 
 My callsign is W3TM.
 I am an FCC-licensed amateur radio operator, otherwise known as a ham.
+
 Not HAM.
 It's not an abbreviation.
 Yes, people still do that.
