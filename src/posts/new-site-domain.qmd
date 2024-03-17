@@ -3,6 +3,7 @@ title: "New site and domain"
 description: "W3TM.org is now mine and will eventually be my web ham home."
 author: "Rick Gilmore W3TM"
 date: "2024-04-16"
+image: ../img/w3tm-qsl.png
 categories:
   - news
   - site

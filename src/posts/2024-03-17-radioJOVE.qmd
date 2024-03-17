@@ -1,0 +1,28 @@
+---
+title: "Merging two hobbies"
+description: "My Radio JOVE radioastronomy kit arrived."
+author: "Rick Gilmore W3TM"
+date: "2024-04-17"
+image: "https://radiojove.gsfc.nasa.gov/newsletters/2023Dec/art1fig4a.png"
+categories:
+  - kits
+  - astronomy
+  - antennas
+---
+
+![https://radiojove.gsfc.nasa.gov/newsletters/2023Dec/index.html#10](https://radiojove.gsfc.nasa.gov/newsletters/2023Dec/art1fig4a.png)
+
+I have recently rejoined the [Central Pennsylania Observers (CPO)](https://cpoclub.org), our local amateur astronomy club.
+Back in the late 1990s, I built a 6" Dobsonian telescope with several other club members.
+It was a blast.
+
+The club is gearing up for multiple activities in 2024, including a trip to Erie, PA to watch the eclipse.
+
+One of the activities involves encouraging members to build home radiotelescopes and to contribute data to the [Radio JOVE project](https://radiojove.gsfc.nasa.gov).
+So, I ordered the kit, and it arrived late last week.
+
+The kit consists of a pair of dipole antennas tuned to ~20 MHz, a combiner, some coax feed lines and phasing lines, and a software defined radio (SDR).
+If I have time to put the pieces together before April 8, but if not, I'll get it online in the next couple of months.
+
+I love the project for many reasons not least of which is the fact that it combines two of my favorite hobbies.
+Now, if I could just figure out how to combine ham radio and banjos.
