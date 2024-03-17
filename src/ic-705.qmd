@@ -8,7 +8,7 @@ This chapter describes some specific steps used with the IC-705.
 
 ### Winlink/VARA
 
-1. Connect the Evolve III laptop via USB.
+1. Connect the Evolve III laptop via USB. If using the MacBook Pro, connect the rig, start Parallels and log in to Windows 11.
 2. Select the APRS/Packet Memory Group.
 3. Tune to 145.090 MHz (W3SWL-10).
 4. Check whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is *unload* it.
@@ -19,8 +19,8 @@ This chapter describes some specific steps used with the IC-705.
 
 ### Packet radio
 
-1. Connect the Evolve III laptop via USB.
-2. Select the APRS/Packet Memory Group.
+1. Connect the Evolve III laptop via USB. If using the MacBook Pro, connect the rig, start Parallels and log in to Windows 11.
+2. Select the APRS/Packet Memory Group on the rig.
 3. Tune to 145.030 MHz (W3YA-1 and W3PHB-1 packet nodes).
 4. Check whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is *not*, *load* it.
 
@@ -36,8 +36,8 @@ The SoundModem application recognizes the IC-7300 CI-V value, but not the IC-705
 
 ### Direwolf APRS
 
-1. Connect the Evolve III laptop via USB.
-2. Select the APRS/Packet Memory Group.
+1. Connect the Evolve III laptop via USB. If using the MacBook Pro, connect the rig, start Parallels and log in to Windows 11.
+2. Select the APRS/Packet Memory Group on the rig.
 3. Tune to 144.390 MHz.
 4. Check whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is *unload* it.
 5. Open the Direwolf configuration file and check that the settings are appropriate for the IC-705.

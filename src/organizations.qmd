@@ -13,6 +13,15 @@ I am an active member of the [ARRL](https://arrl.org), and receive email from th
 ## Amateur Radio Emergency Service (ARES)
 
 I participate in the weekly ARES net on the W3YA 146.85 repeater as a participating station and as a net control station.
+Here are some upcoming dates when I will serve as net control:
+
+| Date |
+|------|
+| 21 April 2024 |
+| 9 June 2024 |
+| 28 June 2024 |
+
+Here is a [link](https://docs.google.com/spreadsheets/d/1p3o7b1dfbSQFBdolpK4mxtBu5Ck3INsYxUwQgcxkUSw/edit?usp=sharing) to the roster.
 
 In addition, I enjoy providing communications for various special events via the ARES organization.
 
@@ -22,7 +31,7 @@ I have been a member of NARC since 2016. I help maintain the club's station on t
 
 I was named the Ham of the Year (HOTY) for 2019, probably the last time I'll ever be considered a "hottie".
 
-And the club gave me a special award in 2023 for work above and beyond the call of toilet duty in servicing our porta potty prior to Field Day 2023.
+Mostly to provide entertainment at our December banquet, the club gave me a special award in 2023 for work above and beyond the call of toilet duty in servicing our porta potty prior to Field Day 2023.
 It's a dirty job, but someone has to do it.
 And since I use the thing more often than most, believe me, it's self-serving.
 
@@ -34,4 +43,5 @@ Dave Cubanski has now taken over those duties.
 ## Quarter Century Wireless Association (QCWA)
 
 Our local QCWA Chapter 203 has a weekly net on Sunday nights at 8:30 PM local time on the [W3YA](https://www.qrz.com/db/w3ya) 146.85 MHz (-600 kHz; 146.2 Hz) repeater. 
-I am one of the net control stations. 
+I am one of the net control stations.
+
