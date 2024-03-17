@@ -165,10 +165,10 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Projects</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-engagement" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Engagement</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-engagement">    
         <li>
     <a class="dropdown-item" href="./organizations.html">
  <span class="dropdown-text">Organizations</span></a>
@@ -180,6 +180,10 @@ ul.task-list li input[type="checkbox"] {
         <li>
     <a class="dropdown-item" href="./education.html">
  <span class="dropdown-text">Education</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./workbench.html">
+ <span class="dropdown-text">Workbench</span></a>
   </li>  
     </ul>
   </li>
@@ -215,23 +219,21 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#kit-building" id="toc-kit-building" class="nav-link active" data-scroll-target="#kit-building">Kit-building</a>
-  <ul class="collapse">
-  <li><a href="#qrp-labs-qdx" id="toc-qrp-labs-qdx" class="nav-link" data-scroll-target="#qrp-labs-qdx">QRP-Labs QDX</a></li>
-  </ul></li>
+  <li><a href="#science" id="toc-science" class="nav-link active" data-scroll-target="#science">Science</a></li>
   <li><a href="#remote-operations" id="toc-remote-operations" class="nav-link" data-scroll-target="#remote-operations">Remote operations</a></li>
   <li><a href="#modes-and-skills" id="toc-modes-and-skills" class="nav-link" data-scroll-target="#modes-and-skills">Modes and skills</a>
   <ul class="collapse">
   <li><a href="#morse-code" id="toc-morse-code" class="nav-link" data-scroll-target="#morse-code">Morse code</a></li>
-  <li><a href="#unusual-digital-modes" id="toc-unusual-digital-modes" class="nav-link" data-scroll-target="#unusual-digital-modes">Unusual digital modes</a></li>
-  <li><a href="#more-contesting" id="toc-more-contesting" class="nav-link" data-scroll-target="#more-contesting">More contesting</a></li>
-  <li><a href="#rapid-activation-and-deployment-amateur-radio-radar" id="toc-rapid-activation-and-deployment-amateur-radio-radar" class="nav-link" data-scroll-target="#rapid-activation-and-deployment-amateur-radio-radar">Rapid Activation and Deployment Amateur Radio (RaDAR)</a></li>
   <li><a href="#satellite-operations" id="toc-satellite-operations" class="nav-link" data-scroll-target="#satellite-operations">Satellite operations</a></li>
   </ul></li>
   <li><a href="#station-enhancements" id="toc-station-enhancements" class="nav-link" data-scroll-target="#station-enhancements">Station enhancements</a>
   <ul class="collapse">
   <li><a href="#nodered" id="toc-nodered" class="nav-link" data-scroll-target="#nodered">NodeRed</a></li>
   <li><a href="#grounding" id="toc-grounding" class="nav-link" data-scroll-target="#grounding">Grounding</a></li>
+  </ul></li>
+  <li><a href="#events" id="toc-events" class="nav-link" data-scroll-target="#events">Events</a>
+  <ul class="collapse">
+  <li><a href="#w3en3s-middle-of-nowhere" id="toc-w3en3s-middle-of-nowhere" class="nav-link" data-scroll-target="#w3en3s-middle-of-nowhere">W3E/N3S Middle of Nowhere</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -259,11 +261,23 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Inspired by the <a href="https://www.hamradioworkbench.com">Ham Radio Workbench</a> podcast bunch, here are a number of projects that are on my workbench. Really, some of these are aspirational. And some aren’t really things that go on a workbench.</p>
-<section id="kit-building" class="level2">
-<h2 class="anchored" data-anchor-id="kit-building">Kit-building</h2>
-<section id="qrp-labs-qdx" class="level3">
-<h3 class="anchored" data-anchor-id="qrp-labs-qdx">QRP-Labs QDX</h3>
-</section>
+<!-- ## Kit-building -->
+<!-- ### QRP-Labs QDX -->
+<section id="science" class="level2">
+<h2 class="anchored" data-anchor-id="science">Science</h2>
+<p>With the April 8, 2024 total solar eclipse on the horizon, I’m working on two citizen science projects:</p>
+<ul>
+<li>A weak signal propagation reporter (WSPR) station to provide data to the <a href="https://hamsci.org">HamSCI</a> team about changes in atmospheric propagation during the eclipse. I will likely put my home station on the air. Whether I put a portable station, depends on weather conditions close to the eclipse.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://hamsci.org/sites/default/files/seqp/web_pages/HamSCI%20Festivals%20of%20the%20Eclipse%20e-banner.jpg" class="img-fluid figure-img"></p>
+<figcaption>HamSCI Festivals of Eclipse Ionospheric Science (FoEIS) logo</figcaption>
+</figure>
+</div>
+<ul>
+<li>A portable radio telescope from the <a href="https://radiojove.gsfc.nasa.gov">Radio JOVE</a> project that I will deploy to help this group study the Sun and Jupiter. I’m planning to make this radio telescope portable, so that I can bring it to the <a href="https://bfsp.org">Black Forest Star Party</a> in September 2024.</li>
+</ul>
 </section>
 <section id="remote-operations" class="level2">
 <h2 class="anchored" data-anchor-id="remote-operations">Remote operations</h2>
@@ -275,16 +289,10 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="morse-code">Morse code</h3>
 <p>I took the first two CWOps courses in Spring 2020, but I have only made two CW contacts. I’m slow to copy, and it’s hard, and so I’ve gotten discouraged.</p>
 <p>But I haven’t given up.</p>
-</section>
-<section id="unusual-digital-modes" class="level3">
-<h3 class="anchored" data-anchor-id="unusual-digital-modes">Unusual digital modes</h3>
-</section>
-<section id="more-contesting" class="level3">
-<h3 class="anchored" data-anchor-id="more-contesting">More contesting</h3>
-</section>
-<section id="rapid-activation-and-deployment-amateur-radio-radar" class="level3">
-<h3 class="anchored" data-anchor-id="rapid-activation-and-deployment-amateur-radio-radar">Rapid Activation and Deployment Amateur Radio (RaDAR)</h3>
-<p>I have ambitions of organizing some operations in the spirit of <a href="https://radarops.co.za">RaDAR</a>.</p>
+<!-- ### Unusual digital modes -->
+<!-- ### More contesting -->
+<!-- ### Rapid Activation and Deployment Amateur Radio (RaDAR) -->
+<!-- I have ambitions of organizing some operations in the spirit of [RaDAR](https://radarops.co.za). -->
 </section>
 <section id="satellite-operations" class="level3">
 <h3 class="anchored" data-anchor-id="satellite-operations">Satellite operations</h3>
@@ -300,6 +308,19 @@ ul.task-list li input[type="checkbox"] {
 <section id="grounding" class="level3">
 <h3 class="anchored" data-anchor-id="grounding">Grounding</h3>
 <p>I plan to install a new/improved Earth ground for my electrical service. Once that is done, then I will tie my RF/antenna ground to it.</p>
+</section>
+</section>
+<section id="events" class="level2">
+<h2 class="anchored" data-anchor-id="events">Events</h2>
+<section id="w3en3s-middle-of-nowhere" class="level3">
+<h3 class="anchored" data-anchor-id="w3en3s-middle-of-nowhere">W3E/N3S Middle of Nowhere</h3>
+<p>My friend K3YV has noted that the <a href="https://www.google.com/maps/place/Geographic+Centerpoint+of+Pennsylvania/@40.8749959,-77.8027726,15z/data=!4m6!3m5!1s0x89cea388797d671d:0xc7b0ef303aa96860!8m2!3d40.8749959!4d-77.8027726!16s%2Fg%2F11f57hn75t?entry=ttu">geographic center of Pennsylvania</a> a is not far from State College. One day soon, we plan to activate that location with a special event station.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/pa-geo-center-map.png" class="img-fluid figure-img"></p>
+<figcaption>Geographic centerpoint of PA</figcaption>
+</figure>
+</div>
 
 
 </section>

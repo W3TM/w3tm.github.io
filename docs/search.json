@@ -7,11 +7,11 @@
     "text": "Inspired by the Ham Radio Workbench podcast bunch, here are a number of projects that are on my workbench. Really, some of these are aspirational. And some aren’t really things that go on a workbench."
   },
   {
-    "objectID": "workbench.html#kit-building",
-    "href": "workbench.html#kit-building",
+    "objectID": "workbench.html#science",
+    "href": "workbench.html#science",
     "title": "Workbench",
-    "section": "Kit-building",
-    "text": "Kit-building\n\nQRP-Labs QDX"
+    "section": "Science",
+    "text": "Science\nWith the April 8, 2024 total solar eclipse on the horizon, I’m working on two citizen science projects:\n\nA weak signal propagation reporter (WSPR) station to provide data to the HamSCI team about changes in atmospheric propagation during the eclipse. I will likely put my home station on the air. Whether I put a portable station, depends on weather conditions close to the eclipse.\n\n\n\n\nHamSCI Festivals of Eclipse Ionospheric Science (FoEIS) logo\n\n\n\nA portable radio telescope from the Radio JOVE project that I will deploy to help this group study the Sun and Jupiter. I’m planning to make this radio telescope portable, so that I can bring it to the Black Forest Star Party in September 2024."
   },
   {
     "objectID": "workbench.html#remote-operations",
@@ -25,7 +25,7 @@
     "href": "workbench.html#modes-and-skills",
     "title": "Workbench",
     "section": "Modes and skills",
-    "text": "Modes and skills\n\nMorse code\nI took the first two CWOps courses in Spring 2020, but I have only made two CW contacts. I’m slow to copy, and it’s hard, and so I’ve gotten discouraged.\nBut I haven’t given up.\n\n\nUnusual digital modes\n\n\nMore contesting\n\n\nRapid Activation and Deployment Amateur Radio (RaDAR)\nI have ambitions of organizing some operations in the spirit of RaDAR.\n\n\nSatellite operations\nThe addition of the new IC-9700 makes satellite operations a new frontier to explore."
+    "text": "Modes and skills\n\nMorse code\nI took the first two CWOps courses in Spring 2020, but I have only made two CW contacts. I’m slow to copy, and it’s hard, and so I’ve gotten discouraged.\nBut I haven’t given up.\n\n\n\n\n\n\nSatellite operations\nThe addition of the new IC-9700 makes satellite operations a new frontier to explore."
   },
   {
     "objectID": "workbench.html#station-enhancements",
@@ -33,6 +33,13 @@
     "title": "Workbench",
     "section": "Station enhancements",
     "text": "Station enhancements\n\nNodeRed\nI was experimenting with NodeRed in the Winter of 2022-23, but have taken my server offline temporarily.\n\n\nGrounding\nI plan to install a new/improved Earth ground for my electrical service. Once that is done, then I will tie my RF/antenna ground to it."
+  },
+  {
+    "objectID": "workbench.html#events",
+    "href": "workbench.html#events",
+    "title": "Workbench",
+    "section": "Events",
+    "text": "Events\n\nW3E/N3S Middle of Nowhere\nMy friend K3YV has noted that the geographic center of Pennsylvania a is not far from State College. One day soon, we plan to activate that location with a special event station.\n\n\n\nGeographic centerpoint of PA"
   },
   {
     "objectID": "rigs.html",
@@ -431,7 +438,7 @@
     "href": "antennas.html#portable",
     "title": "Antennas",
     "section": "Portable",
-    "text": "Portable\n\nSOTAbeams Bandhopper 80/40/30/20 Linked Dipole\n\n\n\nSOTAbeams Bandhopper 80/40/30/20m Linked Dipole\n\n\n\n\nChameleon Tactical Delta Loop\n\n\n\nChameleon Antennas Tactical Delta Loop (CHA TDL)\n\n\nThis antenna is also known as CHA TDL. I have the parts in a tripod bag I bought on Amazon.\n\n\nChameleon Antennas Modular Portable Antenna System Lite\nI also have the Lite version of the CHA MPAS System.\n\n\nPackTenna EFHW\nI have a Packtenna EFHW cut for 20 m. This is a QRP-only antenna.\n\n\nEnd-fed Random Wire\nI have a ~10 m random wire and a counterpoise of similar length. These have spade connectors that connect to an LDG RU-9:1 Unun.\nThis antenna is normally part of my set of portable wire antennas, but as of r Sys.Date(), I have installed this antenna on my back porch so that I can use the Elecraft KX2 and Yaesu FRG-7 out there.\n\n\n\\(M^2\\) SATPACK1\n\n\n\n\n\nAs of August 2023, I have acquired a SATPACK1, VHF and UHF antenna set for satellite work. The antenna is still under construction and undergoing testing. My intention is to use it for portable satellite operations or for a longer-term deployment during the winter. The extensive tree cover in and around my yard makes satellite contacts during the leafy months (April-October) almost impossible.\n\n\n“Alaskan” Arrow antenna\nI have the “Alaskan” version of the dual band (VHF/UHF) Arrow antenna. Mine has the split beam for easier transport and the built-in diplexer.\n\n\n\n\n\nI have assembled this antenna but have not yet gotten it on the air. It’s really a beast to manipulate by hand, and I am still working on a way to physically support it using a tripod or other means.\nIf I can solve that problem, I would like to pair this with my Kenwood TH-72A for some FM satellite work."
+    "text": "Portable\n\nSOTAbeams Bandhopper 80/40/30/20 Linked Dipole\n\n\n\nSOTAbeams Bandhopper 80/40/30/20m Linked Dipole\n\n\n\n\nChameleon Tactical Delta Loop\n\n\n\nChameleon Antennas Tactical Delta Loop (CHA TDL)\n\n\nThis antenna is also known as CHA TDL. I have the parts in a tripod bag I bought on Amazon.\n\n\nChameleon Antennas Modular Portable Antenna System Lite\nI also have the Lite version of the CHA MPAS System.\n\n\nPackTenna EFHW\nI have a Packtenna EFHW cut for 20 m. This is a QRP-only antenna.\n\n\nEnd-fed Random Wire\nI have a ~10 m random wire and a counterpoise of similar length. These have spade connectors that connect to an LDG RU-9:1 Unun.\nThis antenna is normally part of my set of portable wire antennas, but as of r Sys.Date(), I have installed this antenna on my back porch so that I can use the Elecraft KX2 and Yaesu FRG-7 out there.\n\n\n\\(M^2\\) SATPACK1\n\n\n\n\n\nAs of August 2023, I have acquired a SATPACK1, VHF and UHF antenna set for satellite work. The antenna is still under construction and undergoing testing. My intention is to use it for portable satellite operations or for a longer-term deployment during the winter. The extensive tree cover in and around my yard makes satellite contacts during the leafy months (April-October) almost impossible.\n\n\nAlaskan Arrow antenna\nI have the “Alaskan” version of the dual band (VHF/UHF) Arrow antenna. Mine has the split beam for easier transport and the built-in diplexer.\n\n\n\n\n\nI have assembled this antenna but have not yet gotten it on the air. It’s really a beast to manipulate by hand, and I am still working on a way to physically support it using a tripod or other means.\nIf I can solve that problem, I would like to pair this with my Kenwood TH-72A for some FM satellite work."
   },
   {
     "objectID": "education.html",
@@ -487,14 +494,14 @@
     "href": "events.html#winter-field-day",
     "title": "Events",
     "section": "Winter Field Day",
-    "text": "Winter Field Day\nI enjoy Winter Field Day.\nIn January 2020, W3SWL, N3LI, and I operated Winter Field Day from a cabin in Prince Gallitzin State Park.\nIn 2021, my wife and I stayed at a cabin in Black Moshannon State Park where I operated Winter Field Day.\nIn 2022, friends KC3HIP and W3EDP stayed with us in an adjoining cabin at Black Moshannon State Park.\nWe weren’t able to operate in 2023, but hope to do so again in 2024."
+    "text": "Winter Field Day\nI enjoy Winter Field Day.\nIn January 2020, W3SWL, N3LI, and I operated Winter Field Day from a cabin in Prince Gallitzin State Park.\nIn 2021, my wife and I stayed at a cabin in Black Moshannon State Park where I operated Winter Field Day.\nIn 2022, friends KC3HIP and W3EDP stayed with us in an adjoining cabin at Black Moshannon State Park.\nWe weren’t able to operate in 2023, but I operated from Black Moshannon State Park in 2024. Gear included the Yaesu FT-891, the RM Italy MLA100 amplifier, and an end-fed halfwave for 80m+. I tried connecting to the W3SWL-10 Winlink node using the “Alaskan” Arrow Antenna and the W3YA-3 packet station, but failed. After returning home, I understood why:\n\n\n\nBlack Moshannon to W3SWL-10\n\n\n\n\n\nBlack Moshannon to W3YA-3\n\n\nThere were no line of sight paths. The Allegheny Front lay between us. Welcome to Pennsylvania."
   },
   {
     "objectID": "events.html#jamboree-on-the-air-jota",
     "href": "events.html#jamboree-on-the-air-jota",
     "title": "Events",
     "section": "Jamboree on the Air (JOTA)",
-    "text": "Jamboree on the Air (JOTA)\nWith K3YV and W3EDP, we planned an event with local Cub Scout Pack 67 for October 2022. Illness forced a last minute cancellation, but carried out a JOTA activation for October 21, 2023 under the K3J special event callsign. About 15 cubs and their parents joined K3YV, W3EDP, KC3AF, and me at Circleville Park for some HF, VHF repeater, Morse Code, and FRS walkie-talkie fun."
+    "text": "Jamboree on the Air (JOTA)\nWith K3YV and W3EDP, I planned an event with local Cub Scout Pack 67 for October 2022. Illness forced a last minute cancellation, but carried out a JOTA activation for October 21, 2023 under the K3J special event callsign. About 15 cubs and their parents joined K3YV, W3EDP, KC3AF, and me at Circleville Park for some HF, VHF repeater, Morse Code, and FRS walkie-talkie fun. We’re looking forward to repeating and expanding the effort in 2024. However, given the cold and blustery weather conditions, we’re looking for an indoor location."
   },
   {
     "objectID": "events.html#birthplace-of-memorial-day-w3m",

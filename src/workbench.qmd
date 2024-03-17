@@ -8,9 +8,21 @@ Inspired by the [Ham Radio Workbench](https://www.hamradioworkbench.com) podcast
 Really, some of these are aspirational.
 And some aren't really things that go on a workbench.
 
-## Kit-building
+<!-- ## Kit-building -->
 
-### QRP-Labs QDX
+<!-- ### QRP-Labs QDX -->
+
+## Science
+
+With the April 8, 2024 total solar eclipse on the horizon, I'm working on two 
+citizen science projects:
+
+- A weak signal propagation reporter (WSPR) station to provide data to the
+[HamSCI](https://hamsci.org) team about changes in atmospheric propagation during the eclipse. I will likely put my home station on the air. Whether I put a portable station, depends on weather conditions close to the eclipse.
+
+![HamSCI Festivals of Eclipse Ionospheric Science (FoEIS) logo](https://hamsci.org/sites/default/files/seqp/web_pages/HamSCI%20Festivals%20of%20the%20Eclipse%20e-banner.jpg)
+
+- A portable radio telescope from the [Radio JOVE](https://radiojove.gsfc.nasa.gov) project that I will deploy to help this group study the Sun and Jupiter. I'm planning to make this radio telescope portable, so that I can bring it to the [Black Forest Star Party](https://bfsp.org) in September 2024.
 
 ## Remote operations
 
@@ -28,13 +40,13 @@ I'm slow to copy, and it's hard, and so I've gotten discouraged.
 
 But I haven't given up.
 
-### Unusual digital modes
+<!-- ### Unusual digital modes -->
 
-### More contesting
+<!-- ### More contesting -->
 
-### Rapid Activation and Deployment Amateur Radio (RaDAR)
+<!-- ### Rapid Activation and Deployment Amateur Radio (RaDAR) -->
 
-I have ambitions of organizing some operations in the spirit of [RaDAR](https://radarops.co.za).
+<!-- I have ambitions of organizing some operations in the spirit of [RaDAR](https://radarops.co.za). -->
 
 ### Satellite operations
 
@@ -50,3 +62,15 @@ I was experimenting with NodeRed in the Winter of 2022-23, but have taken my ser
 
 I plan to install a new/improved Earth ground for my electrical service.
 Once that is done, then I will tie my RF/antenna ground to it.
+
+## Events
+
+### W3E/N3S Middle of Nowhere
+
+My friend K3YV has noted that the [geographic center of Pennsylvania](https://www.google.com/maps/place/Geographic+Centerpoint+of+Pennsylvania/@40.8749959,-77.8027726,15z/data=!4m6!3m5!1s0x89cea388797d671d:0xc7b0ef303aa96860!8m2!3d40.8749959!4d-77.8027726!16s%2Fg%2F11f57hn75t?entry=ttu) a is not far from State College.
+One day soon, we plan to activate that location with a special event station.
+
+![Geographic centerpoint of PA](img/pa-geo-center-map.png)
+
+
+

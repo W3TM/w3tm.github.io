@@ -100,7 +100,7 @@ The antenna is still under construction and undergoing testing.
 My intention is to use it for portable satellite operations or for a longer-term deployment during the winter.
 The extensive tree cover in and around my yard makes satellite contacts during the leafy months (April-October) almost impossible.
 
-### "Alaskan" Arrow antenna
+### Alaskan Arrow antenna
 
 I have the ["Alaskan" version](https://www.arrowantennas.com/arrowii/alaskanarrow.html) of the dual band (VHF/UHF) Arrow antenna.
 Mine has the split beam for easier transport and the built-in diplexer.

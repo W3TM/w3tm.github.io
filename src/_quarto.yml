@@ -34,11 +34,12 @@ website:
         - ft-891.qmd
         - ic-9700.qmd
         - ic-705.qmd
-    - text: "Projects"
+    - text: "Engagement"
       menu: 
         - organizations.qmd
         - events.qmd
         - education.qmd
+        - workbench.qmd
     right:
       - about.qmd
       - icon: rss
