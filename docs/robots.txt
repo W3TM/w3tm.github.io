@@ -1,1 +1,1 @@
-Sitemap: https://w3tm.github.io/sitemap.xml
+Sitemap: https://w3tm.org/sitemap.xml

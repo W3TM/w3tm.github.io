@@ -15,7 +15,9 @@ PDF versions of the manuals can be found here:
 
 ### Winlink/VARA
 
+1. Start with the IC-705 *off*.
 1. Connect the Evolve III laptop via USB. If using the MacBook Pro, connect the rig, start Parallels and log in to Windows 11.
+2. Turn the IC-705 on.
 2. Select the APRS/Packet Memory Group.
 3. Tune to 145.090 MHz (W3SWL-10).
 4. Check whether the VHF Packet Preset Memory is in use (Menu/Preset). If it is *unload* it.
@@ -26,6 +28,7 @@ PDF versions of the manuals can be found here:
 
 ### Packet radio
 
+1. Start with the IC-705 *off*, especially if you are using the MacBookPro and Parallels.
 1. Connect the Evolve III laptop via USB. If using the MacBook Pro, connect the rig, start Parallels and log in to Windows 11.
 2. Select the APRS/Packet Memory Group on the rig.
 3. Tune to 145.030 MHz (W3YA-1 and W3PHB-1 packet nodes).
