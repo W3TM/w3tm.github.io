@@ -2,106 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://w3tm.org/workbench.html</loc>
-    <lastmod>2024-03-18T11:29:20.517Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/rigs.html</loc>
-    <lastmod>2024-03-18T11:29:19.691Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/preface.html</loc>
-    <lastmod>2024-03-18T11:29:18.741Z</lastmod>
+    <lastmod>2024-03-18T16:00:31.491Z</lastmod>
   </url>
   <url>
     <loc>https://w3tm.org/posts/new-site-domain.html</loc>
-    <lastmod>2024-03-18T11:29:17.866Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/portable-stations.html</loc>
-    <lastmod>2024-03-18T11:29:16.990Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/operating.html</loc>
-    <lastmod>2024-03-18T11:29:16.076Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/index.html</loc>
-    <lastmod>2024-03-18T11:29:15.339Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/ic-705.html</loc>
-    <lastmod>2024-03-18T11:29:13.866Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/gear.html</loc>
-    <lastmod>2024-03-18T11:29:12.847Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/events.html</loc>
-    <lastmod>2024-03-18T11:29:11.881Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/education.html</loc>
-    <lastmod>2024-03-18T11:29:10.853Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/antennas.html</loc>
-    <lastmod>2024-03-18T11:29:09.899Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/accessories.html</loc>
-    <lastmod>2024-03-18T11:29:08.860Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/about.html</loc>
-    <lastmod>2024-03-18T11:29:08.432Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/amplifiers.html</loc>
-    <lastmod>2024-03-18T11:29:09.334Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/computers.html</loc>
-    <lastmod>2024-03-18T11:29:10.433Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/engagement.html</loc>
-    <lastmod>2024-03-18T11:29:11.407Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/ft-891.html</loc>
-    <lastmod>2024-03-18T11:29:12.492Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/home-stations.html</loc>
-    <lastmod>2024-03-18T11:29:13.318Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/ic-9700.html</loc>
-    <lastmod>2024-03-18T11:29:14.725Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/mobile-stations.html</loc>
-    <lastmod>2024-03-18T11:29:15.720Z</lastmod>
+    <lastmod>2024-03-18T16:00:30.746Z</lastmod>
   </url>
   <url>
     <loc>https://w3tm.org/organizations.html</loc>
-    <lastmod>2024-03-18T11:29:16.546Z</lastmod>
+    <lastmod>2024-03-18T16:00:30.057Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/events.html</loc>
+    <lastmod>2024-03-18T16:00:29.063Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/education.html</loc>
+    <lastmod>2024-03-18T16:00:28.118Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/about.html</loc>
+    <lastmod>2024-03-18T16:00:27.761Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/engagement.html</loc>
+    <lastmod>2024-03-18T16:00:28.573Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/index.html</loc>
+    <lastmod>2024-03-18T16:00:29.605Z</lastmod>
   </url>
   <url>
     <loc>https://w3tm.org/posts/2024-03-17-radioJOVE.html</loc>
-    <lastmod>2024-03-18T11:29:17.481Z</lastmod>
+    <lastmod>2024-03-18T16:00:30.393Z</lastmod>
   </url>
   <url>
-    <loc>https://w3tm.org/power.html</loc>
-    <lastmod>2024-03-18T11:29:18.319Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/remote-stations.html</loc>
-    <lastmod>2024-03-18T11:29:19.137Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/stations.html</loc>
-    <lastmod>2024-03-18T11:29:20.061Z</lastmod>
+    <loc>https://w3tm.org/preface.html</loc>
+    <lastmod>2024-03-18T16:00:31.120Z</lastmod>
   </url>
 </urlset>

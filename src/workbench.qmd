@@ -26,7 +26,7 @@ citizen science projects:
 
 ## Remote operations
 
-The [ICOM IC-7300](rigs.qmd#icom-ic-7300) connects via USB to the Acer laptop for logging and digital modes.
+The [ICOM IC-7300](https://w3tm.org/shack/rigs.html#icom-ic-7300) connects via USB to the Acer laptop for logging and digital modes.
 This unfortunately precludes the use of the RemoteTx.net service.
 That service requires that the rig be connected to a Raspberry Pi via USB.
 So, I want to get a USB/printer switch so that I can decide whether to control the rig remotely via RemoteTx.net or use it locally.
@@ -50,7 +50,7 @@ But I haven't given up.
 
 ### Satellite operations
 
-The addition of the new [IC-9700](rigs.qmd#icom-ic-9700) makes satellite operations a new frontier to explore.
+The addition of the new [IC-9700](https://w3tm.org/shack/rigs.html#icom-ic-9700) makes satellite operations a new frontier to explore.
 
 ## Station enhancements
 

@@ -1,8 +1,0 @@
----
-title: "Operating"
----
-
-This section includes rig-specific operating chapters.
-I use this to document specific steps for particular operating situations.
-
-
