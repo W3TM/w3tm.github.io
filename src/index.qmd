@@ -11,4 +11,7 @@ page-layout: full
 title-block-banner: false
 ---
 
-![](img/w3tm-qsl.png)
+QTH is a "Q"-code meaning home location.
+This page is the home for my blog and ham radio website.
+
+![W3TM QSL card](img/w3tm-qsl.png){width="50%"}

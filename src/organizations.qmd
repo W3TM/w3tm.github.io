@@ -4,30 +4,13 @@ format: html
 editor: source
 ---
 
-Amateur radio has so many ways to be "radio-active". Here are some of the ways I enjoy engaging in our amazing hobby.
-
-## American Radio Relay League (ARRL)
-
-I am an active member of the [ARRL](https://arrl.org), and receive email from the ARRL reflector using my_callsign\@arrl.net.
-
-## Amateur Radio Emergency Service (ARES)
-
-I participate in the weekly ARES net on the W3YA 146.85 repeater as a participating station and as a net control station.
-Here are some upcoming dates when I will serve as net control:
-
-| Date |
-|------|
-| 21 April 2024 |
-| 9 June 2024 |
-| 28 June 2024 |
-
-Here is a [link](https://docs.google.com/spreadsheets/d/1p3o7b1dfbSQFBdolpK4mxtBu5Ck3INsYxUwQgcxkUSw/edit?usp=sharing) to the roster.
-
-In addition, I enjoy providing communications for various special events via the ARES organization.
+Amateur radio has so many ways to be "radio-active". 
+Here are some of the ways I enjoy engaging in our amazing hobby with groups of other hams.
 
 ## Nittany Amateur Radio Club (NARC)
 
-I have been a member of NARC since 2016. I help maintain the club's station on top of Pine Grove Mountain, and I have served on the Board of Directors since 2020.
+I have been a member of [NARC](https://nittany-arc.net) since 2016. 
+I help maintain the club's station on top of Pine Grove Mountain, and I have served on the Board of Directors since 2020.
 
 I was named the Ham of the Year (HOTY) for 2019, probably the last time I'll ever be considered a "hottie".
 
@@ -48,6 +31,25 @@ And a new Quarto-ized website/manual:
 
 - <https://nittany-amateur-radio-club.github.io/clubhouse>
 
+## American Radio Relay League (ARRL)
+
+I am an active member of the [ARRL](https://arrl.org), and receive email from the ARRL reflector using my_callsign\@arrl.net.
+
+## Amateur Radio Emergency Service (ARES)
+
+I participate in the weekly (Sunday night, 9:00 pm local time) ARES net on the W3YA 146.85 repeater as a participating station and as a net control station.
+Here are some upcoming dates when I will serve as net control:
+
+| Date |
+|------|
+| 21 April 2024 |
+| 9 June 2024 |
+| 28 June 2024 |
+
+Here is a [link](https://docs.google.com/spreadsheets/d/1p3o7b1dfbSQFBdolpK4mxtBu5Ck3INsYxUwQgcxkUSw/edit?usp=sharing) to the roster.
+
+In addition, I enjoy providing communications for various special events via the ARES organization.
+
 ## Penn State Amateur Radio Club (PSARC)
 
 For several years, I served as the faculty adviser for the Penn State ARC, and as trustee for the K3CR repeaters.
@@ -60,8 +62,9 @@ I am one of the net control stations.
 
 ## Pennsylvania Narrow Band Emergency Messaging Service (PA NBEMS)
 
-When I have time, I check-in to the Sunday 7:30 am PA NBEMS digital modes net on 3.583 MHz. The net has a groups.io site at <https://groups.io/g/panbems>. The net uses THOR22 for check-ins and then traffic is passed using MFSK32 or THOR56.
+When I have time, I check-in to the Sunday 7:30 am PA NBEMS digital modes net on 3.583 MHz. The net has a groups.io site at <https://groups.io/g/panbems>. The net uses [THOR22](https://www.sigidwiki.com/wiki/THOR) for check-ins and then traffic is passed using MFSK32 or THOR56.
 
 I've successfully checked in from Tioga County when on vacation there, and from home, sometimes running QRP.
 
+I have also checked-in to the New Jersey NBEMS net.
 

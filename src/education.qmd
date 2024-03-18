@@ -4,20 +4,35 @@ format: html
 editor: source
 ---
 
-## W5YI VE
+A ham radio license is really a license to learn.
+As a teacher and researcher and the son of two public school educators, I'm committed to learning and helping others do so, too.
 
-I was a volunteer examiner (VE) for several years via the W5YI-VEC and continue with active credentials.
-
-## ARRL CVE
+## ARRL Coordinating Volunteer Examiner (CVE)
 
 As of September 2023, I assumed the Coordinating Volunteer Examiner (CVE) role from K3YV.
 We have moved our exams to the [ARRL-VEC](https://www.arrl.org/volunteer-examiners).
 
-I'm pleased to say that our team has "minted" almost 10 hams.
+I'm pleased to say that our team has "minted" almost 10 hams in just a few short months.
+The pace appears to be picking up.
+
+::: {.callout-note}
+
+If you are interested in taking a ham radio exam, please get in touch.
+
+We offer in-person testing sessions before most NARC monthly meetings on the 2nd Tuesday of the month at the South Hills School of Business and Technology in State College, PA.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7231.9847404233515!2d-77.86296942903328!3d40.774861189803154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89cea8c11ca3ebdb%3A0x3bc3ce9e36106e23!2sSouth%20Hills%20School%20of%20Business%20%26%20Technology%20-%20State%20College!5e0!3m2!1sen!2sus!4v1710788359006!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+:::
+
+## W5YI VE
+
+I was a volunteer examiner (VE) for several years via the W5YI-VEC and continue with active credentials.
 
 ## NARC Elmering Committee
 
 [NARC](https://nittany-arc.net) has formed a new committee to help new hams get started.
+There will be more to say about this very soon, I'm sure.
 
 ## New Ham Book
 
@@ -27,6 +42,16 @@ But I am expanding it to be suitable for a wide range of folks who aren't yet ha
 
 You can find the work-in-progress here:
 
-<https://w3tm.github.io/new-ham-book/>
+<https://w3tm.org/new-ham-book/>
 
 Comments are welcome!
+
+## Automatic Packet Reporting System (APRS)
+
+I operate a receive-only VHF (144.390 MHz) I-Gate under the callsign [W3TM-11](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FW3TM-11&timerange=3600&tail=3600).
+
+![W3TM-11 APRS I-Gate traffic for March 2024 from <https://aprs.fi/#!z=11&v=gated&ym=202403&call=a%2FW3TM-11&timerange=3600&tail=3600>](img/w3tm-11-2024-march.png)
+
+In December 2023, I started experimenting with supporting [APRS-tt](http://www.aprs.org/aprstt.html) using the [Direwolf](https://github.com/wb2osz/direwolf) software TNC.
+Early experiments look promising.
+We're discussing setting up a network of APRS-tt iGates to provide better receive coverage in our very hilly area.

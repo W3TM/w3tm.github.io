@@ -4,6 +4,9 @@ format: html
 editor: source
 ---
 
+I enjoy organizing events.
+It's a great way to show-off our amazing hobby.
+
 ## Field Day
 
 For the last several years, I have helped organize the NARC Field Day operation.
@@ -18,19 +21,22 @@ In the summer of 2020, during the height of COVID-19 pandemic restrictions, I op
 
 I enjoy [Winter Field Day](https://www.winterfieldday.com).
 
-In January 2020, W3SWL, N3LI, and I operated Winter Field Day from a cabin in Prince Gallitzin State Park.
+In January 2020, [W3SWL](https://qrz.com/db/w3swl), [N3LI](https://qrz.com/db/n3li), and I operated Winter Field Day from a cabin in [Prince Gallitzin State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/PrinceGallitzinStatePark/Pages/default.aspx).
 
 ### WFD 2021
 
-In 2021, my wife and I stayed at a cabin in Black Moshannon State Park where I operated Winter Field Day.
+In 2021, my wife and I stayed at a cabin in [Black Moshannon State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/BlackMoshannonStatePark/Pages/default.aspx) for Winter Field Day.
 
-### WFD 2023
+### WFD 2022
 
-In 2022, friends KC3HIP and W3EDP stayed with us in an adjoining cabin at Black Moshannon State Park.
+In 2022, friends [KC3HIP](https://qrz.com/db/kc3hip) and [W3EDP](https://qrz.com/db/w3edp) stayed with us in an adjoining cabin at [Black Moshannon State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/BlackMoshannonStatePark/Pages/default.aspx).
 
-#### WFD 2024
+### WFD 2024
 
-We weren't able to operate in 2023, but I operated from Black Moshannon State Park in 2024. Gear included the [Yaesu FT-891](https://w3tm.org/shack/rigs.html#ft-891), the [RM Italy MLA100](https://w3tm.org/shack/amplifiers.html#rm-italy-mla100) amplifier, and an end-fed halfwave for 80m+. I tried connecting to the W3SWL-10 Winlink node using the ["Alaskan" Arrow Antenna](https://w3tm.org/shack/antennas.html#alaskan-arrow-antenna) and the W3YA-3 packet station, but failed. After returning home, I understood why:
+We weren't able to operate in 2023, but I operated from Black Moshannon State Park in 2024. 
+Gear included the [Yaesu FT-891](https://w3tm.org/shack/rigs.html#ft-891), the [RM Italy MLA100](https://w3tm.org/shack/amplifiers.html#rm-italy-mla100) amplifier, and an end-fed halfwave for 80m+. 
+I tried connecting to the W3SWL-10 Winlink node using the ["Alaskan" Arrow Antenna](https://w3tm.org/shack/antennas.html#alaskan-arrow-antenna) and the W3YA-3 packet station, but failed. 
+After returning home, I understood why:
 
 ![Black Moshannon to W3SWL-10](img/black-mo-to-w3swl.png)
 
@@ -40,10 +46,10 @@ There were no line of sight paths.
 The Allegheny Front lay between us.
 Welcome to Pennsylvania.
 
-## Jamboree on the Air (JOTA)
+## [Jamboree on the Air (JOTA)](https://www.jotajoti.info)
 
 With K3YV and W3EDP, I planned an event with local Cub Scout Pack 67 for October 2022.
-Illness forced a last minute cancellation, but carried out a JOTA activation for October 21, 2023 under the K3J special event callsign.
+Illness forced a last minute cancellation, but we carried out a JOTA activation for October 21, 2023 under the K3J special event callsign.
 About 15 cubs and their parents joined K3YV, W3EDP, KC3AF, and me at Circleville Park for some HF, VHF repeater, Morse Code, and FRS walkie-talkie fun.
 We're looking forward to repeating and expanding the effort in 2024.
 However, given the cold and blustery weather conditions, we're looking for an indoor location.
@@ -51,6 +57,10 @@ However, given the cold and blustery weather conditions, we're looking for an in
 ## Birthplace of Memorial Day W3M
 
 ![W3M QSL Card](img/w3m-qsl.png)
+NARC club members operated W3M from our home stations during the 2020 and 2021 pandemic years.
+K3YV and I operated from the grounds of the Boal Mansion in 2022.
+We hope to operate the station in some future year.
+Many hams told us the were glad to hear about this bit of local history.
 
 ## Flight 93 20th Anniversary N3M
 
@@ -68,7 +78,7 @@ The group of operators made several hundred QSOs, spreading positive news about 
 ## Pride K3P
 
 With several friends from our local ham community, I organized a special event station to celebrate Pride Month in Central PA in early June 2023.
-My Allstar/EchoLink node was active, and a group of us did a Parks on the Air (POTA) activation at Bald Eagle State Park.
+My W3TM-L Allstar/EchoLink node was active, and a group of us did a Parks on the Air (POTA) activation at Bald Eagle State Park.
 We also had a booth at the State College Pride festival.
 
 ![K3P QSL card](img/k3p-qsl.png)

@@ -67,7 +67,7 @@ Once that is done, then I will tie my RF/antenna ground to it.
 
 ### W3E/N3S Middle of Nowhere
 
-My friend K3YV has noted that the [geographic center of Pennsylvania](https://www.google.com/maps/place/Geographic+Centerpoint+of+Pennsylvania/@40.8749959,-77.8027726,15z/data=!4m6!3m5!1s0x89cea388797d671d:0xc7b0ef303aa96860!8m2!3d40.8749959!4d-77.8027726!16s%2Fg%2F11f57hn75t?entry=ttu) a is not far from State College.
+My friend K3YV has noted that the [geographic center of Pennsylvania](https://www.google.com/maps/place/Geographic+Centerpoint+of+Pennsylvania/@40.8749959,-77.8027726,15z/data=!4m6!3m5!1s0x89cea388797d671d:0xc7b0ef303aa96860!8m2!3d40.8749959!4d-77.8027726!16s%2Fg%2F11f57hn75t?entry=ttu) is close to State College.
 One day soon, we plan to activate that location with a special event station.
 
 ![Geographic centerpoint of PA](img/pa-geo-center-map.png)
