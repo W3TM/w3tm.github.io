@@ -12,6 +12,17 @@ I bought this amplifier used in the summer of 2021.
 
 Input 1 connects to the [Flex-6400](rigs.qmd#flexradio-6400), and Input 2 connects to the [ICOM IC-7300](rigs.qmd#icom-ic-7300).
 
+```{mermaid}
+%%| title: "SPE Expert Linear 1K-FA"
+%%| fig-cap: "SPE Expert Linear 1K-FA Block Diagram"
+flowchart TD
+  A[SPE Expert Linear 1K-FA] --- B(IC-7300)
+  A --- C(Flex 6400)
+  A --- D(220 V outlet)
+```
+
+Here is the [PDF manual](pdf/EXPERT1K-FA-EN-rev.3.2.pdf).
+
 ## VHF amplifier
 
 This amplifier is part of an integrated "accessory" bench I built for the [IC-705](rigs.qmd#icom-ic-705).

@@ -37,6 +37,17 @@ And since I use the thing more often than most, believe me, it's self-serving.
 
 [NARC](https://nittany-arc.net) has a groups.io site at <https://groups.io/g/Nittany-ARC>.
 
+### Mountaintop Station
+
+I've been trying to do a better job documenting various aspects of our club station.
+
+- Equipment and software change log: <https://docs.google.com/document/d/1yz_meW9ClsBc88PyoOBWdVERrryEH91LUFfP03dS5sA/edit?usp=sharing>
+- Gear test procedure: <https://docs.google.com/document/d/1YDaIzTzuXVjZG-uItH005L9bOHdSbedHa-COrfyXzE0/edit?usp=sharing>
+
+And a new Quarto-ized website/manual:
+
+- <https://nittany-amateur-radio-club.github.io/clubhouse>
+
 ## Penn State Amateur Radio Club (PSARC)
 
 For several years, I served as the faculty adviser for the Penn State ARC, and as trustee for the K3CR repeaters.

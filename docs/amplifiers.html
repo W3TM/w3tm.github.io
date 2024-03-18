@@ -59,6 +59,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 </head>
@@ -251,6 +254,21 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <p>I bought this amplifier used in the summer of 2021.</p>
 <p>Input 1 connects to the <a href="./rigs.html#flexradio-6400">Flex-6400</a>, and Input 2 connects to the <a href="./rigs.html#icom-ic-7300">ICOM IC-7300</a>.</p>
+<div class="cell" title="SPE Expert Linear 1K-FA">
+<div class="cell-output-display">
+<div>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+  A[SPE Expert Linear 1K-FA] --- B(IC-7300)
+  A --- C(Flex 6400)
+  A --- D(220 V outlet)
+</pre>
+</div>
+<p>SPE Expert Linear 1K-FA Block Diagram</p>
+</div>
+</div>
+</div>
+<p>Here is the <a href="pdf/EXPERT1K-FA-EN-rev.3.2.pdf">PDF manual</a>.</p>
 </section>
 <section id="vhf-amplifier" class="level2">
 <h2 class="anchored" data-anchor-id="vhf-amplifier">VHF amplifier</h2>

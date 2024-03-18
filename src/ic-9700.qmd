@@ -4,6 +4,13 @@ title: "IC-9700"
 
 This page describes some mode-specific settings for the IC-9700 station.
 
+## Manuals
+
+Manuals for the IC-9700 can be found here:
+
+- [Basic](icom-IC-9700_ENG_Basic_3.pdf)
+- [Advanced](icom-IC-9700_ENG_AM_1.pdf)
+
 ## APRS-tt
 
 ### Hardware

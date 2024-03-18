@@ -33,7 +33,7 @@ An Acer laptop running [SmartSDR 3.5.9](https://www.flexradio.com/ssdr/ssdr-for-
 flowchart TD
   A[Flex 6400] --- B[Acer PC]
   A --- E(SmartControl)
-  A --- F[SPE Linear]
+  A --- F[SPE Linear Src 1]
   A --- C(Network Switch)
   C --- D(Wifi Router)
 ```
@@ -51,10 +51,11 @@ flowchart TD
   A[IC-7300] --- B[Acer PC]
   A --- H(Straight Key)
   A --- I(Heil Proset iC Headphones)
+  A --- J(DX Engineering PTT Footswitch)
   A --- C[Alinco 12V Power Supply]
   C --- D(Surge Protector)
   D --- E(120V outlet)
-  A --- F[SPE Linear]
+  A --- F[SPE Linear Src 2]
   F --- G(220V outlet)
 ```
 
@@ -88,4 +89,5 @@ flowchart TD
 I have a [ClearNode](https://www.node-ventures.com/buy-clearnode/) UHF Allstar node on 51401.
 The node also supports EchoLink (W3TM-L).
 
-I used this node for the K3P Special Event station in June 2023. At least two hams connected via the node to participate in the event.
+I used this node for the [K3P Special Event](events.qmd#pride-k3p) station in June 2023. 
+At least two hams connected via the node to participate in the event.

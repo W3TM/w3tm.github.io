@@ -2,6 +2,13 @@
 title: "FT-891"
 ---
 
+## Manuals
+
+PDF manuals for the FT-891 are here:
+
+- [Basic](pdf/yaesu-ft-891-manual.pdf)
+- [Advanced](pdf/yaesu-ft-891-advanced.pdf)
+
 ## Digital operations
 
 ### Hardware

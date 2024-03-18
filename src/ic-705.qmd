@@ -4,6 +4,13 @@ title: "IC-705"
 
 This chapter describes some specific steps used with the IC-705.
 
+## Manuals
+
+PDF versions of the manuals can be found here:
+
+- [Basic](IC-705_ENG_Basic_6.pdf)
+- [Advanced](IC-705_ENG_Advanced_3.pdf)
+
 ## Digital/Packet modes
 
 ### Winlink/VARA
