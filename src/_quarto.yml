@@ -10,13 +10,12 @@ website:
   description: "W3TM's ham radio blog"
   navbar:
     left:
-    - index.qmd
-    - text: "Engagement"
-      menu: 
-        - organizations.qmd
-        - events.qmd
-        - education.qmd
-        - workbench.qmd
+      - index.qmd
+      - preface.qmd
+      - organizations.qmd
+      - events.qmd
+      - education.qmd
+      - workbench.qmd
     right:
       - about.qmd
       - icon: rss
