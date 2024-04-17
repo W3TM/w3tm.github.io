@@ -1,0 +1,27 @@
+---
+title: "Back to Node-RED"
+date: 2024-04-17
+categories:
+  - node-RED
+  - automation
+image: node-red-dashboard.png
+---
+
+![](node-red-dashboard.png)
+
+Some time back I played with [Node-RED](https://nodered.org/).
+I made some progress making use of an old Raspberry Pi 3B I had laying around, but then it fell by the wayside.
+Now, I'm back in the saddle.
+
+The specific use case is switching my various Kasa/TP-Link outlets on and off.
+Yes, I can do that through the Kasa smartphone app, but I'd like to do it from my PC or Mac, too.
+TP-Link does not have a Windows 10/11 or MacOS app.
+So, Node-RED to the rescue.
+
+Along the way, I'm also taking baby steps to implement other useful features like real-time propagation and weather data.
+In all honesty, it's a little wonky.
+The Pi isn't especially responsive, Node-RED works more smoothly in some browsers than others, and the visual "no-code" programming means lots of mousing.
+Sometimes I'd just rather type.
+But I'm getting things to work.
+And getting a cool UI to render is much easier than the alternatives.
+

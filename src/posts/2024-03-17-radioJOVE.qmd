@@ -2,7 +2,7 @@
 title: "Merging two hobbies"
 description: "My Radio JOVE radioastronomy kit arrived."
 author: "Rick Gilmore W3TM"
-date: "2024-04-17"
+date: "2024-03-17"
 image: "https://radiojove.gsfc.nasa.gov/newsletters/2023Dec/art1fig4a.png"
 categories:
   - kits

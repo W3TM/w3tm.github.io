@@ -207,7 +207,7 @@
     "href": "index.html",
     "title": "QTH",
     "section": "",
-    "text": "QTH is a “Q”-code meaning home location. This page is the home for my blog and ham radio website.\n\n\n\nW3TM QSL card\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nMerging two hobbies\n\n\n\n\n\n\n\nkits\n\n\nastronomy\n\n\nantennas\n\n\n\n\nMy Radio JOVE radioastronomy kit arrived.\n\n\n\n\n\n\nApr 17, 2024\n\n\nRick Gilmore W3TM\n\n\n\n\n\n\n  \n\n\n\n\nNew site and domain\n\n\n\n\n\n\n\nnews\n\n\nsite\n\n\n\n\nW3TM.org is now mine and will eventually be my web ham home.\n\n\n\n\n\n\nApr 16, 2024\n\n\nRick Gilmore W3TM\n\n\n\n\n\n\nNo matching items"
+    "text": "QTH is a “Q”-code meaning home location. This page is the home for my blog and ham radio website.\n\n\n\nW3TM QSL card\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nBack to Node-RED\n\n\n\n\n\n\n\nnode-RED\n\n\nautomation\n\n\n\n\n\n\n\n\n\n\n\nApr 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nNew site and domain\n\n\n\n\n\n\n\nnews\n\n\nsite\n\n\n\n\nW3TM.org is now mine and will eventually be my web ham home.\n\n\n\n\n\n\nApr 16, 2024\n\n\nRick Gilmore W3TM\n\n\n\n\n\n\n  \n\n\n\n\nMerging two hobbies\n\n\n\n\n\n\n\nkits\n\n\nastronomy\n\n\nantennas\n\n\n\n\nMy Radio JOVE radioastronomy kit arrived.\n\n\n\n\n\n\nMar 17, 2024\n\n\nRick Gilmore W3TM\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2024-03-17-radioJOVE.html",
@@ -222,5 +222,12 @@
     "title": "Bio",
     "section": "",
     "text": "I’ve wanted to be a ham since I was a teen.\nI started out as a shortwave listener with a long wire strung from my parents’ roof on our house in southwest Denver connected to a Yaesu FRG-7 receiver in my basement-level bedroom. Hearing the English language broadcast from Radio Tirana in Albania was one of the highlights.\nIn the spring of 1993, I got the ham bug again and studied for an passed my Technician Plus exam, including the 5 wpm code requirement. My call sign was N3QLO. But I had just gotten married and just started graduate school. So, I made one contact on a Radio Shack HT and largely forgot about ham radio. In fact, when my license renewal rolled around in 2003, I didn’t even bother to renew.\nThirteen years later, I’d gotten tenure, my kids were teens or out of the house, and I had a little more time and energy. I passed my Technician and General license exams in the summer of 2016, secured the vanity callsign K3ROG, and joined the Nittany Amateur Radio Club. This time, I made time for ham radio, and I’ve been rolling ever since. With the help of some study partners and my Elmer K3YV, I upgraded to Extra a year later.\nIn the winter of 2023, I changed callsigns again to W3TM, mostly on a lark. I saw that a call sign that was both phonetically short and CW-short was available, and so I decided to enter the call sign lottery when it became available. My understanding was that the chances were slim I would get the call sign, but I thought I would go for it anyway. Sure enough, there was only one other ham who was eligible, and I won the coin toss at the FCC. Ok, maybe they have a more sophisticated system of choosing randomly, but however it went down, whiskey-three-tango-mike was now my new call. And that call will remain until I am a silent key."
+  },
+  {
+    "objectID": "posts/2024-04-17-node-red/index.html",
+    "href": "posts/2024-04-17-node-red/index.html",
+    "title": "Back to Node-RED",
+    "section": "",
+    "text": "Some time back I played with Node-RED. I made some progress making use of an old Raspberry Pi 3B I had laying around, but then it fell by the wayside. Now, I’m back in the saddle.\nThe specific use case is switching my various Kasa/TP-Link outlets on and off. Yes, I can do that through the Kasa smartphone app, but I’d like to do it from my PC or Mac, too. TP-Link does not have a Windows 10/11 or MacOS app. So, Node-RED to the rescue.\nAlong the way, I’m also taking baby steps to implement other useful features like real-time propagation and weather data. In all honesty, it’s a little wonky. The Pi isn’t especially responsive, Node-RED works more smoothly in some browsers than others, and the visual “no-code” programming means lots of mousing. Sometimes I’d just rather type. But I’m getting things to work. And getting a cool UI to render is much easier than the alternatives."
   }
 ]
