@@ -1,0 +1,42 @@
+---
+title: "Practice makes 'perfect'"
+date: 2024-05-24
+categories:
+  - em-comm
+  - special-events
+  - vhf
+  - hf
+  - winlink
+  - ft-891
+  - ft-5d
+  - hamvention
+image: voodoo-post-event.jpeg
+---
+
+After a fantastic trip to [Hamvention](https://hamvention.org) last week, I'm back in the ham saddle again this week supporting two special events: A statewide mass casualty drill with the Red Cross and the [Trans-Sylvania Mountain Bike Epic](https://www.tsepicmtb.com).
+
+The Red Cross event involved deploying to a location in Milesburg, PA and setting up a remote station capable of sending and receiving Winlink messages.
+I used the Yaesu FT-891, an Evolve III (12 V) notebook, a SOTABeams 20m/40m linked dipole, and a SOTABeams portable mast with a drive-on mount.
+Two 60 W solar panels kept the Bioenno 40 Ah battery charged.
+Band conditions were *much* better than the dry run two week ago.
+Geography made a VHF Winlink connection to the W3SWL-10 node unlikely, so we had to use a hotspot and Telnet.
+Yesterday, however, we were successful in sending three Winlink messages on 40 m.
+We also used the W3GA (146.76) repeater for local communication.
+It was very hot, so we were glad for the shade of the popup and the AC and tasty lunch ready for us inside the Milesburg Community Center.
+
+![Communications station outside the Milesburg Community Center](milesburg-em-comm-station.jpeg)
+
+The post-event beverage at Voodoo Brewing Company made it an especially excellent day.
+
+Today, I supported Stage 4/2 of the [Trans-Sylvania Mountain Bike Epic](https://www.tsepicmtb.com) by providing communications at Aid Station 1.
+The humidity and temperature had dropped from earlier in the week, and so it was fun to support the cyclists participating in the event using the new Yaesu FT-5DR I acquired at Hamvention.
+Aside from some differing opinions about my audio quality, I really like the rig.
+I got there early, and that gave me time to try-out the KX-2 and a new Jackite 31' pole that also followed me home from Hamvention.
+
+![Jackite 31' pole deployed near Bear Meadows](jackite-pole.jpeg)
+
+Both events provide outstanding opportunities to play radio and practice setting them up and taking them down.
+Every time I do this, I learn something.
+I'm no where near perfect, but I am getting better.
+Or as K3YV might say, 'more gooder.'
+

@@ -2,42 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://w3tm.org/workbench.html</loc>
-    <lastmod>2024-03-18T19:22:02.383Z</lastmod>
+    <lastmod>2024-05-24T18:24:06.816Z</lastmod>
   </url>
   <url>
     <loc>https://w3tm.org/posts/new-site-domain.html</loc>
-    <lastmod>2024-03-18T19:22:01.636Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/organizations.html</loc>
-    <lastmod>2024-03-18T19:22:00.938Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/events.html</loc>
-    <lastmod>2024-03-18T19:21:59.902Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/about.html</loc>
-    <lastmod>2024-03-18T19:21:59.101Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/education.html</loc>
-    <lastmod>2024-03-18T19:21:59.490Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/index.html</loc>
-    <lastmod>2024-04-17T21:37:28.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/posts/2024-03-17-radioJOVE.html</loc>
-    <lastmod>2024-04-17T21:32:44.825Z</lastmod>
-  </url>
-  <url>
-    <loc>https://w3tm.org/preface.html</loc>
-    <lastmod>2024-03-18T19:22:01.994Z</lastmod>
+    <lastmod>2024-05-24T18:24:06.070Z</lastmod>
   </url>
   <url>
     <loc>https://w3tm.org/posts/2024-04-17-node-red/index.html</loc>
-    <lastmod>2024-04-17T21:37:28.389Z</lastmod>
+    <lastmod>2024-05-24T18:24:05.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/organizations.html</loc>
+    <lastmod>2024-05-24T18:24:04.569Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/events.html</loc>
+    <lastmod>2024-05-24T18:24:03.381Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/about.html</loc>
+    <lastmod>2024-05-24T18:24:02.527Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/education.html</loc>
+    <lastmod>2024-05-24T18:24:02.899Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/index.html</loc>
+    <lastmod>2024-05-24T18:24:04.171Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/posts/2024-03-17-radioJOVE.html</loc>
+    <lastmod>2024-05-24T18:24:04.975Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/posts/2024-05-24-em-comm/index.html</loc>
+    <lastmod>2024-05-24T18:24:05.739Z</lastmod>
+  </url>
+  <url>
+    <loc>https://w3tm.org/preface.html</loc>
+    <lastmod>2024-05-24T18:24:06.425Z</lastmod>
   </url>
 </urlset>
