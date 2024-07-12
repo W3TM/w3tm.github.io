@@ -4,3 +4,6 @@
 .Ruserdata
 w3tm.github.io.Rproj
 .DS_Store
+docs
+
+/.quarto/
