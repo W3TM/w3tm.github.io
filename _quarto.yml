@@ -1,9 +1,12 @@
 project:
   type: website
-  output-dir: "../docs"
   render:
     - "*.qmd"
     - "posts/*.qmd"
+
+execute:
+  freeze: auto
+  
 website:
   title: "W3TM"
   site-url: https://w3tm.org

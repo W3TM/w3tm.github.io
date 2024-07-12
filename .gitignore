@@ -5,5 +5,5 @@
 w3tm.github.io.Rproj
 .DS_Store
 docs
-
+_site
 /.quarto/
