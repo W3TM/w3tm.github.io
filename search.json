@@ -49,74 +49,67 @@
     "text": "Hi, everyone. I grabbed the W3TM.org domain from name.com. Interestingly, W3TM.com was not available. That is a possibly interesting and longer story that I imagine could involve the former holder of this callsign.\nI migrated the site from some older code, and borrowed heavily for formatting ideas from the excellent Quarto site.\nThis will be the new home for documenting ham web activities once I get the site in good shape. Until then, I’ll be testing use of the GitHub pages site building feature. That means the site will live at https://w3tm.github.io for a bit."
   },
   {
-    "objectID": "posts/2024-05-24-em-comm/index.html",
-    "href": "posts/2024-05-24-em-comm/index.html",
-    "title": "Practice makes ‘perfect’",
+    "objectID": "posts/2024-07-12-summertime/index.html",
+    "href": "posts/2024-07-12-summertime/index.html",
+    "title": "Summertime…livin’ ain’t so easy",
     "section": "",
-    "text": "After a fantastic trip to Hamvention last week, I’m back in the ham saddle again this week supporting two special events: A statewide mass casualty drill with the Red Cross and the Trans-Sylvania Mountain Bike Epic.\nThe Red Cross event involved deploying to a location in Milesburg, PA and setting up a remote station capable of sending and receiving Winlink messages. I used the Yaesu FT-891, an Evolve III (12 V) notebook, a SOTABeams 20m/40m linked dipole, and a SOTABeams portable mast with a drive-on mount. Two 60 W solar panels kept the Bioenno 40 Ah battery charged. Band conditions were much better than the dry run two week ago. Geography made a VHF Winlink connection to the W3SWL-10 node unlikely, so we had to use a hotspot and Telnet. Yesterday, however, we were successful in sending three Winlink messages on 40 m. We also used the W3GA (146.76) repeater for local communication. It was very hot, so we were glad for the shade of the popup and the AC and tasty lunch ready for us inside the Milesburg Community Center.\n\n\n\nCommunications station outside the Milesburg Community Center\n\n\nThe post-event beverage at Voodoo Brewing Company made it an especially excellent day.\nToday, I supported Stage 4/2 of the Trans-Sylvania Mountain Bike Epic by providing communications at Aid Station 1. The humidity and temperature had dropped from earlier in the week, and so it was fun to support the cyclists participating in the event using the new Yaesu FT-5DR I acquired at Hamvention. Aside from some differing opinions about my audio quality, I really like the rig. I got there early, and that gave me time to try-out the KX-2 and a new Jackite 31’ pole that also followed me home from Hamvention.\n\n\n\nJackite 31’ pole deployed near Bear Meadows\n\n\nBoth events provide outstanding opportunities to play radio and practice setting them up and taking them down. Every time I do this, I learn something. I’m no where near perfect, but I am getting better. Or as K3YV might say, ‘more gooder.’"
+    "text": "I thought this would be a quiet summer. I thought wrong. Let’s just say that one thing led to another. But, I did get to enjoy our glorious hobby from time to time.\nMy club held Field Day at our mountaintop shack in the middle of a heatwave. A few crazies operated portable, but within the 500’ radius permitted under the ARRL rules.\n\n\n\nNARC Info Table\n\n\n\nMichelle helped support the Ironman Happy Valley 70.3 event. I fried my Yaesu FTM-400XDR in the process, but plan to repurpose it as a dedicated APRS digipeater.\nAnd I reorganized the entire shack…again.\nTime for a vacation?"
   },
   {
-    "objectID": "posts/2024-03-17-radioJOVE.html",
-    "href": "posts/2024-03-17-radioJOVE.html",
-    "title": "Merging two hobbies",
+    "objectID": "posts/2024-04-17-node-red/index.html",
+    "href": "posts/2024-04-17-node-red/index.html",
+    "title": "Back to Node-RED",
     "section": "",
-    "text": "https://radiojove.gsfc.nasa.gov/newsletters/2023Dec/index.html#10\n\n\nI have recently rejoined the Central Pennsylania Observers (CPO), our local amateur astronomy club. Back in the late 1990s, I built a 6” Dobsonian telescope with several other club members. It was a blast.\nThe club is gearing up for multiple activities in 2024, including a trip to Erie, PA to watch the eclipse.\nOne of the activities involves encouraging members to build home radiotelescopes and to contribute data to the Radio JOVE project. So, I ordered the kit, and it arrived late last week.\nThe kit consists of a pair of dipole antennas tuned to ~20 MHz, a combiner, some coax feed lines and phasing lines, and a software defined radio (SDR). If I have time to put the pieces together before April 8, but if not, I’ll get it online in the next couple of months.\nI love the project for many reasons not least of which is the fact that it combines two of my favorite hobbies. Now, if I could just figure out how to combine ham radio and banjos."
+    "text": "Some time back I played with Node-RED. I made some progress making use of an old Raspberry Pi 3B I had laying around, but then it fell by the wayside. Now, I’m back in the saddle.\nThe specific use case is switching my various Kasa/TP-Link outlets on and off. Yes, I can do that through the Kasa smartphone app, but I’d like to do it from my PC or Mac, too. TP-Link does not have a Windows 10/11 or MacOS app. So, Node-RED to the rescue.\nAlong the way, I’m also taking baby steps to implement other useful features like real-time propagation and weather data. In all honesty, it’s a little wonky. The Pi isn’t especially responsive, Node-RED works more smoothly in some browsers than others, and the visual “no-code” programming means lots of mousing. Sometimes I’d just rather type. But I’m getting things to work. And getting a cool UI to render is much easier than the alternatives."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "QTH",
+    "objectID": "organizations.html",
+    "href": "organizations.html",
+    "title": "Organizations",
     "section": "",
-    "text": "QTH is a “Q”-code meaning home location. This page is the home for my blog and ham radio website.\n\n\n\nW3TM QSL card\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSummertime…livin’ ain’t so easy\n\n\n\n\n\n\nem-comm\n\n\nspecial-events\n\n\nvhf\n\n\nhf\n\n\nwinlink\n\n\nft-891\n\n\nft-5d\n\n\nfield-day\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPractice makes ‘perfect’\n\n\n\n\n\n\nem-comm\n\n\nspecial-events\n\n\nvhf\n\n\nhf\n\n\nwinlink\n\n\nft-891\n\n\nft-5d\n\n\nhamvention\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBack to Node-RED\n\n\n\n\n\n\nnode-RED\n\n\nautomation\n\n\n\n\n\n\n\n\n\nApr 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew site and domain\n\n\n\n\n\n\nnews\n\n\nsite\n\n\n\nW3TM.org is now mine and will eventually be my web ham home.\n\n\n\n\n\nApr 16, 2024\n\n\nRick Gilmore W3TM\n\n\n\n\n\n\n\n\n\n\n\n\nMerging two hobbies\n\n\n\n\n\n\nkits\n\n\nastronomy\n\n\nantennas\n\n\n\nMy Radio JOVE radioastronomy kit arrived.\n\n\n\n\n\nMar 17, 2024\n\n\nRick Gilmore W3TM\n\n\n\n\n\n\nNo matching items"
+    "text": "Amateur radio has so many ways to be “radio-active”. Here are some of the ways I enjoy engaging in our amazing hobby with groups of other hams."
   },
   {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education",
-    "section": "",
-    "text": "A ham radio license is really a license to learn. As a teacher and researcher and the son of two public school educators, I’m committed to learning and helping others do so, too."
+    "objectID": "organizations.html#nittany-amateur-radio-club-narc",
+    "href": "organizations.html#nittany-amateur-radio-club-narc",
+    "title": "Organizations",
+    "section": "Nittany Amateur Radio Club (NARC)",
+    "text": "Nittany Amateur Radio Club (NARC)\nI have been a member of NARC since 2016. I help maintain the club’s station on top of Pine Grove Mountain, and I have served on the Board of Directors since 2020.\nI was named the Ham of the Year (HOTY) for 2019, probably the last time I’ll ever be considered a “hottie”.\nMostly to provide entertainment at our December banquet, the club gave me a special award in 2023 for work above and beyond the call of toilet duty in servicing our porta potty prior to Field Day 2023. It’s a dirty job, but someone has to do it. And since I use the thing more often than most, believe me, it’s self-serving.\nNARC has a groups.io site at https://groups.io/g/Nittany-ARC.\n\nMountaintop Station\nI’ve been trying to do a better job documenting various aspects of our club station.\n\nEquipment and software change log: https://docs.google.com/document/d/1yz_meW9ClsBc88PyoOBWdVERrryEH91LUFfP03dS5sA/edit?usp=sharing\nGear test procedure: https://docs.google.com/document/d/1YDaIzTzuXVjZG-uItH005L9bOHdSbedHa-COrfyXzE0/edit?usp=sharing\n\nAnd a new Quarto-ized website/manual:\n\nhttps://nittany-amateur-radio-club.github.io/clubhouse"
   },
   {
-    "objectID": "education.html#arrl-coordinating-volunteer-examiner-cve",
-    "href": "education.html#arrl-coordinating-volunteer-examiner-cve",
-    "title": "Education",
-    "section": "ARRL Coordinating Volunteer Examiner (CVE)",
-    "text": "ARRL Coordinating Volunteer Examiner (CVE)\nAs of September 2023, I assumed the Coordinating Volunteer Examiner (CVE) role from K3YV. We have moved our exams to the ARRL-VEC.\nI’m pleased to say that our team has “minted” almost 10 hams in just a few short months. The pace appears to be picking up.\n\n\n\n\n\n\nNote\n\n\n\nIf you are interested in taking a ham radio exam, please get in touch.\nWe offer in-person testing sessions before most NARC monthly meetings on the 2nd Tuesday of the month at the South Hills School of Business and Technology in State College, PA."
+    "objectID": "organizations.html#american-radio-relay-league-arrl",
+    "href": "organizations.html#american-radio-relay-league-arrl",
+    "title": "Organizations",
+    "section": "American Radio Relay League (ARRL)",
+    "text": "American Radio Relay League (ARRL)\nI am an active member of the ARRL, and receive email from the ARRL reflector using my_callsign@arrl.net."
   },
   {
-    "objectID": "education.html#w5yi-ve",
-    "href": "education.html#w5yi-ve",
-    "title": "Education",
-    "section": "W5YI VE",
-    "text": "W5YI VE\nI was a volunteer examiner (VE) for several years via the W5YI-VEC and continue with active credentials."
+    "objectID": "organizations.html#amateur-radio-emergency-service-ares",
+    "href": "organizations.html#amateur-radio-emergency-service-ares",
+    "title": "Organizations",
+    "section": "Amateur Radio Emergency Service (ARES)",
+    "text": "Amateur Radio Emergency Service (ARES)\nI participate in the weekly (Sunday night, 9:00 pm local time) ARES net on the W3YA 146.85 repeater as a participating station and as a net control station. Here are some upcoming dates when I will serve as net control:\n\n\n\nDate\n\n\n\n\n21 April 2024\n\n\n9 June 2024\n\n\n28 June 2024\n\n\n\nHere is a link to the roster.\nIn addition, I enjoy providing communications for various special events via the ARES organization."
   },
   {
-    "objectID": "education.html#narc-elmering-committee",
-    "href": "education.html#narc-elmering-committee",
-    "title": "Education",
-    "section": "NARC Elmering Committee",
-    "text": "NARC Elmering Committee\nNARC has formed a new committee to help new hams get started. There will be more to say about this very soon, I’m sure."
+    "objectID": "organizations.html#penn-state-amateur-radio-club-psarc",
+    "href": "organizations.html#penn-state-amateur-radio-club-psarc",
+    "title": "Organizations",
+    "section": "Penn State Amateur Radio Club (PSARC)",
+    "text": "Penn State Amateur Radio Club (PSARC)\nFor several years, I served as the faculty adviser for the Penn State ARC, and as trustee for the K3CR repeaters. Dave Cubanski has now taken over those duties."
   },
   {
-    "objectID": "education.html#new-ham-book",
-    "href": "education.html#new-ham-book",
-    "title": "Education",
-    "section": "New Ham Book",
-    "text": "New Ham Book\nJust for fun, I’ve started working on an electronic (web) book for new hams. The target audience was initially Penn State ARC members who aren’t (yet) licensed. But I am expanding it to be suitable for a wide range of folks who aren’t yet hams.\nYou can find the work-in-progress here:\nhttps://w3tm.org/new-ham-book/\nComments are welcome!"
+    "objectID": "organizations.html#quarter-century-wireless-association-qcwa",
+    "href": "organizations.html#quarter-century-wireless-association-qcwa",
+    "title": "Organizations",
+    "section": "Quarter Century Wireless Association (QCWA)",
+    "text": "Quarter Century Wireless Association (QCWA)\nOur local QCWA Chapter 203 has a weekly net on Sunday nights at 8:30 PM local time on the W3YA 146.85 MHz (-600 kHz; 146.2 Hz) repeater. I am one of the net control stations."
   },
   {
-    "objectID": "education.html#automatic-packet-reporting-system-aprs",
-    "href": "education.html#automatic-packet-reporting-system-aprs",
-    "title": "Education",
-    "section": "Automatic Packet Reporting System (APRS)",
-    "text": "Automatic Packet Reporting System (APRS)\nI operate a receive-only VHF (144.390 MHz) I-Gate under the callsign W3TM-11.\n\n\n\nW3TM-11 APRS I-Gate traffic for March 2024 from https://aprs.fi/#!z=11&v=gated&ym=202403&call=a%2FW3TM-11&timerange=3600&tail=3600\n\n\nIn December 2023, I started experimenting with supporting APRS-tt using the Direwolf software TNC. Early experiments look promising. We’re discussing setting up a network of APRS-tt iGates to provide better receive coverage in our very hilly area."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "WTH?",
-    "section": "",
-    "text": "My name is Rick Gilmore. My callsign is W3TM. I am an FCC-licensed amateur radio operator, otherwise known as a ham.\nNot HAM. It’s not an abbreviation. Yes, people still do that. It’s an amazing hobby. Why is it called “ham” radio? There are lots of stories, but no one is sure. But if you’re a ham, you’re a ham all the way…\nThis site describes some of my ham radio activities."
+    "objectID": "organizations.html#pennsylvania-narrow-band-emergency-messaging-service-pa-nbems",
+    "href": "organizations.html#pennsylvania-narrow-band-emergency-messaging-service-pa-nbems",
+    "title": "Organizations",
+    "section": "Pennsylvania Narrow Band Emergency Messaging Service (PA NBEMS)",
+    "text": "Pennsylvania Narrow Band Emergency Messaging Service (PA NBEMS)\nWhen I have time, I check-in to the Sunday 7:30 am PA NBEMS digital modes net on 3.583 MHz. The net has a groups.io site at https://groups.io/g/panbems. The net uses THOR22 for check-ins and then traffic is passed using MFSK32 or THOR56.\nI’ve successfully checked in from Tioga County when on vacation there, and from home, sometimes running QRP.\nI have also checked-in to the New Jersey NBEMS net."
   },
   {
     "objectID": "events.html",
@@ -175,67 +168,81 @@
     "text": "Pride K3P\nWith several friends from our local ham community, I organized a special event station to celebrate Pride Month in Central PA in early June 2023. My W3TM-L Allstar/EchoLink node was active, and a group of us did a Parks on the Air (POTA) activation at Bald Eagle State Park. We also had a booth at the State College Pride festival.\n\n\n\nK3P QSL card"
   },
   {
-    "objectID": "organizations.html",
-    "href": "organizations.html",
-    "title": "Organizations",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "WTH?",
     "section": "",
-    "text": "Amateur radio has so many ways to be “radio-active”. Here are some of the ways I enjoy engaging in our amazing hobby with groups of other hams."
+    "text": "My name is Rick Gilmore. My callsign is W3TM. I am an FCC-licensed amateur radio operator, otherwise known as a ham.\nNot HAM. It’s not an abbreviation. Yes, people still do that. It’s an amazing hobby. Why is it called “ham” radio? There are lots of stories, but no one is sure. But if you’re a ham, you’re a ham all the way…\nThis site describes some of my ham radio activities."
   },
   {
-    "objectID": "organizations.html#nittany-amateur-radio-club-narc",
-    "href": "organizations.html#nittany-amateur-radio-club-narc",
-    "title": "Organizations",
-    "section": "Nittany Amateur Radio Club (NARC)",
-    "text": "Nittany Amateur Radio Club (NARC)\nI have been a member of NARC since 2016. I help maintain the club’s station on top of Pine Grove Mountain, and I have served on the Board of Directors since 2020.\nI was named the Ham of the Year (HOTY) for 2019, probably the last time I’ll ever be considered a “hottie”.\nMostly to provide entertainment at our December banquet, the club gave me a special award in 2023 for work above and beyond the call of toilet duty in servicing our porta potty prior to Field Day 2023. It’s a dirty job, but someone has to do it. And since I use the thing more often than most, believe me, it’s self-serving.\nNARC has a groups.io site at https://groups.io/g/Nittany-ARC.\n\nMountaintop Station\nI’ve been trying to do a better job documenting various aspects of our club station.\n\nEquipment and software change log: https://docs.google.com/document/d/1yz_meW9ClsBc88PyoOBWdVERrryEH91LUFfP03dS5sA/edit?usp=sharing\nGear test procedure: https://docs.google.com/document/d/1YDaIzTzuXVjZG-uItH005L9bOHdSbedHa-COrfyXzE0/edit?usp=sharing\n\nAnd a new Quarto-ized website/manual:\n\nhttps://nittany-amateur-radio-club.github.io/clubhouse"
-  },
-  {
-    "objectID": "organizations.html#american-radio-relay-league-arrl",
-    "href": "organizations.html#american-radio-relay-league-arrl",
-    "title": "Organizations",
-    "section": "American Radio Relay League (ARRL)",
-    "text": "American Radio Relay League (ARRL)\nI am an active member of the ARRL, and receive email from the ARRL reflector using my_callsign@arrl.net."
-  },
-  {
-    "objectID": "organizations.html#amateur-radio-emergency-service-ares",
-    "href": "organizations.html#amateur-radio-emergency-service-ares",
-    "title": "Organizations",
-    "section": "Amateur Radio Emergency Service (ARES)",
-    "text": "Amateur Radio Emergency Service (ARES)\nI participate in the weekly (Sunday night, 9:00 pm local time) ARES net on the W3YA 146.85 repeater as a participating station and as a net control station. Here are some upcoming dates when I will serve as net control:\n\n\n\nDate\n\n\n\n\n21 April 2024\n\n\n9 June 2024\n\n\n28 June 2024\n\n\n\nHere is a link to the roster.\nIn addition, I enjoy providing communications for various special events via the ARES organization."
-  },
-  {
-    "objectID": "organizations.html#penn-state-amateur-radio-club-psarc",
-    "href": "organizations.html#penn-state-amateur-radio-club-psarc",
-    "title": "Organizations",
-    "section": "Penn State Amateur Radio Club (PSARC)",
-    "text": "Penn State Amateur Radio Club (PSARC)\nFor several years, I served as the faculty adviser for the Penn State ARC, and as trustee for the K3CR repeaters. Dave Cubanski has now taken over those duties."
-  },
-  {
-    "objectID": "organizations.html#quarter-century-wireless-association-qcwa",
-    "href": "organizations.html#quarter-century-wireless-association-qcwa",
-    "title": "Organizations",
-    "section": "Quarter Century Wireless Association (QCWA)",
-    "text": "Quarter Century Wireless Association (QCWA)\nOur local QCWA Chapter 203 has a weekly net on Sunday nights at 8:30 PM local time on the W3YA 146.85 MHz (-600 kHz; 146.2 Hz) repeater. I am one of the net control stations."
-  },
-  {
-    "objectID": "organizations.html#pennsylvania-narrow-band-emergency-messaging-service-pa-nbems",
-    "href": "organizations.html#pennsylvania-narrow-band-emergency-messaging-service-pa-nbems",
-    "title": "Organizations",
-    "section": "Pennsylvania Narrow Band Emergency Messaging Service (PA NBEMS)",
-    "text": "Pennsylvania Narrow Band Emergency Messaging Service (PA NBEMS)\nWhen I have time, I check-in to the Sunday 7:30 am PA NBEMS digital modes net on 3.583 MHz. The net has a groups.io site at https://groups.io/g/panbems. The net uses THOR22 for check-ins and then traffic is passed using MFSK32 or THOR56.\nI’ve successfully checked in from Tioga County when on vacation there, and from home, sometimes running QRP.\nI have also checked-in to the New Jersey NBEMS net."
-  },
-  {
-    "objectID": "posts/2024-04-17-node-red/index.html",
-    "href": "posts/2024-04-17-node-red/index.html",
-    "title": "Back to Node-RED",
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
     "section": "",
-    "text": "Some time back I played with Node-RED. I made some progress making use of an old Raspberry Pi 3B I had laying around, but then it fell by the wayside. Now, I’m back in the saddle.\nThe specific use case is switching my various Kasa/TP-Link outlets on and off. Yes, I can do that through the Kasa smartphone app, but I’d like to do it from my PC or Mac, too. TP-Link does not have a Windows 10/11 or MacOS app. So, Node-RED to the rescue.\nAlong the way, I’m also taking baby steps to implement other useful features like real-time propagation and weather data. In all honesty, it’s a little wonky. The Pi isn’t especially responsive, Node-RED works more smoothly in some browsers than others, and the visual “no-code” programming means lots of mousing. Sometimes I’d just rather type. But I’m getting things to work. And getting a cool UI to render is much easier than the alternatives."
+    "text": "A ham radio license is really a license to learn. As a teacher and researcher and the son of two public school educators, I’m committed to learning and helping others do so, too."
   },
   {
-    "objectID": "posts/2024-07-12-summertime/index.html",
-    "href": "posts/2024-07-12-summertime/index.html",
-    "title": "Summertime…livin’ ain’t so easy",
+    "objectID": "education.html#arrl-coordinating-volunteer-examiner-cve",
+    "href": "education.html#arrl-coordinating-volunteer-examiner-cve",
+    "title": "Education",
+    "section": "ARRL Coordinating Volunteer Examiner (CVE)",
+    "text": "ARRL Coordinating Volunteer Examiner (CVE)\nAs of September 2023, I assumed the Coordinating Volunteer Examiner (CVE) role from K3YV. We have moved our exams to the ARRL-VEC.\nI’m pleased to say that our team has “minted” almost 10 hams in just a few short months. The pace appears to be picking up.\n\n\n\n\n\n\nNote\n\n\n\nIf you are interested in taking a ham radio exam, please get in touch.\nWe offer in-person testing sessions before most NARC monthly meetings on the 2nd Tuesday of the month at the South Hills School of Business and Technology in State College, PA."
+  },
+  {
+    "objectID": "education.html#w5yi-ve",
+    "href": "education.html#w5yi-ve",
+    "title": "Education",
+    "section": "W5YI VE",
+    "text": "W5YI VE\nI was a volunteer examiner (VE) for several years via the W5YI-VEC and continue with active credentials."
+  },
+  {
+    "objectID": "education.html#narc-elmering-committee",
+    "href": "education.html#narc-elmering-committee",
+    "title": "Education",
+    "section": "NARC Elmering Committee",
+    "text": "NARC Elmering Committee\nNARC has formed a new committee to help new hams get started. There will be more to say about this very soon, I’m sure."
+  },
+  {
+    "objectID": "education.html#new-ham-book",
+    "href": "education.html#new-ham-book",
+    "title": "Education",
+    "section": "New Ham Book",
+    "text": "New Ham Book\nJust for fun, I’ve started working on an electronic (web) book for new hams. The target audience was initially Penn State ARC members who aren’t (yet) licensed. But I am expanding it to be suitable for a wide range of folks who aren’t yet hams.\nYou can find the work-in-progress here:\nhttps://w3tm.org/new-ham-book/\nComments are welcome!"
+  },
+  {
+    "objectID": "education.html#automatic-packet-reporting-system-aprs",
+    "href": "education.html#automatic-packet-reporting-system-aprs",
+    "title": "Education",
+    "section": "Automatic Packet Reporting System (APRS)",
+    "text": "Automatic Packet Reporting System (APRS)\nI operate a receive-only VHF (144.390 MHz) I-Gate under the callsign W3TM-11.\n\n\n\nW3TM-11 APRS I-Gate traffic for March 2024 from https://aprs.fi/#!z=11&v=gated&ym=202403&call=a%2FW3TM-11&timerange=3600&tail=3600\n\n\nIn December 2023, I started experimenting with supporting APRS-tt using the Direwolf software TNC. Early experiments look promising. We’re discussing setting up a network of APRS-tt iGates to provide better receive coverage in our very hilly area."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "QTH",
     "section": "",
-    "text": "I thought this would be a quiet summer. I thought wrong. Let’s just say that one thing led to another. But, I did get to enjoy our glorious hobby from time to time.\nMy club held Field Day at our mountaintop shack in the middle of a heatwave. A few crazies operated portable, but within the 500’ radius permitted under the ARRL rules.\n\n\n\nNARC Info Table\n\n\n\nMichelle helped support the Ironman Happy Valley 70.3 event. I fried my Yaesu FTM-400XDR in the process, but plan to repurpose it as a dedicated APRS digipeater.\nAnd I reorganized the entire shack…again.\nTime for a vacation?"
+    "text": "QTH is a “Q”-code meaning home location. This page is the home for my blog and ham radio website.\n\n\n\nW3TM QSL card\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDigiPi, Oh My\n\n\n\n\n\n\nvhf\n\n\nhf\n\n\nwinlink\n\n\naprs\n\n\nic-705\n\n\n\n\n\n\n\n\n\nNov 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSummertime…livin’ ain’t so easy\n\n\n\n\n\n\nem-comm\n\n\nspecial-events\n\n\nvhf\n\n\nhf\n\n\nwinlink\n\n\nft-891\n\n\nft-5d\n\n\nfield-day\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPractice makes ‘perfect’\n\n\n\n\n\n\nem-comm\n\n\nspecial-events\n\n\nvhf\n\n\nhf\n\n\nwinlink\n\n\nft-891\n\n\nft-5d\n\n\nhamvention\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBack to Node-RED\n\n\n\n\n\n\nnode-RED\n\n\nautomation\n\n\n\n\n\n\n\n\n\nApr 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew site and domain\n\n\n\n\n\n\nnews\n\n\nsite\n\n\n\nW3TM.org is now mine and will eventually be my web ham home.\n\n\n\n\n\nApr 16, 2024\n\n\nRick Gilmore W3TM\n\n\n\n\n\n\n\n\n\n\n\n\nMerging two hobbies\n\n\n\n\n\n\nkits\n\n\nastronomy\n\n\nantennas\n\n\n\nMy Radio JOVE radioastronomy kit arrived.\n\n\n\n\n\nMar 17, 2024\n\n\nRick Gilmore W3TM\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2024-03-17-radioJOVE.html",
+    "href": "posts/2024-03-17-radioJOVE.html",
+    "title": "Merging two hobbies",
+    "section": "",
+    "text": "https://radiojove.gsfc.nasa.gov/newsletters/2023Dec/index.html#10\n\n\nI have recently rejoined the Central Pennsylania Observers (CPO), our local amateur astronomy club. Back in the late 1990s, I built a 6” Dobsonian telescope with several other club members. It was a blast.\nThe club is gearing up for multiple activities in 2024, including a trip to Erie, PA to watch the eclipse.\nOne of the activities involves encouraging members to build home radiotelescopes and to contribute data to the Radio JOVE project. So, I ordered the kit, and it arrived late last week.\nThe kit consists of a pair of dipole antennas tuned to ~20 MHz, a combiner, some coax feed lines and phasing lines, and a software defined radio (SDR). If I have time to put the pieces together before April 8, but if not, I’ll get it online in the next couple of months.\nI love the project for many reasons not least of which is the fact that it combines two of my favorite hobbies. Now, if I could just figure out how to combine ham radio and banjos."
+  },
+  {
+    "objectID": "posts/2024-05-24-em-comm/index.html",
+    "href": "posts/2024-05-24-em-comm/index.html",
+    "title": "Practice makes ‘perfect’",
+    "section": "",
+    "text": "After a fantastic trip to Hamvention last week, I’m back in the ham saddle again this week supporting two special events: A statewide mass casualty drill with the Red Cross and the Trans-Sylvania Mountain Bike Epic.\nThe Red Cross event involved deploying to a location in Milesburg, PA and setting up a remote station capable of sending and receiving Winlink messages. I used the Yaesu FT-891, an Evolve III (12 V) notebook, a SOTABeams 20m/40m linked dipole, and a SOTABeams portable mast with a drive-on mount. Two 60 W solar panels kept the Bioenno 40 Ah battery charged. Band conditions were much better than the dry run two week ago. Geography made a VHF Winlink connection to the W3SWL-10 node unlikely, so we had to use a hotspot and Telnet. Yesterday, however, we were successful in sending three Winlink messages on 40 m. We also used the W3GA (146.76) repeater for local communication. It was very hot, so we were glad for the shade of the popup and the AC and tasty lunch ready for us inside the Milesburg Community Center.\n\n\n\nCommunications station outside the Milesburg Community Center\n\n\nThe post-event beverage at Voodoo Brewing Company made it an especially excellent day.\nToday, I supported Stage 4/2 of the Trans-Sylvania Mountain Bike Epic by providing communications at Aid Station 1. The humidity and temperature had dropped from earlier in the week, and so it was fun to support the cyclists participating in the event using the new Yaesu FT-5DR I acquired at Hamvention. Aside from some differing opinions about my audio quality, I really like the rig. I got there early, and that gave me time to try-out the KX-2 and a new Jackite 31’ pole that also followed me home from Hamvention.\n\n\n\nJackite 31’ pole deployed near Bear Meadows\n\n\nBoth events provide outstanding opportunities to play radio and practice setting them up and taking them down. Every time I do this, I learn something. I’m no where near perfect, but I am getting better. Or as K3YV might say, ‘more gooder.’"
+  },
+  {
+    "objectID": "posts/2024-11-13-digipi/index.html",
+    "href": "posts/2024-11-13-digipi/index.html",
+    "title": "DigiPi, Oh My",
+    "section": "",
+    "text": "One of my news feeds featured an announcement about a new version of the DigiPi software.\nI ordered a new Pi Zero 2W, dug a micro SD card out of a drawer, and connected it to my IC-705.\nOh my, this is going to be fun: APRS messaging, iGate, Winlink via Pat, and if I have an HF antenna, FT8, JS8Call, and fldigi.\nThe Pi serves all of this through a web browser.\nI’ve put a very minimal set of how-to steps in my shack guide.\nNext on the agenda is to try interfacing the DigiRig with the IC-705 via wifi. Since the configuration options aren’t especially accessible, this may necessitate flashing a new micro SD card. But it would save a cable."
   },
   {
     "objectID": "preface.html",
