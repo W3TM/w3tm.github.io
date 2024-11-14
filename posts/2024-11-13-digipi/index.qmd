@@ -1,0 +1,22 @@
+---
+title: "DigiPi, Oh My"
+date: 2024-11-13
+categories:
+  - vhf
+  - hf
+  - winlink
+  - aprs
+  - ic-705
+---
+
+![](../../img/digipi-service-pat.png)
+
+One of my news feeds featured an announcement about a new version of the [DigiPi](https://digipi.org) software.
+
+I ordered a new Pi Zero 2W, dug a micro SD card out of a drawer, and connected it to my IC-705.
+
+Oh my, this is going to be fun: APRS messaging, iGate, Winlink via Pat, and if I have an HF antenna, FT8, JS8Call, and fldigi.
+
+The Pi serves all of this through a web browser.
+
+I've put a very minimal set of [how-to steps](https://w3tm.github.io/shack/ic-705.html#digipi) in my shack guide.
