@@ -20,3 +20,9 @@ Oh my, this is going to be fun: APRS messaging, iGate, Winlink via Pat, and if I
 The Pi serves all of this through a web browser.
 
 I've put a very minimal set of [how-to steps](https://w3tm.github.io/shack/ic-705.html#digipi) in my shack guide.
+
+Next on the agenda is to try interfacing the DigiRig with the IC-705 via wifi.
+Since the configuration options aren't especially accessible, this may necessitate flashing a new micro SD card.
+But it would save a cable.
+
+
