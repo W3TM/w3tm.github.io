@@ -2,6 +2,10 @@
 title: "Organizations"
 format: html
 editor: source
+params:
+  google_log_fn: "ham-exam-candidates"
+  csv_log_fn: "ham-exams.csv"
+  save_path: "include/csv"
 ---
 
 Amateur radio has so many ways to be "radio-active". 
@@ -20,7 +24,7 @@ And since I use the thing more often than most, believe me, it's self-serving.
 
 [NARC](https://nittany-arc.net) has a groups.io site at <https://groups.io/g/Nittany-ARC>.
 
-### Mountaintop Station
+### NARC Mountaintop Station
 
 I've been trying to do a better job documenting various aspects of our club station.
 
@@ -29,7 +33,66 @@ I've been trying to do a better job documenting various aspects of our club stat
 
 And a new Quarto-ized website/manual:
 
-- <https://nittany-amateur-radio-club.github.io/clubhouse>
+- <https://nittany-amateur-radio-club.github.io/station>
+
+### Ham exams
+
+I am the Volunteer Examiner (VE) Liaison for ham exams. The following shows some data about the exams I have coordinated since I took over these duties from K3YV in the fall of 2023.
+
+```{r}
+#| label: download-ham-exam-stats
+#| echo: false
+#| include: false
+
+suppressPackageStartupMessages("ggplot2")
+suppressPackageStartupMessages("dplyr")
+library(ggplot2)
+
+if (!dir.exists('include/csv')) {
+  message("Creating missing `include/csv/`.")
+  dir.create("include/csv")
+}
+
+options(gargle_oauth_email = Sys.getenv("GMAIL_SURVEY"))
+googledrive::drive_auth()
+
+assertthat::is.string(params$google_log_fn)
+assertthat::is.string(params$csv_log_fn)
+save_path <- file.path("include", "csv")
+assertthat::is.writeable(save_path)
+full_fn <- file.path(save_path, params$csv_log_fn)
+
+googledrive::drive_download(
+  params$google_log_fn,
+  path = full_fn,
+  type = "csv",
+  overwrite = TRUE
+)
+```
+
+```{r}
+#| label: clean-exam-stats
+#| echo: false
+exams <- readr::read_csv(full_fn, show_col_types = FALSE)
+```
+
+Since `r unique(min(exams$exam_date))`, our team has administered *n*= `r dim(exams)[1]` exams to *n*= `r length(unique(exams$last))` candidates.
+
+Here is the distribution of successful exams by class.
+
+```{r}
+#| label: fig-ham-exam-stats
+#| fig-cap: "Ham exams statistics"
+#| echo: false
+exams |>
+  dplyr::filter(!is.na(earned)) |>
+  dplyr::count(earned) |>
+  ggplot() +
+  aes(x = earned, y = n) +
+  geom_col() +
+  theme_classic() +
+  scale_y_continuous(limits = c(0, 15), breaks = c(0, 5, 10, 15))
+```
 
 ## American Radio Relay League (ARRL)
 
@@ -67,4 +130,3 @@ When I have time, I check-in to the Sunday 7:30 am PA NBEMS digital modes net on
 I've successfully checked in from Tioga County when on vacation there, and from home, sometimes running QRP.
 
 I have also checked-in to the New Jersey NBEMS net.
-
