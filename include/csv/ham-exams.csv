@@ -1,8 +1,22 @@
 last,first,email,callsign_before,exam_date,status,earned,comment,current_callsign
-Costlow,Evan,costlowevan@gmail.com,none,2025-March,pending,,,
-Vardian,Zachary,zvardian@gmail.com,none,2025-02-11,passed,technician,,
-Pagano,Nicholas,,none,2025-02-11,passed,technician,,
-Boor,Robert,rdb2@psu.edu,none,2025-02-11,passed,technician,,
+Stanton,Peggy,,none,2025-05-03,passed,technician,,
+Rios,Ashley,,none,2025-05-03,passed,technician,,
+Slowikowski,Thomas,,none,2025-05-03,passed,technician,,
+Hartsock,Scott,,none,2025-05-03,passed,technician,,
+Maatta,Joanna,,none,2025-05-03,failed,,,
+Rothrock,John,,none,2025-05-03,passed,technician,,
+Campbell,Betsy,,none,2025-05-03,passed,technician,,
+Foltz,Eric,,none,2025-05-03,passed,technician,,
+Goslee,Sarah,,none,2025-05-03,passed,general,,
+Aycock,David,,none,2025-05-03,passed,technician,,
+Jaafar,Faisal,faisal.jag@gmail.com,A46RRR,,not_examined_yet,,,
+Lentz,Jeff's Wife,jff987@comcast.net,none,2025-05-13,not_examined_yet,,,
+Lentz,Jeff,jff987@comcast.net,none,2025-05-13,not_examined_yet,,,
+McHale,Matt,me@mmchale,none,2025-04-08,passed,technician,to ARRL 2025-04-09,KD3BAW
+Costlow,Evan,costlowevan@gmail.com,none,,not_examined_yet,,,
+Vardian,Zachary,zvardian@gmail.com,none,2025-02-11,passed,technician,,KD3APY
+Pagano,Nicholas,,none,2025-02-11,passed,technician,,KD3APX
+Boor,Robert,rdb2@psu.edu,none,2025-02-11,passed,technician,,KD3AQC
 Neff,Thomas,,KC7PYT,2024-11-12,passed,general,,W3TRN
 Harrison,Terry,,none,2024-11-12,passed,technician,,K3TPH
 Abbott,Harlan,,none,2024-11-12,passed,technician,expired,AC3NL

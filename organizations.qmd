@@ -5,6 +5,7 @@ editor: source
 params:
   google_log_fn: "ham-exam-candidates"
   csv_log_fn: "ham-exams.csv"
+  csv_ves_fn: "ham-exam-ves.csv"
   save_path: "include/csv"
 ---
 
@@ -68,15 +69,26 @@ googledrive::drive_download(
   type = "csv",
   overwrite = TRUE
 )
+
+googledrive::drive_download(
+  params$google_log_fn,
+  path = full_fn,
+  type = "csv",
+  overwrite = TRUE
+)
+
 ```
 
 ```{r}
 #| label: clean-exam-stats
 #| echo: false
 exams <- readr::read_csv(full_fn, show_col_types = FALSE)
+
+exams <- exams |>
+  dplyr::filter(!is.na(exam_date))
 ```
 
-Since `r unique(min(exams$exam_date))`, our team has administered *n*= `r dim(exams)[1]` exams to *n*= `r length(unique(exams$last))` candidates.
+Since `{r} unique(min(exams$exam_date, na.rm = TRUE))`, our team has administered *n*= `r dim(exams)[1]` exams to *n*= `r length(unique(exams$last))` candidates.
 
 Here is the distribution of successful exams by class.
 
@@ -88,11 +100,26 @@ exams |>
   dplyr::filter(!is.na(earned)) |>
   dplyr::count(earned) |>
   ggplot() +
-  aes(x = earned, y = n) +
+  aes(x = earned, y = n, fill = earned) +
   geom_col() +
-  theme_classic() +
-  scale_y_continuous(limits = c(0, 15), breaks = c(0, 5, 10, 15))
+  theme_classic()
+  #scale_y_continuous(limits = c(0, 15), breaks = c(0, 5, 10, 15, 20, 25))
 ```
+
+```{r}
+exams |>
+  dplyr::filter(!is.na(earned)) |>
+  dplyr::arrange(exam_date) |>
+  dplyr::count(earned, exam_date) |>
+  ggplot() +
+  aes(x = exam_date, y = n, fill = earned) +
+  #geom_point() +
+  geom_col(aes(group = earned)) +
+  ylim(0,10) + 
+  scale_y_continuous(breaks = 2:10)
+
+```
+
 
 ## American Radio Relay League (ARRL)
 
